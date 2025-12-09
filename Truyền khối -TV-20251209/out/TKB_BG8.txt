@@ -1,0 +1,1491 @@
+TRUYỀN KHỐI
+Bài giảng # 8
+
+Hấp Phụ và Trao Đổi Ion
+PGS. TS. Nguyễn Hữu Hiếu
+Bộ môn Quá Trình & Thiết Bị
+Khoa Kỹ Thuật Hóa Học
+Trường Đại Học Bách Khoa TP.HCM
+nhhieubk@hcmut.edu.vn
+
+1/104
+
+Nội dung
+8.1 Khái niệm
+8.2 Cân bằng hấp phụ đẳng nhiệt
+8.3 Hấp phụ theo bậc
+8.4 Hấp phụ tiếp xúc pha liên tục,
+không ổn định, tầng cố định
+8.5 Trao đổi ion
+8.6 Bài tập
+
+2/104
+
+A. Hấp phụ
+3/104
+
+8.1 Khái niệm:
+Hấp phụ (adsorption): quá trình hút chọn lọc các cấu tử trong pha khí
+hay pha lỏng lên bề mặt rắn.
+or Gas-solid interface
+
+Absorption
+
+Adsorption
+
+4/104
+
+8.1 Khái niệm: Ứng dụng quá trình hấp phụ
+❑ Pha khí
+▪ Làm khô (hút nước) không khí và
+các khí khác
+▪ Khử mùi và các chất không tinh
+khiết khỏi khí CO2
+▪ Thu hồi hơi dung môi có giá trị từ
+hỗn hợp loãng với không khí và các
+khí khác
+▪ Tách phân đoạn hỗn hợp
+hydrocarbon: metan, etylen, etan,
+propylene, và propan
+❑ Pha lỏng
+▪ Khử màu các sản phẩm dầu hỏa, dung dịch đường
+▪ Khử mùi, vị của nước
+▪ Tách phân đoạn hỗn hợp các hydrocarbon thơm và parafin
+5/104
+
+8.1 Khái niệm: Ứng dụng quá trình hấp phụ
+
+6/104
+
+8.1 Khái niệm: Ứng dụng quá trình hấp phụ
+
+7/104
+
+8.1 Khái niệm: Hấp phụ vs. trao đổi ion
+Quá trình hấp phụ: cho tiếp xúc hai pha không hòa tan gồm pha rắn (chất hấp phụadsorbent) và pha khí hay pha lỏng (chất bị hấp phụ-adsorbate). Chất bị hấp phụ sẽ đi
+từ pha lỏng hoặc pha khí đến pha rắn cho đến khi nồng độ của chất bị hấp phụ phân
+bố giữa hai pha đạt cân bằng.
+Quá trình trao đổi ion (ion exchange): quá trình lỏng-rắn, trao đổi thuận nghịch giữa
+một chất rắn và dung dịch điện giải (An electrolyte solution is a solution that generally
+contains ions, atoms or molecules that have lost or gained electrons, and is electrically
+conductive. For this reason they are often called ionic solutions, however there are
+some cases where the electrolytes are not ions.)
+Bản chất của quá trình trao đổi ion:
+▪ Sự tương tác hóa học của các ion với bề mặt chất rắn
+▪ Sự khuếch tán của các ion bên trong chất rắn
+So sánh:
+Quá trình
+
+Giống
+
+Khác
+
+Hấp phụ
+
+Kỹ thuật chung và
+kết quả tương tự
+
+Đơn giản
+
+Trao đổi ion
+
+Phức tạp
+
+8/104
+
+8.1 Khái niệm: Phân loại
+Hấp phụ vật lý/hấp phụ van der Waals (physical adsorption/physisorption): quá trình
+tương tác thuận nghịch của các lực hút giữa các phân tử của chất rắn và của chất bị
+hấp phụ. Ví dụ quá trình hấp phụ vật lý chất khí.
+▪ Bản chất của quá trình: khi lực hút tương tác giữa các phân tử chất rắn và chất khí
+lớn hơn lực hút giữa các phân tử chất khí thì chất khí sẽ ngưng tụ trên bề mặt chất
+rắn mặc dù áp suất của chất khí nhỏ hơn áp suất hơi ở cùng nhiệt độ.
+▪ Quá trình này sẽ phát ra lượng nhiệt lớn hơn ẩn nhiệt hóa hơi và gần bằng nhiệt
+thăng hoa của chất khí.
+▪ Chất khí không thấm vào mạng tinh thể mà chỉ bị giữ trên bề mặt của chất rắn.
+▪ Khi quá trình cân bằng: áp suất riêng
+phần của chất khí bị hấp phụ trên bề
+mặt chất rắn sẽ bằng với áp suất của
+chất pha khí. Nếu hạ áp suất pha khí
+hoặc tăng nhiệt độ thì sẽ xảy ra quá
+trình nhả hấp (desorb) chất bị hấp phụ.
+▪ Ứng dụng: trong công nghiệp, tính
+thuận nghịch của quá trình sẽ được
+xem xét để tách hỗn hợp (hấp phụ) hay
+hoàn nguyên chất hấp phụ (nhả hấp).
+9/104
+
+8.1 Khái niệm: Phân loại
+Hấp phụ vật lý: hấp và nhả hấp
+
+10/104
+
+8.1 Khái niệm: Phân loại
+Hấp phụ hóa học hay hấp phụ hoạt hóa (chemisorption/chemical
+adsorption): kết quả của sự tương tác hóa học giữa chất rắn và chất bị
+hấp phụ.
+▪ Quá trình không thuận nghịch.
+▪ Nhiệt lượng phát ra trong quá trình này xấp xỉ nhiệt phản ứng.
+▪ Ứng dụng: trong phản ứng có xúc tác
+▪ Phạm vi môn học: không xét quá trình hấp phụ hóa học.
+
+11/104
+
+8.1 Khái niệm: Chất hấp phụ
+▪ Hình dạng: thường dạng hạt, d=12,5 mm (thô)-50
+▪ Bề mặt riêng cho một đơn vị khối lượng: lớn
+▪ Tầng cố định chất hấp phụ: không tạo độ giảm áp quá lớn, không bị lôi cuốn theo
+dòng chảy, không bị vỡ, …
+▪ Dòng chuyển động chất hấp phụ: phải dễ lưu chuyển
+
+Activated alumina adsorbent
+
+12/104
+
+8.1 Khái niệm: Chất hấp phụ
+
+13/104
+
+8.1 Khái niệm: Chất hấp phụ
+
+14/104
+
+8.1 Khái niệm: Các yếu tố ảnh hưởng quá trình hấp phụ
+
+15/104
+
+8.2 Cân bằng hấp phụ đẳng nhiệt (equilibrium adsorption isotherm)
+Được xác định bằng thực nghiệm và chưa có lý thuyết mô tả
+
+a) Hấp phụ khí hoặc hơi nguyên chất
+Đặc trưng cân bằng: khi hấp phụ khí hoặc hơi
+trên chất rắn thì tương tự độ hòa tan cân
+bằng của chất khí trong chất lỏng.
+Ví dụ: điểm A biểu diễn hơi aceton có áp suất
+riêng phần 190 mmHg sẽ cân bằng với nồng
+độ aceton trên bề mặt chất rắn là 0,2 g
+aceton hấp phụ/g carbon.
+Tăng áp suất aceton sẽ tăng quá trình hấp phụ
+và ngược lại nếu giảm áp suất aceton sẽ làm
+aceton nhả hấp ra khỏi than.
+Đường cân bằng đẳng nhiệt của aceton ở 100
+oC sẽ tăng đến 𝑝
+𝑣,𝑎 =2790 mmHg = áp suất
+hơi bão hòa của aceton (𝑝𝑠𝑣,𝑎 ) ở 100 oC.
+Nếu tăng 𝑝𝑣,𝑎 > 𝑝𝑠𝑣,𝑎 thì aceton không tồn tại
+ở pha hơi mà ngưng toàn bộ thành pha lỏng
+trên bề mặt than hoạt tính.
+
+Hình 10.1: Cân bằng của quá trình hấp phụ
+trên than hoạt tính
+16/104
+
+8.2 Cân bằng hấp phụ đẳng nhiệt
+a) Hấp phụ khí hoặc hơi nguyên chất
+Điểm B biểu diễn nồng độ của aceton trên than hoạt
+tính sẽ rất lớn nếu áp suất p >𝑝𝑠𝑣,𝑎 . Nồng độ thừa của
+aceton tại B cho thấy ngoài sự hấp phụ hơi aceton
+còn có hóa lỏng của aceton trên bề mặt than. Đặc
+biệt, những chất khí khi trên nhiệt độ tới hạn không
+thấy tính chất này.
+
+Điều kiện hấp phụ:
+Ở cùng điều kiện, những chất khí và hơi khác nhau sẽ có
+mức độ bị hấp phụ khác nhau. Các chất khí và hơi có
+phân tử lượng càng cao, nhiệt độ tới hạn càng thấp thì
+mức độ bị hấp phụ càng lớn.
+Ở điều kiện thường: các chất khí có mức độ bị hấp phụ
+thấp, như khí metan.
+17/104
+
+8.2 Cân bằng hấp phụ đẳng nhiệt
+a) Hấp phụ khí hoặc hơi nguyên chất
+Độ hòa tan tương đối: 𝑝∗ /𝑃𝑠𝑣 . Nếu trục tung biểu diễn độ hòa tan
+tương đối và trục hoành là nồng độ chất bị hấp phụ trên chất hấp phụ
+thì các dạng đường cân bằng hấp phụ đẳng nhiệt trên cùng căn bản để
+so sánh.
+Sự khác biệt trong quá trình tổng
+hợp chất hấp phụ cũng ảnh hưởng
+đến đường cân bằng hấp phụ. Năng
+suất hấp phụ tăng lên khi điều kiện
+điều chế hiện đại.
+
+18/104
+
+8.2 Cân bằng hấp phụ đẳng nhiệt
+a) Hấp phụ khí hoặc hơi nguyên chất
+Hiện tượng hấp phụ trễ (hysteresis):
+Đường cân bằng hấp phụ thuận nghịch: thông
+thường, các đường cân bằng hấp phụ là đường
+thực nghiệm và biểu diễn quá trình thuận nghịch.
+Tức là tại điểm bất kỳ trên đường cân bằng (điểm A)
+đều có thể đạt được bằng quá trình hấp phụ từ chất
+hấp phụ ban đầu hay bằng quá trình nhả hấp từ
+nồng độ cao hơn của chất bị hấp phụ trên chất rắn.
+Đường cân bằng hấp phụ không thuận nghịch:
+trên đường cân bằng hay trên một khoảng đường
+cân bằng quá trình hấp phụ và nhả hấp là không
+trùng nhau tạo nên hiện tượng trễ.
+Nguyên nhân: do hình dạng và độ lớn của các mao
+quản hoặc lỗ xốp của chất rắn hấp phụ, hay do hiện
+tượng thấm ướt bề mặt chất rắn của chất bị hấp
+phụ.
+Đặc điểm: áp suất cân bằng nhả hấp luôn < áp suất
+cân bằng hấp phụ.
+19/104
+
+8.2 Cân bằng hấp phụ đẳng nhiệt
+a) Hấp phụ khí hoặc hơi nguyên chất
+Ảnh hưởng của nhiệt độ:
+Quá trình hấp phụ là quá trình
+tỏa nhiệt nên nồng độ chất khí bị
+hấp phụ sẽ giảm khi nhiệt độ
+tăng tại một áp suất cân bằng
+cho trước.
+Các đường cân bằng hấp phụ của
+hơi aceton trên than hoạt tính ở
+các nhiệt độ bão hòa hay áp suất
+hơi khác nhau được trình bày
+trên đồ thị với trục hoành là log
+của áp suất hơi của aceton
+nguyên chất cùng nhiệt độ bão
+hòa tương ứng. Trục tung là log
+của áp suất riêng phần cân bằng
+của aceton.
+Điểm A (𝑝∗ = 190 𝑚𝑚𝐻𝑔, 100𝑜 𝐶) được vẽ với 𝑝𝑣,𝑎 = 2790 𝑚𝑚𝐻𝑔 tại 100 oC.
+Các điểm có cùng nồng độ chất bị hấp phụ sẽ nẳm trên cùng một đường thẳng cân
+bằng hấp phụ và chỉ cần hai điểm để vẽ đường thẳng này.
+20/104
+
+8.2 Cân bằng hấp phụ đẳng nhiệt
+a) Hấp phụ khí hoặc hơi nguyên chất
+Nhiệt hấp phụ:
+ഥ nhiệt lượng phóng thích ở nhiệt độ không đổi
+Nhiệt hấp phụ vi phân, 𝐻:
+khi một đơn vị khối lượng của hơi bị hấp phụ trên một lượng lớn chất
+rắn hấp phụ đã có chứa chất bị hấp phụ. Vì lượng chất rắn là lớn nên
+nồng độ chất bị hấp phụ xem như không đổi.
+Nhiệt hấp phụ tích phân: hiệu số giữa enthalpy của hệ chất hấp phụഥℎ𝑝/𝑏ℎ𝑝 ) với tổng enthalpy của một đơn vị khối lượng
+chất bị hấp phụ (𝐻
+ഥℎ𝑝 + 𝐻
+ഥ𝑏ℎ𝑝 ) đủ để tạo nên
+chất rắn tinh khiết và chất bị hấp phụ (σ 𝐻
+nồng độ bất kỳ 𝑋 của chất bị hấp phụ trên chất rắn, ở cùng một nhiệt
+ഥ𝑖 = 𝑓(𝑡, 𝑋).
+độ. 𝐻
+
+21/104
+
+a) Hấp phụ khí hoặc hơi nguyên chất
+Nhiệt hấp phụ:
+Theo Othemer D.F. và Sawyer F.G.: trên giản đồ logarit của đường cân bằng hấp phụ
+đẳng nhiệt, nhiệt hấp phụ vi phân được tính theo hệ số góc của một đường nồng độ
+không đổi:
+ഥ
+𝑑𝑙𝑛𝑝∗
+𝐻𝑀
+=
+𝑑𝑙𝑛𝑃 𝑟𝑟 𝑀𝑟
+ഥ nhiệt hấp phụ vi phân tính cho hơi nguyên chất, kJ/kg; 𝑀, 𝑀𝑟: khối lượng phân
+với 𝐻:
+tử của hơi và của chất chuẩn; 𝑟𝑟: ẩn nhiệt hóa hơi của chất chuẩn ở cùng nhiệt độ,
+ഥ được xác định tại nhiệt độ không đổi cho mỗi đường nồng độ không đổi
+kJ/kg. Nếu 𝐻
+ഥ và nồng
+thì nhiệt hấp phụ tích phân cho hơi nguyên chất (∆𝐻′) được xác định theo 𝐻
+độ chất bị hấp phụ, 𝑋, kg chất bị hấp phụ/kg chất rắn:
+𝑋
+kJ
+′
+ഥ
+∆𝐻 = න 𝐻𝑑𝑋 ,
+kg chất rắn
+0
+ഥ
+→Tích phân được xác định bằng đồ thị, bằng cách diện tích bên dưới đường cong 𝐻
+theo 𝑋.
+Nhiệt hấp phụ cho chất bị hấp phụ ở trạng thái lỏng:
+kJ
+′
+∆𝐻 = ∆𝐻 + 𝑟𝑋,
+kg chất rắn
+với 𝑟: ẩn nhiệt hóa hơi của chất lỏng bị hấp phụ, kJ/kg.
+22/104
+
+Nhiệt hấp phụ:
+
+23/104
+
+Nhiệt hấp phụ: Ví dụ 10.1 tiếp
+
+24/104
+
+8.2 Cân bằng hấp phụ đẳng nhiệt
+b) Hấp phụ hỗn hợp khí và hơi
+Một cấu tử bị hấp phụ: hỗn hợp khí-hơi chỉ có một cấu tử bị hấp phụ
+đáng kể. Vd: hỗn hợp hới aceton-khí metan cho tiếp xúc với than hoạt
+tính thì quá trình hấp phụ của aceton không chịu ảnh hưởng bởi sự hiện
+diện của metan bị hấp phụ không đáng kể. Đường cân bằng hấp phụ
+đẳng nhiệt của hơi nguyên chất được sử dụng với áp suất cân bằng
+được lấy bằng áp suất riêng phần của hơi trong hỗn hợp khí-hơi. Như
+vậy, đường cân bằng của aceton nguyên chất có thể được dùng cho hỗn
+hợp hơi aceton với bất kỳ chất bị hấp phụ kém như N2, H2, …
+Hai cấu tử đều bị hấp phụ: lượng cấu tử bị hấp phụ này chịu ảnh hưởng
+bởi sự hiện diện của cấu tử kia và cùng với chất hấp phụ sẽ tạo nên hệ
+ba cấu tử. Chất hấp phụ được xem là dung môi trong quá trình trích ly
+chất lỏng, và quá trình hấp phụ chịu ảnh hưởng nhiều bởi nhiệt độ và áp
+suất.
+
+25/104
+
+8.2 Cân bằng hấp phụ đẳng nhiệt
+b) Hấp phụ hỗn hợp khí và hơi
+Hai cấu tử đều bị hấp phụ: giản
+đồ tam giác và tọa độ chữ nhật
+được sử dụng để biểu diễn hệ
+này. Vì chất hấp phụ không bay
+hơi nên không hiện diện trong
+pha khí, vì vậy các thành phần pha
+khí cân bằng sẽ nằm trên một
+cạnh của đồ thị. Điểm G và H biểu
+E
+diễn nồng độ mỗi chất khí tinh
+khiết bị hấp phụ trên than hoạt
+tính. Đối tuyển RE nối thành phần
+hai pha khí và rắn cân bằng.
+Các đối tuyến khi kéo dài mà không qua đỉnh biểu diễn chất hấp phụ, cho thấy ở điều
+kiện xác định, chất hấp phụ không thể dùng để tách hỗn hợp hai cấu tử thành từng
+cấu tử riêng biệt.
+Độ hấp phụ tương đối hay hệ số phân tách: tỉ số giữa tỉ số nồng độ pha khí trong chất
+hấp phụ (điểm E) với tỉ số nồng độ trong pha khí (điểm R), độ hấp phụ tương đối > 1 là
+chất hấp phụ được dùng để tách các hỗn hợp khí.
+26/104
+
+b) Hấp phụ hỗn hợp khí và hơi
+Hai cấu tử đều bị hấp phụ: giản đồ tọa độ chữ nhật biểu diễn nồng độ trên căn bản
+không chất hấp phụ.
+
+G
+
+Trên hình biểu diễn cùng hỗn
+hợp khí được hấp phụ trên hai
+chất hấp phụ khác nhau:
+silicagel và than hoạt tính.
+▪ Mức độ hấp phụ: than hoạt
+tính > silicagel (đường GH của
+than hoạt tính thấp hơn).
+▪ Độ hấp phụ tương đối: than
+hoạt tính < silicagel (đường cong
+biểu diễn pkl acetylene trong
+chất hấp phụ và trong pha khí
+đối với than hoạt tính nằm dưới
+đường 45o).
+
+27/104
+
+b) Hấp phụ hỗn hợp khí và hơi
+
+Ảnh hưởng của áp suất và nhiệt độ: ghi nhận
+từ thực nghiệm
+Giảm áp suất sẽ làm giảm lượng chất bị hấp
+phụ trên chất rắn.
+Tăng nhiệt độ ở áp suất không đổi sẽ làm giảm
+lượng chất bị hấp phụ từ hỗn hợp và sẽ ảnh
+hưởng đến độ hấp phụ tương đối, không tuân
+theo một qui luật nào.
+
+28/104
+
+8.2 Cân bằng hấp phụ đẳng nhiệt
+
+c) Hấp phụ chất lỏng: khi cho chất hấp phụ rắn vào chất lỏng, quá trình hấp phụ
+xảy ra và phát nhiệt.
+Mức độ hấp phụ: được xác định theo
+▪ Thể tích chất lỏng bị hấp phụ: có hạn chế là thường độ biến đổi không đáng kể của
+thể.
+▪ Độ biến đổi khối lượng chất rắn hấp phụ: tuy nhiên kết quả sẽ không phân biệt
+được chất lỏng bị hấp phụ và chất lỏng bám cơ học trên bề mặt chất rắn. Hiện
+tượng này không có trong hấp phụ chất khí.
+Hấp phụ chất từ dung dịch loãng
+Trộn chất hấp phụ với dung dịch hai cấu tử (chất tan và dung môi) sẽ xảy ra quá trình
+hấp phụ cả chất tan và dung môi.
+Hấp phụ biểu kiến hay tương đối của chất tan:
+Lượng biểu kiến chất tan bị hấp phụ cho mỗi đơn vị khối lượng chất hấp phụ:
+𝑘𝑔 𝑐ℎấ𝑡 𝑏ị ℎấ𝑝 𝑝ℎụ
+𝑘𝑔 𝑐ℎấ𝑡 ℎấ𝑝 𝑝ℎụ
+𝑉 𝑚3 𝑑𝑢𝑛𝑔 𝑑ị𝑐ℎ
+với V: thể tích dung dịch được xem là không đổi,
+; 𝐶0 , 𝐶 ∗ : nồng độ ban
+𝑘𝑔 𝑐ℎấ𝑡 ℎấ𝑝 𝑝ℎụ
+𝑘𝑔 𝑐ℎấ𝑡 tan
+đầu và cân bằng cuối của chất bị hấp phụ, 3
+.
+𝑚 𝑑𝑢𝑛𝑔 𝑑ị𝑐ℎ
+
+𝑉 𝐶0 − 𝐶 ∗ ,
+
+29/104
+
+8.2 Cân bằng hấp phụ đẳng nhiệt
+c) Hấp phụ chất lỏng:
+Hấp phụ chất từ dung dịch loãng
+Hấp phụ biểu kiến của chất tan phụ thuộc:
+nồng độ của chất tan, nhiệt độ, dung môi và
+loại chất hấp phụ.
+Các đường hấp phụ biểu kiến đẳng nhiệt được
+xác định cho cùng loại chất tan bị hấp phụ trên
+cùng loại chất hấp phụ trong các dung môi khác
+nhau được trình bày trên hình.
+Mức độ hấp phụ của chất tan trong thực tế sẽ
+giảm khi nhiệt độ tăng.
+Phương trình Freundlich
+Trên khoảng nồng độ nhỏ và dung dịch loãng,
+đường đẳng nhiệt cho quá trình hấp phụ được
+mô tả theo phương trình thực nghiệm Hình 10.10: Đường hấp phụ đẳng nhiệt cho
+dung dịch loãng
+Freundlich:
+𝐶 ∗ = 𝑘 𝑉 𝐶0 − 𝐶 ∗ 𝑛
+với 𝑘, 𝑛: các hằng số. Nếu vẽ 𝐶 ∗ theo 𝐶0 − 𝐶 ∗ trên giản đồ log-log sẽ được đường
+thẳng có hệ số góc là 𝑛 và tung độ góc là 𝑘.
+30/104
+
+8.2 Cân bằng hấp phụ đẳng nhiệt
+c) Hấp phụ chất lỏng: Hấp phụ chất từ dung dịch loãng
+Trên hình trình bày ảnh hưởng của
+dung môi lên quá trình hấp phụ:
+- Đường đường (a) và (b): silica gel
+hấp phụ axit benxoic từ dung môi
+C6H5 và từ CCl4, đồ thị tuân theo
+phương trình Freundlich trong một
+khoảng nồng độ rộng.
+- Đường (c): than hấp phụ aceton
+từ dung môi là nước, đồ thị chỉ
+tuân theo phương trình Freundlich
+ở nồng độ thấp. Điều này có thể là
+sự hấp phụ đáng kể nước mà trong
+phương trình không đề cập đến.
+
+31/104
+
+8.2 Cân bằng hấp phụ đẳng nhiệt
+c) Hấp phụ chất lỏng: Hấp phụ chất từ dung dịch loãng
+Trường hợp không biết chính xác
+chất bị hấp phụ trong dung dich
+như hấp phụ các chất màu trong
+dung dịch đường, dầu thực vật,
+dầu khoáng,… thì phương trình
+Freundlich đặc biệt hữu dụng.
+Nồng độ chất bị hấp phụ được
+xác định bằng máy so màu, quang
+phổ kế và được cường độ màu
+được biểu diễn tỉ lệ tuyến tính với
+nồng độ chất bị hấp phụ.
+
+32/104
+
+Hình 10.12: Khử màu của dầu khoáng bằng đất sét
+
+8.2 Cân bằng hấp phụ đẳng nhiệt
+c) Hấp phụ chất lỏng: Hấp phụ chất từ dung dịch đặc
+Quá trình hấp phụ biểu kiến của chất hấp
+phụ được khảo sát trên khoảng nồng độ
+dung môi nguyên chất đến chất tan nguyên
+chất bị hấp phụ.
+Đường cong a: biểu diễn khi tất cả giá trị
+nồng độ chất tan bị hấp phụ mạnh hơn so
+với dung môi. Khi nồng độ chất tan tăng,
+mức độ hấp phụ chất tan sẽ tăng và khi
+trong chất lỏng là nguyên chất thì sẽ không
+có sự biến đổi nồng độ khi cho thêm vào
+chất hấp phụ, khi đó đường cong a biểu
+diễn quá trình hấp phụ biểu kiến của chất
+lỏng nguyên chất sẽ trở về điểm E.
+
+Hình 10.13: Hấp phụ biểu kiến từ dung dịch đậm đặc
+
+33/104
+
+8.2 Cân bằng hấp phụ đẳng nhiệt
+c) Hấp phụ chất lỏng: Hấp phụ chất từ dung dịch đặc
+
+Đường cong b: biểu diễn quá trình hấp phụ
+dung môi và chất tan với mức độ gần như
+nhau. Trong khoảng CD, chất tan bị hấp phụ
+nhiều hơn. Tại D, cả hai bị hấp phụ với mức
+độ như nhau, quá trình hấp phụ biểu kiến
+bằng 0. Từ D đến E, dung môi bị hấp phụ
+mạnh hơn. Như vậy, khi thêm chất hấp phụ
+vào dung dịch có nồng độ từ D đến E thì
+nồng độ chất tan trong dung dịch sẽ tăng
+lên và 𝑉 𝐶0 − 𝐶 ∗ < 0, tức là quá trình hấp
+phụ chất tan biểu kiến là âm.
+
+34/104
+
+Hình 10.13: Hấp phụ biểu kiến từ dung dịch đậm đặc
+
+8.2 Cân bằng hấp phụ đẳng nhiệt
+c) Hấp phụ chất lỏng: Hấp phụ chất từ dung dịch đặc
+
+Quá trình hấp phụ thực của chất tan và dung môi có thể được ước tính từ số liệu hấp
+phụ biểu kiến với áp dụng các đương đẳng nhiệt Freundlich riêng biệt cho từng cấu tử.
+Các đường cân bằng trên hình được vẽ từ số liệu hấp phụ biểu kiến của đường cong b.
+Điểm giao nhau giữa đường cong cân bằng và đường 45o tương tự như điểm đẳng phí
+trong chưng cất, khi đó độ hấp phụ tương đối là bằng một tại nồng độ xác định.
+35/104
+
+8.3 Hấp phụ theo bậc
+a) Thiết bị và nguyên tắc hoạt động
+Bình khuấy: để trộn dung dịch và chất hấp phụ ở nhiệt độ và thời gian thích hợp
+Thiết bị lọc ép: để lọc chất hấp phụ và chất bị hấp phụ ra khỏi dung dịch
+Hệ thống nhiều bậc: có bổ sung nhiều bình khuấy và thiết bị lọc
+Quá trình liên tục: thiết bị lọc ép sẽ được thay máy ly tâm hay thiết bị lọc thung quay
+liên tục hoặc để chất rắn lắng khỏi hỗn hợp. Vd: khử màu dầu bôi trơn.
+
+36/104
+
+8.3 Hấp phụ theo bậc
+a) Thiết bị và nguyên tắc hoạt động
+Chất hấp phụ: tùy vào dung dịch cần xử lý, d < 200 mesh.
+Thời gian để chất hấp phụ và dung dịch đạt cân bằng phụ thuộc vào: nồng độ và độ
+nhớt dung dịch, kích thước chất hấp phụ và cường độ khuấy.
+Yêu cầu đối với bình khuấy: phải có tấm chặn và chất lỏng có chế độ chảy rối để hạt
+rắn hấp phụ có chuyển động tương đối so với khối chất lỏng.
+Nồng độ của chất bị hấp phụ trong dung dịch: lúc đầu giảm nhanh và tiệm cận với
+nồng độ cân bằng.
+Thời gian khuấy: từ lúc đầu đến điểm A, khoảng 10-30 ph.
+
+37/104
+Hình 10.16: Cân bằng đạt được trong quá trình hấp phụ hoạt động gián đoạn
+
+8.3 Hấp phụ theo bậc
+a) Thiết bị và nguyên tắc hoạt động
+Nhiệt độ khuấy: cần gia nhiệt ở nhiệt độ cao nhất cho phép khi khuấy
+để giảm độ nhớt, tăng tốc độ khuếch tán của chất bị hấp phụ và chất
+hấp phụ dễ chuyển động trong chất lỏng. Cân bằng hấp phụ sẽ giảm ít
+khi tăng nhiệt độ nhưng bù lại tăng được tốc độ đạt đến cân bằng.
+Nhiệt độ vận hành:
+▪ Ở nhiệt độ sôi của dung dịch nếu tại nhiệt độ này không làm ảnh
+hưởng đến các chất trong hỗn hợp.
+▪ Ở nhiệt độ thường: nếu chất hấp phụ dễ bay hơi thì cân bằng của quá
+trình sẽ chịu ảnh hưởng nhiều của nhiệt độ.
+▪ Bỏ qua sự gia tăng nhiệt độ do nhiệt hấp phụ vì lượng dung dịch cần
+xử lý là lớn so với lượng chất bị hấp phụ.
+
+38/104
+
+8.3 Hấp phụ theo bậc
+b) Quá trình một bậc
+Chất hấp phụ
+Dung dịch
+
+Y1
+
+X0
+
+Sơ đồ biểu diễn quá trình một bậc có thể hoạt động
+gián đoạn hay liên tục.
+Đặc trưng:
+▪ Lượng chất hấp phụ sử dụng thường là nhỏ so
+với lượng dung dịch cần xử lý.
+▪ Mức độ hấp phụ chất bị hấp phụ là lớn nên bỏ
+qua quá trình hấp phụ các cấu tử khác.
+CBVC và đường làm việc:
+Nếu chất hấp phụ là mới (𝑋0 = 0), cân bằng cho
+chất bị hấp phụ:
+𝐺𝑡𝑟 𝑌0 − 𝑌1 = 𝐿𝑡𝑟 𝑋1 − 𝑋0
+với G: lượng hay lưu lượng dung dịch; Y: nồng độ
+chất tan bị hấp phụ trong dung dịch; L: lượng hay
+lưu lượng chất hấp phụ; X: nồng độ chất bị hấp phụ
+trong chất hấp phụ.
+Phương trình này biểu diễn đường thẳng đi qua hai
+điểm (𝑋0, 𝑌0) và (𝑋1, 𝑌1) có hệ số góc −𝐿𝑡𝑟 /𝐺𝑡𝑟 . Nếu
+bậc đạt cân bằng thì (𝑋1, 𝑌1) sẽ nằm trên đường
+hấp phụ cân bằng đẳng nhiệt.
+39/104
+
+8.3 Hấp phụ theo bậc
+b) Quá trình một bậc
+Phương trình đường làm việc được áp dụng với giả sử rằng lượng chất lỏng bị bám
+dính trên bề mặt chất rắn sau khi lọc là không đáng kể. Giả sử này phù hợp trong quá
+trình hấp phụ vì lượng chất rắn hấp phụ sử dụng khá nhỏ so với lượng dung dịch được
+xử lý.
+Quá trình nhả hấp: phương trình đường làm việc này vẫn được sử dụng nhưng đường
+làm việc nằm dưới đường cân bằng.
+Phương trình đường cân bằng hấp phụ đẳng nhiệt trong trường hợp nồng độ chất bị
+hấp phụ là nhỏ theo Freundlich:
+𝑌 ∗ = 𝑚𝑋 𝑛
+𝑌1 1/𝑛
+𝑚
+
+và điều kiện cân bằng cuối: 𝑋1 =
+với nồng độ đầu của chất bị hấp phụ 𝑋0 = 0, phương trình đường làm việc:
+𝐿𝑡𝑟
+𝑌0 − 𝑌1
+=
+𝐺𝑡𝑟
+𝑌1 /𝑚 1/𝑛
+với m: hệ số góc đường cân bằng, n: hằng số. Phương trình này để tính tỉ số chất hấp
+phụ/dung dịch ứng với sự biến đổi nồng độ cho trước của chất bị hấp phụ, 𝑌0 đến 𝑌1.
+
+40/104
+
+8.3 Hấp phụ theo bậc
+b) Quá trình một bậc
+Trên hình có 03 đường cân bằng hấp phụ
+đẳng nhiệt Freundlich.
+▪ n = 1: đường đằng nhiệt là đường thẳng
+▪ n < 1, n > 1: đường đẳng nhiệt là đường
+cong
+Trong mỗi trường hợp nồng độ chất bị hấp
+phụ giảm từ 𝑌0 đến 𝑌1, có 03 đường làm việc
+cùng xuất phát từ A.
+Hệ số góc đường làm việc tỉ lệ thuận với tỉ số
+chất hấp phụ/dung dịch (𝐿𝑡𝑟 /𝐺𝑡𝑟 ). Quan hệ
+này:
+▪ Đúng: n = 2-10
+▪ Kém chính xác: n = 1-2
+▪ Hoàn toàn không chính xác: n < 1, trường
+hợp này lượng chất hấp phụ sử dụng là
+lớn thì không thực tế.
+
+41/104
+
+8.3 Hấp phụ theo bậc
+c) Quá trình nhiều bậc giao dòng
+Sơ đồ và đường làm việc cho quá trình hai bậc giao dòng được trình bày. Lượng dung
+dịch được xử lý là không đổi (𝐺𝑡𝑟) khi đi qua mỗi bậc với chất hấp phụ sử dụng trong
+mỗi bậc là 𝐿𝑡𝑟1 và 𝐿𝑡𝑟2 (kg). Nồng độ chất bị hấp phụ trong dung dịch giảm từ Y0 đến Y2.
+
+𝐿𝑡𝑟2
+
+𝐿𝑡𝑟1
+𝐺𝑡𝑟
+
+𝐺𝑡𝑟
+
+42/104
+
+8.3 Hấp phụ theo bậc
+c) Quá trình nhiều bậc giao dòng: CBVC
+Cho bậc 1: 𝐺𝑡𝑟 𝑌0 − 𝑌1 = 𝐿𝑡𝑟1 𝑋1 − 𝑋0
+Cho bậc 2: 𝐺𝑡𝑟 𝑌1 − 𝑌2 = 𝐿𝑡𝑟2 𝑋2 − 𝑋0
+Với các phương trình này sẽ vẽ được các đường
+làm việc cho mỗi bậc. Nếu lượng chất hấp phụ sử
+dụng trong mỗi bậc bằng nhau (𝐿𝑡𝑟 ) thi hai đường
+làm việc sẽ song song.
+Áp dụng phương trình đường cân bằng của
+Freundlich (𝑌 ∗ = 𝑚𝑋 𝑛 ) và dung chất hấp phụ
+nguyên chất cho mỗi bậc (𝑋0 = 0).
+
+Bậc 1:
+Bậc 2:
+
+𝐿𝑡𝑟1
+𝐺𝑡𝑟
+𝐿𝑡𝑟2
+𝐺𝑡𝑟
+
+=
+=
+
+𝑌0 −𝑌1
+𝑌1 /𝑚 1/𝑛
+𝑌1 −𝑌2
+𝑌2 /𝑚 1/𝑛
+
+Tổng lượng chất hấp phụ tối thiểu sử dụng cho
+hệ hai bậc:
+𝐿𝑡𝑟1 + 𝐿𝑡𝑟2
+𝑌0 − 𝑌1 𝑌1 − 𝑌2
+1/𝑛
+=𝑚
++ 1/𝑛
+1/𝑛
+𝐺𝑡𝑟
+𝑌
+𝑌
+1
+
+2
+
+43/104
+
+8.3 Hấp phụ theo bậc
+c) Quá trình nhiều bậc giao dòng: Tổng lượng chất hấp phụ tối thiểu sử dụng
+Ứng với 𝑚, 𝑛, 𝑌0 và 𝑌2 là hằng sô cho một trường hợp cụ thể, thì lượng chất hấp phụ
+tối thiểu sử dụng khi:
+𝐿𝑡𝑟1 + 𝐿𝑡𝑟2
+𝑑
+=0
+𝐺𝑡𝑟
+𝑌1
+→
+𝑌2
+
+1/𝑛
+
+−
+
+1 𝑌0
+1
+=1−
+𝑛 𝑌1
+𝑛
+
+Phương trình này để giải
+tìm nồng độ trung gian và
+lượng chất bị hấp phụ cho
+từng bậc theo các phương
+trình mỗi bậc.
+Lời giải cho phương trình
+bằng đồ thị được trình bày
+ở hình bên.
+
+44/104
+
+8.3 Hấp phụ theo bậc
+d) Quá trình nhiều bậc nghịch dòng:
+Sơ đồ quá trình và đường làm việc
+được trình bày.
+CBVC cho bậc NP:
+𝐺𝑡𝑟 𝑌0 − 𝑌𝑁𝑃 = 𝐿𝑡𝑟 𝑋1 − 𝑋𝑁𝑃+1
+Phương trình biểu diễn đường làm
+việc qua hai điểm (𝑋𝑁𝑃+1 , 𝑌𝑁𝑃 ) và
+(𝑋1 , 𝑌0 ) có hệ số góc 𝐿𝑡𝑟 /𝐺𝑡𝑟 .
+Số bậc lý thuyết: được xác định bằng
+cách vẽ đường bậc thang giữa đường
+làm việc và đường cân bằng.
+
+45/104
+
+8.3 Hấp phụ theo bậc
+d) Quá trình nhiều bậc nghịch dòng:
+Lượng chất hấp phụ tối thiểu sử dụng: xác định theo phương pháp đồ thị trình bày
+trên hình. Nếu đường cân bằng là đường thẳng thì các phương trình Kremser được áp
+dụng (đã được trình bày ở ở Bài giảng # 2).
+Thường thì phương trình đường cân bằng của Freundlich được áp dụng cho trường
+hợp chất hấp phụ sử dụng là nguyên chất (𝑋𝑁𝑃+1 = 0).
+
+46/104
+
+8.3 Hấp phụ theo bậc
+d) Quá trình nhiều bậc nghịch dòng:
+Với quá trình hai bậc như hình vẽ,
+CBVC cho chất bị hấp phụ trong
+toàn quá trình:
+𝐿𝑡𝑟 𝑋1 − 0 = 𝐺𝑡𝑟 𝑌0 − 𝑌2
+Áp dụng phương trình Freundlich
+cho các dòng vào và ra khỏi bậc lý
+tưởng số một:
+𝑌1 1/𝑛
+𝑋1 =
+𝑚
+𝐿𝑡𝑟
+𝑌0 − 𝑌2
+→
+=
+𝐺𝑡𝑟
+𝑌1 /𝑚 1/𝑛
+Bậc lý tưởng số hai:
+𝑌2 1/𝑛
+𝐺𝑡𝑟 𝑌1 − 𝑌2 = 𝐿𝑡𝑟 𝑋2 = 𝐿𝑡𝑟
+𝑚
+Khử 𝐿𝑡𝑟 /𝐺𝑡𝑟 giữa các phương trình
+→ Phương trình này được giải để xác định nồng
+của bậc 1 và 2:
+1/𝑛
+độ trung gian 𝑌1 ứng với nòng độ 𝑌0 và 𝑌2 cho
+𝑌0
+𝑌1
+𝑌1
+trước và tìm tỉ số 𝐿𝑡𝑟 /𝐺𝑡𝑟 . Lời giải bằng đồ thị
+−1=
+−1
+𝑌2
+𝑌2
+𝑌2
+được trình bày.
+47/104
+
+8.3 Hấp phụ theo bậc
+d) Quá trình nhiều bậc nghịch dòng:
+
+48/104
+
+8.3 Hấp phụ theo bậc
+
+Hình 10.25: Số liệu cân bằng cho ví dụ 10.2
+
+49/104
+
+Ví dụ 10.2 tiếp
+
+50/104
+
+Ví dụ 10.2 tiếp
+
+51/104
+
+Ví dụ 10.2 tiếp
+
+52/104
+
+Ví dụ 10.2 tiếp
+
+53/104
+
+Ví dụ 10.2 tiếp
+
+54/104
+
+Ví dụ 10.2 tiếp
+
+55/104
+
+Ví dụ 10.2 tiếp
+
+56/104
+
+8.3 Hấp phụ theo bậc
+e) Tầng lưu hóa để hấp phụ hơi từ một chất khí
+không hấp phụ
+Trên hình mô tả thiết bị để hấp phụ một cấu tử ở pha
+hơi từ chất khí không hấp phụ, ví dụ dùng silica gel để
+làm khô không khí.
+▪ Phần trên tháp: silica gel tiếp xúc nghịch dòng với
+dòng khí được làm khô tại các mâm xuyên lỗ.
+Silica gel di chuyển từ mâm trên xuống mâm dưới qua
+ông chảy chuyển.
+▪ Phần dưới tháp: silica gel được tái sinh bằng cách
+tiếp xúc tương tự như trên với dòng khí nóng để
+nhả hấp và đem hơi nước ra ngoài.
+Silica gel khô được đưa trở lại đỉnh tháp bằng dòng
+khí nén.
+Nếu quá trình là đẳng nhiệt thì các phép tính để xác
+định số bậc lý tưởng sẽ giống như tính cho quá trình
+nhiều bậc nghịch dòng.
+
+57/104
+
+8.3 Hấp phụ theo bậc
+e) Tầng lưu hóa để hấp phụ hơi từ một chất khí không hấp phụ
+Tuy nhiên các thiết bị dạng này thường hoạt động ở điều kiện thay đổi nhiệt độ (bậc
+nhiệt): tăng đáng kể trong quá trình hấp phụ và giảm trong quá trình nhả hấp.
+Vì đường cân bằng thay đổi theo số bậc nên phương pháp tính cho từng bậc như trong
+hấp thu. Với n bậc đầu tiên, cân bằng cho chất bị hấp phụ:
+𝐺𝑡𝑟 𝑌0 − 𝑌𝑛 = 𝐿𝑡𝑟 𝑋1 − 𝑋𝑛+1
+Cân bằng enthalpy cho quá trình bậc nhiệt:
+𝐺𝑡𝑟 𝐻𝐺0 − 𝐻𝐺𝑛 = 𝐿𝑡𝑟 𝐻𝐿1 − 𝐻𝐿𝑛+1
+với 𝐻𝐺 : enthalpy của hỗn hợp khí-hơi, kJ/kg khí; 𝐻𝐿 : enthalpy của chất rắn+chất bị hấp
+phụ, kJ/kg chất hấp phụ với nhiệt độ chuẩn 𝑡0.
+𝐻𝐺 = 𝐶𝑐 𝑡𝐺 − 𝑡0 + 𝑌 𝐶𝐴 𝑡𝐺 − 𝑡0 + 𝑟𝐴0
+với 𝐶𝑐 : nhiệt dung riêng của chất khí, kJ/kgoC; 𝐶𝐴 : nhiệt dung riêng của chất bị hấp phụ
+A ở dạng hơi, kJ/kgoC; 𝑟𝐴0 : ẩn nhiệt hóa hơi của chất bị hấp phụ A tại 𝑡0, kJ/kg.
+𝐻𝐿 = 𝐶𝐵 𝑡𝐿 − 𝑡0 + 𝑋𝐶𝐴𝐿 𝑡𝐿 − 𝑡0 + ∆𝐻𝐴
+với 𝐶𝐵 : nhiệt dung riêng của chất hấp phụ B, kJ/kgoC; 𝐶𝐴𝐿 : nhiệt dung riêng của chất bị
+hấp phụ A ở dạng lỏng, kJ/kgoC; ∆𝐻𝐴 : nhiệt tích phân của quá trình hấp phụ tại nồng
+độ X và nhiệt độ 𝑡0, kJ/kg chất hấp phụ.
+Pha khí và pha rắn rời khỏi mỗi bậc lý tưởng sẽ cân bằng về nồng độ và nhiệt độ.
+Phương pháp dọ dẫm được sử dụng để giải các phương trình trên cùng với các số liệu
+58/104
+về cân bằng.
+
+8.3 Hấp phụ theo bậc
+e) Tầng lưu hóa để hấp phụ hơi từ một chất khí không hấp phụ
+
+59/104
+
+Ví dụ 10.3 tiếp
+
+60/104
+
+Ví dụ 10.3 tiếp
+
+61/104
+
+Ví dụ 10.3 tiếp
+
+62/104
+
+8.4 Hấp phụ tiếp xúc pha liên tục, không ổn định, tầng cố định
+Mô tả: pha lỏng hay khí được cho chuyển động qua tầng hạt chất hấp phụ cố định.
+Ứng dụng:
+▪ Thu hồi hơi dung môi có giá trị từ các chất khí
+▪ Khử nước trong pha khí hoặc lỏng
+▪ Khử màu các loại dầu khoáng và dầu thực vật
+▪ Làm tăng nồng độ của chất tan có giá trị trong dung dịch lỏng,…
+a) Thiết bị hấp phụ tầng cố định
+Mô tả: hệ thống thiết bị được dùng để hấp phụ hơi dung môi trong dòng khí được
+trình bày.
+- Các hạt chất hấp phụ được đặt trong tầng có chiều cao từ 0,3-1,2 m trên tấm đỡ có
+đục lỗ.
+- Dòng khí nhập liệu được thổi từ trên xuống qua một trong hai tầng trong khì tầng
+còn lại đang được tái sinh. Thường dòng khí không được bố trí đi từ dưới lên vì với
+lưu lượng lớn có thể làm các hạt chuyển động và lôi cuốn các hạt mịn.
+- Khi nồng độ chất bị hấp phụ trong dòng khí ra đạt đến gia trị nhất định hay đến
+thời điểm định trước, các van sẽ tự động điều chỉnh dòng nhập liệu qua tầng khác
+và khởi động chu kỳ tái sinh.
+- Quá trình tái sinh được thực hiện bằng dòng khí trơ nóng hoặc dùng hơi nước
+thuận tiện hơn nếu dung môi không tan trong nước. Hơi nước ngưng tụ trong tầng
+sẽ làm tăng nhiệt độ các hạt rắn và cung cấp năng lượng cho quá trình nhả hấp.
+63/104
+
+8.4 Hấp phụ tiếp xúc pha liên tục, không ổn định, tầng cố định
+a) Thiết bị hấp phụ tầng cố định
+- Hơi dung môi được ngưng tụ,
+tách nước trước khi dùng lại.
+- Tầng hạt chất hấp phụ được làm
+mát và sấy khô bằng khí trơ.
+- Kích thước của tầng hạt hấp phụ:
+được xác định từ lưu lượng dòng
+khí và chu kỳ hấp phụ mong
+muốn. Tiết diện của tầng hấp phụ
+được tính để vận tốc biểu kiến
+của dòng khí từ 0,15-0,45 m/s với
+độ giảm áp từ 80-400 mmH2O
+cho 1 m chiều cao tầng hạt với
+kích thước hạt từ 4-16 mesh.
+Chiều cao tầng và lưu lượng thường được chọn để chu kỳ hấp phụ từ 2-24 h.
+▪ Chiều cao tầng cao quá: thì chu kỳ hấp phụ đến vài ngày là không kinh tế.
+▪ Thấp từ < 0,3 m: thì sẽ giảm được độ giảm áp nhưng hiệu quả của quá trình phân
+riêng không cao và tốn nhiều năng lượng hơn để tái sinh.
+64/104
+
+8.4 Hấp phụ tiếp xúc pha liên tục, không ổn định, tầng cố định
+b) Sóng hấp phụ
+- Hỗn hợp hai cấu tử khí hoặc
+lỏng với cấu tử bị hấp phụ
+mạnh có nồng độ 𝐶0. Hỗn
+hợp được cho chuyển động
+qua tầng hạt chất hấp phụ
+nguyên chất có chiều cao
+tương đối lớn.
+- Những lớp hạt bên trên sẽ
+tiếp xúc với hỗn hợp đậm
+đặc đi vào và sẽ hấp phụ
+nhanh-hiệu quả. Sau đó,
+hỗn hợp với nồng độ chất
+bị hấp phụ thấp sẽ được
+các lớp hạt bên dưới hấp
+phụ triệt để. Hỗn hợp ra ở
+đáy tầng hạt có nồng độ
+chất bị hấp phụ không đáng
+kể 𝐶𝑎 như trên hình.
+65/104
+
+8.4 Hấp phụ tiếp xúc pha liên tục, không ổn định, tầng cố định
+b) Sóng hấp phụ
+- Sự phân bố chất bị hấp phụ trên tầng
+hạt được trình bày ở phần trên hình với
+các đường kẻ ngang biểu diễn nồng độ
+tương đối của chất bị hấp phụ.
+- Hình vẽ cho thấy các lớp hạt trên cùng
+đã đạt bão hòa, quá trình hấp phụ xảy
+ra trên một vùng hẹp trong đó nồng độ
+biến đổi nhanh. Nếu hỗn hợp tiếp tục
+được cho vào tầng thì vùng hấp phụ di
+chuyển dần xuống dưới với tốc độ
+chậm.
+- Ở hình b, khoảng nửa tầng hạt đã bão
+hòa chất bị hấp phụ nhưng nồng độ
+chất tan trong hỗn hợp ra khỏi tầng vẫn
+gần bằng 0 (𝐶𝑏).
+- Ở hình c, vùng hấp phụ đã đến đáy tầng, nồng độ chất bị hấp phụ trong hỗn hợp ra
+khỏi tầng tăng đột ngột đến 𝐶𝑐. Nồng độ ra khỏi tầng tiếp tục tăng nhanh và khi
+vùng hấp phụ qua khỏi đáy tầng thì nồng độ đạt đến giá trị ban đầu 𝐶0 ở hình d.
+đến đây xem như toàn bộ tầng hấp phụ đã đạt cân bằng với dòng nhập liệu. 66/104
+
+8.4 Hấp phụ tiếp xúc pha liên tục, không ổn định, tầng cố định
+b) Sóng hấp phụ
+- Nếu quá trình hấp phụ hơi từ hỗn hợp khí xảy ra bậc nhiệt theo cách này, nhiệt hấp
+phụ phát ra sẽ tạo nên một sóng nhiệt độ di chuyển qua tầng tương tự như song
+hấp phụ. Ghi nhận nhiệt độ tại đầu ra của tầng sẽ xác định được sơ bộ điểm tăng
+nồng độ chất bị hấp phụ trong dòng khí ra.
+- Với quá trình hấp phụ chất tan trong chất lỏng thì sự tăng nhiệt độ tương đối nhỏ.
+- Đường cong sóng hấp phụ: biểu diễn nồng độ chất bị hấp phụ trong dòng ra và thời
+gian đạt đến điểm tăng nồng độ có ảnh hưởng nhiều lên phương pháp vận hành
+thiết bị hấp phụ tầng cố định. Đường cong có dạng chữ S.
+- Yếu tố ảnh hưởng lên dạng đường cong sóng: tốc độ và cơ chế của quá trình hấp
+phụ, bản chất của cân bằng hấp phụ, vận tốc lưu chất, nồng độ của chất bị hấp phụ
+trong nhập liệu, chiều cao tầng.
+- Thời gian đạt đến điểm tăng nồng độ trong dòng ra sẽ giảm khi:
+▪ Giảm chiều cao tầng
+▪ Tăng kích thước hạt hấp phụ
+▪ Tăng tốc độ chuyển động của lưu chất qua tầng
+▪ Tăng nồng độ đầu vào của dòng nhập liệu
+- Chiều cao tầng tối thiểu: nếu nhỏ hơn chiều cao này thì nồng độ chất bị hấp phụ
+trong dòng ra sẽ tăng nhanh ngay khi dòng ra vừa xuất hiện.
+- Khi thiết kế thiết bị hấp phụ cần xác định đường cong sóng hấp phụ bằng thực
+nghiệm trong những điều kiện tương tự như thực tế.
+67/104
+
+8.4 Hấp phụ tiếp xúc pha liên tục, không ổn định, tầng cố định
+c) Tốc độ hấp phụ trong tầng cố định
+Ý nghĩa của đường cong sóng hấp phụ và thời gian đạt đến điểm tăng
+nồng độ chất tan trong dòng ra để:
+▪ Thiết kế thiết bị hấp phụ tầng cố định
+▪ Xác định khoảng thời gian giữa hai lần tái sinh chất hấp phụ
+Đặc điểm của thiết bị hấp phụ tầng cố định: hoạt động không ổn định
+và có nhiều yếu tố ảnh hưởng nên rất khó tính cho trường hợp tổng
+quát.
+Phương pháp Michael, với giả sử:
+❑ Hấp phụ đẳng nhiệt từ hỗn hợp loãng
+❑ Đường cân bằng đẳng nhiệt có dạng lõm về trục nồng độ hỗn hợp
+❑ Vùng hấp phụ có chiều cao không đổi khi hỗn hợp di chuyển qua
+tầng
+❑ Chiều cao tầng hạt hấp phụ là lơn so với chiều cao vùng hấp phụ
+Các giả sử này thường phù hợp với những ứng dụng của quá trình hấp
+phụ trong thực tế. Thiết lập các phương trình tính cho trường hợp hấp
+phụ hỗn hợp khí và tương tự với hỗn hợp lỏng.
+
+68/104
+
+8.4 Hấp phụ tiếp xúc pha liên tục, không ổn định, tầng cố định
+c) Tốc độ hấp phụ trong tầng cố định: Phương pháp Michael
+Lưu lượng dòng khí trơ chuyển động qua một đơn vị tiết diện tầng: 𝐺𝑡𝑟, kg/m2.h
+Nồng độ chất cần hấp phụ ban đầu: 𝑌0, kg chất bị hấp phụ/kg khí trơ
+Lưu lượng tổng dòng khí ra khỏi tầng không kể chất bị hấp phụ: W, kg/m2 tiết diện tầng
+Nồng độ bắt đầu tăng trên đường cong sóng hấp phụ: 𝑌𝐵
+Nồng độ bất kỳ gần bằng nồng độ đầu: 𝑌𝐸
+Khối lượng tổng dòng ra tương ứng với 𝑌𝐵 và 𝑌𝐸 : 𝑊𝐵, 𝑊𝐸
+
+Tổng khối lượng tích lũy dòng ra
+trong khoảng tăng nồng độ:
+𝑊𝑎 = 𝑊𝐸 − 𝑊𝐵
+Chiều cao vùng hấp phụ không đổi
+tương ứng với chiều cao tầng trong
+đó đạt được sự biến đổi nồng độ
+pha khí từ 𝑌𝐵 đến 𝑌𝐸 : 𝑍𝑎, m
+Thời gian cần thiết để vùng hấp
+phụ di chuyển hết bậc trên đường
+cong sóng:
+𝑊𝑎
+𝜃𝑎 =
+𝐺𝑡𝑟
+69/104
+
+8.4 Hấp phụ tiếp xúc pha liên tục, không ổn định, tầng cố định
+c) Tốc độ hấp phụ trong tầng cố định: Phương pháp Michael
+𝑊
+Thời gian cần thiết để thiết lập vùng hấp phụ và di chuyển qua tầng: 𝜃𝐸 = 𝐸
+𝐺𝑡𝑟
+
+Thời gian cần thiết để thiết lập vùng hấp phụ: 𝜃𝐹
+Chiều cao tầng hấp phụ: 𝑍
+
+Chiều cao vùng hấp phụ: 𝑍𝑎 = 𝑍
+
+𝜃𝑎
+𝜃𝐸 −𝜃𝐹
+
+Lượng chất được hấp phụ từ pha khí trong vùng hấp phụ từ 𝑌𝐵 (bắt đầu tăng nồng độ)
+đến 𝑌𝐸 (ngừng quá trình): U, kg chất bị hấp phụ/m2 tiết diện tầng. U được xác định bởi
+phần diện tích gạch trên hình.
+𝑊𝐸
+
+𝑈=න
+
+𝑌0 − 𝑌 𝑑𝑊
+
+𝑊𝐵
+
+Nếu tất cả chất hấp phụ trong vùng là
+bão hòa với chất bị hấp phụ, khi đó
+chất hấp phụ sẽ chứa 𝑌0 𝑊𝑎 , kg chất bị
+hấp phụ/m2.
+Tại điểm bắt đầu tăng nồng độ, vùng
+còn trong tầng, khả năng hấp phụ
+thêm chất bị hấp phụ:
+𝑊𝐸
+𝑌 − 𝑌 𝑑𝑊
+‫׬‬
+𝑈
+𝑊𝐵 0
+𝑓=
+=
+𝑌0 𝑊𝑎
+𝑌0 𝑊𝑎
+
+70/104
+
+8.4 Hấp phụ tiếp xúc pha liên tục, không ổn định, tầng cố định
+c) Tốc độ hấp phụ trong tầng cố định: Phương pháp Michael
+𝑓 = 0: chất hấp phụ đạt bão hòa với chất bị hấp phụ, thời gian thiết lập vùng hấp phụ
+tại đỉnh tầng 𝜃𝐹 sẽ bằng thời gian cần thiết để vùng chuyển động qua một bậc bằng
+bản thân chiều cao của vùng hấp phụ.
+𝑓 = 1: chất hấp phụ trong vùng là nguyên chất, thời gian thành lập vùng là rất ngắn.
+𝜃𝐹 vs. 𝜃𝛼 : 𝜃𝐹 = 1 − 𝑓 𝜃𝑎
+Chiều cao vùng hấp phụ: 𝑍𝑎 = 𝑍
+
+𝜃𝑎
+𝜃𝑎
+𝑊𝑎
+=𝑍
+=𝑍
+𝜃𝐸 −𝜃𝐹
+𝜃𝐸 − 1−𝑓 𝜃𝑎
+𝑊𝑎 − 1−𝑓 𝑊𝑎
+
+Khối lượng riêng xốp của chất hấp phụ: 𝜌𝑆
+Một đơn vị diện tích tầng có chiều cao Z chứa: 𝑍𝜌𝑆 kg chất hấp phụ
+Nếu khối hạt này bão hòa với chất bị hấp phụ tại nồng độ 𝑋𝑇 thì khối lượng chất bị hấp
+phụ: 𝑍𝜌𝑆 𝑋𝑇, kg.
+Tại điểm bắt đầu tăng nồng độ, chiều cao vùng hấp phụ 𝑍𝑎 vẫn còn nằm trong đáy tầng
+và chiều cao còn lại của tầng 𝑍 − 𝑍𝑎 thì đã bão hòa. Lượng chất bị hấp phụ là:
+𝑍 − 𝑍𝑎 𝜌𝑆 𝑋𝑇 + 𝑍𝑎𝜌𝑆 1 − 𝑓 𝑋𝑇
+Độ bão hòa của tầng tại điểm tăng nồng độ:
+𝑍 − 𝑍𝑎 𝜌𝑆 𝑋𝑇 + 𝑍𝑎𝜌𝑆 1 − 𝑓 𝑋𝑇 𝑍 − 𝑓𝑍𝑎
+=
+𝑍𝜌𝑆 𝑋𝑇
+𝑍
+71/104
+
+8.4 Hấp phụ tiếp xúc pha liên tục, không ổn định, tầng cố định
+c) Tốc độ hấp phụ trong tầng cố định: Phương pháp Michael
+Tháp hấp phụ: trong tầng cố định, vùng hấp phụ chuyển động qua tầng từ trên xuống
+dưới. Hay có thể xem tầng cố định như tháp hấp phụ (tương tự tháp hấp thụ) với chất
+rắn hấp phụ di chuyển từ dưới lên, nghịch chiều với dòng lưu chất, với vận tốc đảm
+bảo cho vùng hấp phụ nằm cố định bên trong tầng như hình trình bày. Chất rắn rời
+đỉnh tầng cân bằng pha với dòng khí vào tháp và vì thế tất cả chất bị hấp phụ trong
+dòng khí đều bị hấp phụ, điều này đòi hỏi tháp cao vô cực.
+Phương trình đường làm việc cho
+toàn tháp:
+𝐺𝑡𝑟 𝑌0 − 0 = 𝐿𝑡𝑟 (𝑋𝑇 − 0)
+hay
+𝐿𝑡𝑟
+𝑌0
+=
+𝐺𝑡𝑟 𝑋𝑇
+Đường làm việc qua gốc tọa độ nên
+tại một vị trí bất kỳ trong tháp nồng
+độ của chất bị hấp phụ trong pha khí
+(Y) và trong pha rắn hấp phụ (X) liên
+hệ với nhau:
+𝐺𝑡𝑟 𝑌 = 𝐿𝑡𝑟 𝑋
+72/104
+
+c) Tốc độ hấp phụ trong tầng cố định: Phương pháp Michael
+Tháp hấp phụ:
+CBVC trong khoảng chiều cao vi phân của tầng 𝑑𝑍:
+𝐺𝑡𝑟 𝑑𝑌 = 𝐾𝑦 𝑎𝑝 𝑌 − 𝑌 ∗ 𝑑𝑍
+Tính cho vùng hấp phụ với 𝐾𝑦 𝑎𝑝 không đổi:
+𝑌𝐸
+𝑍𝑎
+𝑑𝑌
+𝑑𝑍
+𝑍𝑎
+𝑍𝑎
+𝑁𝑡𝑂𝐺 = න
+=න
+=
+=
+→ 𝑍𝑎 = 𝑁𝑡𝑂𝐺 𝐻𝑡𝑂𝐺
+∗
+𝑌
+−
+𝑌
+𝐺
+/𝐾
+𝑎
+𝐺
+/𝐾
+𝑎
+𝐻
+𝑡𝑟
+𝑦 𝑝
+𝑡𝑟
+𝑦 𝑝
+𝑡𝑂𝐺
+𝑌𝐵
+0
+
+với 𝑁𝑡𝑂𝐺 : số đơn vị truyền khối tổng quát
+của pha khí trong vùng hấp phụ; 𝐻𝑡𝑂𝐺 : chiều
+cao đơn vị truyền khối tổng quát của pha
+khí; 𝐾𝑦 : hệ số truyền khối tổng quát theo
+pha khí; 𝑎𝑝 : diện tích bề mặt riêng của hạt,
+m2/m3 tầng hạt. Với 𝑍 < 𝑍𝑎 :
+𝑌
+𝑑𝑌
+‫׬‬
+𝑍𝑡ạ𝑖 𝑌 𝑊 − 𝑊𝐵
+𝑌𝐵 𝑌 − 𝑌 ∗
+=
+=
+𝑌
+𝑑𝑌
+𝑍𝑎
+𝑊𝑎
+‫ 𝑌 𝐸 𝑌׬‬− 𝑌 ∗
+𝐵
+Phương trình này giúp vẽ được đường cong
+sóng hấp phụ bằng cách lấy tích phân bằng
+đồ thị.
+73/104
+
+8.4 Hấp phụ tiếp xúc pha liên tục, không ổn định, tầng cố định
+
+74/104
+
+8.4 Hấp phụ tiếp xúc pha liên tục, không ổn định, tầng cố định
+Ví dụ 10.4 tiếp
+
+Hình 10.32: Đường cân bằng-đường làm việc cho ví dụ 10.4
+
+75/104
+
+8.4 Hấp phụ tiếp xúc pha liên tục, không ổn định, tầng cố định
+Ví dụ 10.4 tiếp
+
+4,438
+
+4000
+
+6,728
+
+76/104
+
+8.4 Hấp phụ tiếp xúc pha liên tục, không ổn định, tầng cố định
+
+Ví dụ 10.4 tiếp
+
+Hình 10.33: Đường cong sóng hấp phụ cho ví dụ 10.4
+
+77/104
+
+8.4 Hấp phụ tiếp xúc pha liên tục, không ổn định, tầng cố định
+Ví dụ 10.4 tiếp
+
+78/104
+
+8.4 Hấp phụ tiếp xúc pha liên tục, không ổn định, tầng cố định
+Ví dụ 10.4 tiếp
+
+79/104
+
+8.4 Hấp phụ tiếp xúc pha liên tục, không ổn định, tầng cố định
+Ví dụ 10.4 tiếp
+
+tầng.
+
+80/104
+
+Thiết bị hấp phụ (adsorber vessel)
+
+Three-step process. ReACT multipollutant removal is accomplished in three steps: The
+adsorption stage, where pollutants are captured on activated coke; the regeneration
+stage, where the activated coke is regenerated; and the by-product recovery stage,
+where a marketable sulfuric acid by-product is available. Source: Hamon ResearchCottrell Inc.
+
+81/104
+
+Thiết bị hấp phụ (adsorber vessel)
+Internals of Adsorber Vessel (of a Gas Dryer)
+
+Example shows the vessel internals for a typical gas dryer which is designed to use
+molecular sieve as desiccant’
+82/104
+
+Thiết bị hấp phụ (adsorber vessel)
+
+50 mm Thick Sulfur Adsorber
+
+83/104
+
+B. Trao đổi ion
+84/104
+
+8.5 Trao đổi ion: Khái niệm
+Trao đổi ion (ion exchange): các phản ứng hóa học đổi chỗ giữa một chất
+điện giải trong dung dịch khi tiếp xúc với một chất điện giải không tan.
+Cơ chế: rất giống với cơ chế của quá trình hấp phụ và được xem là
+trường hợp đặc biệt của quá trình hấp phụ.
+
+85/104
+
+8.5 Trao đổi ion: Nguyên lý và ứng dụng
+Chất trao đổi ion: phải có độ xốp, có trong tự nhiên hay là chất tổng
+hợp: chứa silica (zeolite) ví dụ: Na2O3.Al2O3.4SiO2.2H2O
+Trao đổi cation: các ion mang điện tích dương trong dung dịch có khả
+năng khuếch tán qua lỗ xốp để trao đổi với ion Na+ của chất rắn trao đổi
+ion. Ion Na+ sẽ thế chỗ của Ca2+ trong dung dịch và ion Ca2+ bị giữ lại
+trong zeolite:
+Ca2+ + Na2R → CaR + 2Na+
+với R: chất còn lại trong zeolite.
+Phản ứng có tính thuận nghịch, chất rắn khi đã bão hòa Ca2+ có thể
+được tái sinh bằng cách cho tiếp xúc với dung dịch muối:
+CaR + 2NaCl → Na2R + CaCl2
+Ứng dụng: làm mềm nước cứng (có nồng độ ion Ca2+ cao) bằng cách cho
+tiếp xúc với zeolite.
+
+86/104
+
+8.5 Trao đổi ion: Nguyên lý và ứng dụng
+Trao đổi cation:
+
+Khi nguồn nước thô ban đầu (nước
+cứng) đi qua vật liệu trao đổi ion, các
+ion Ca2+ sẽ thay thế với ion Na+ trong
+vật liệu trao đổi. Nước được làm mềm
+sẽ chứa ion Na+ thay cho ion Ca2+ và có
+thể sử dụng được.
+87/104
+
+8.5 Trao đổi ion: Nguyên lý và ứng dụng
+Cơ chế làm mềm nước bằng nhựa trao đổi cation:
+
+8.5 Trao đổi ion: Nguyên lý và ứng dụng
+Nhựa trao đổi ion: năm 1935, nhựa trao đổi ion được tổng hợp, như
+các loại nhựa polymer tổng hợp không tan, chứa các nhóm sulfonic,
+carboxylic hay phenolic (nhựa cation) hay chứa chứa nhóm amin và các
+nhóm anion (nhựa anion).
+Phản ứng trao đổi ion với nhựa cation:
+Na+ + HR ⇄ NaR + H+
+và các cation khác nhau sẽ trao đổi ion với nhựa cation ở các mức độ
+khác nhau.
+
+89/104
+
+8.5 Trao đổi ion: Nguyên lý và ứng dụng
+Phản ứng trao đổi ion với nhựa anion:
+Cơ chế: phức tạp hơn so với trao đổi cation
+RNH3OH + Cl– → RNH3Cl + OH–
+H+ + OH– → H2O
+với RNH3: phần cation cố định của nhựa.
+Khi bão hòa, các loại nhựa trao đổi anion sẽ được tái sinh bằng cách cho
+tiếp xúc với dung dịch kiềm.
+
+90/104
+
+8.5 Trao đổi ion: Phản ứng trao đổi ion với nhựa anion và cation
+
+91/104
+
+8.5 Trao đổi ion: Cân bằng của quá trình
+Định luật tác dụng khối lượng (the law of mas action):
+Cân bằng của quá trình trao đổi ion giữa các hạt nhựa và dung dịch
+được mô tả bằng các đường đẳng nhiệt như trong quá trình hấp phụ.
+Các phương trình thực nghiệm Freundlich và các phương trình của định
+luật tác dụng khối lượng được áp dụng vào phản ứng trao đổi ion.
+Ví dụ phản ứng trao đổi cation:
+Na+ + R – H+ ⇄ R – Na+ + H+
+(dd)
+(rắn)
+(rắn)
+(dd)
+Hằng số định luật tác dụng khối
+lượng:
+𝑅 − 𝑁𝑎+ 𝑟ắ𝑛 𝐻 + 𝑑𝑑
+𝛼=
+𝑅 − 𝐻 + 𝑟ắ𝑛 𝑁𝑎+ 𝑑𝑑
+𝑁𝑎+
+𝐻+
+=
+𝐻 + 𝑟ắ𝑛 𝑁𝑎+ 𝑑𝑑
+92/104
+
+8.5 Trao đổi ion: Cân bằng của quá trình
+
+Độ hấp phụ tương đối, :
+Hằng số định luật tác dụng khối lượng được xem như biểu diễn cho độ
+hấp phụ tương đối. Trong ví dụ phản ứng này, : độ hấp phụ tương đối
+của Na+ so với H+.
+Vì dung dịch và chất rắn ở trạng thái trung hòa điện trong suốt quá trình
+trao đổi (cân bằng giữa các ion) nên:
+𝑋 𝐶0 − 𝐶 ∗
+𝑋/𝑋0 1 − 𝐶 ∗ /𝐶0
+𝛼=
+=
+∗
+𝑋0 − 𝑋 𝐶
+1 − 𝑋/𝑋0 𝐶 ∗ /𝐶0
+với 𝑋: nồng độ cân bằng của Na+ trong chất rắn; 𝑋0: nồng độ nếu tất cả
+H+ được thay bằng Na+; 𝐶0: nồng độ đầu của Na+ và H+ trong dung dịch
+và do đó 𝐶0 là tổng nồng độ của hai ion tại thời điểm bất kỳ; 𝐶 ∗ : nồng độ
+cân bằng của Na+ sau khi trao đổi. Đơn vị của các nồng độ được biểu
+diễn theo đương lượng cho mỗi đơn vị thể tích hoặc khối lượng.
+Tổng quát cho một hệ bất kỳ, độ hấp phụ tương đối  tại một nhiệt độ
+xác định thay đổi theo tổng nồng độ cation 𝐶0 trong dung dịch và theo
+𝐶 ∗ . Trong một số trường hợp,  không đổi theo 𝐶 ∗ tại một giá trị không
+đổi 𝐶0.
+93/104
+
+8.5 Trao đổi ion: Tốc độ của quá trình
+Các giai đoạn của quá trình trao đổi ion:
+1. Khuếch tán của các ion trong pha lỏng đến bề mặt các hạt nhựa rắn
+2. Khuếch tán của ion qua bề mặt hạt nhựa rắn
+3. Trao đổi ion
+4. Khuếch tán của các ion được thay thế từ trong (pha rắn) ra bề mặt
+hạt nhựa rắn
+5. Khuếch tán của các ion được thay thế từ bề mặt hạt rắn vào pha lỏng
+Kiểm soát quá trình:
+▪ Giai đoạn 3 có thể kiểm soát toàn bộ quá trình, tuy nhiên có trường
+hợp tốc độ phản ứng rất nhanh so với tốc độ khuếch tán thì các giai
+đoạn khuếch tán sẽ kiểm soát quá trình.
+▪ Tốc độ khuếch tán có thể được biểu diễn theo các hệ số truyền khối
+thích hợp cho quá trình khuếch tán nghịch dòng qua pha rắn và pha
+lỏng.
+▪ Trở lực khuếch tán qua pha lỏng là yếu tố kiểm soát.
+▪ Trường hợp phản ứng trao đổi là rất nhanh so với tốc độ truyền khối,
+thiết bị trao đổi ion được thiết kế giống như thiết bị hấp phụ. 94/104
+
+8.5 Trao đổi ion: Ví dụ 10.5
+
+95/104
+
+8.5 Trao đổi ion: Ví dụ 10.5 tiếp
+
+96/104
+
+8.5 Trao đổi ion: Ví dụ 10.5 tiếp
+
+97/104
+
+8.5 Trao đổi ion: Ví dụ 10.5 tiếp
+
+98/104
+
+8.5 Trao đổi ion: Ví dụ 10.5 tiếp
+
+99/104
+
+8.5 Trao đổi ion: Ví dụ 10.5 tiếp
+
+a)
+
+b)
+Hình 10.34: Lời giải cho ví dụ 10.5
+a) Thu hồi trên nhựa; b) Tái sinh nhựa
+
+100/104
+
+8.5 Trao đổi ion: Các loại nhựa trao đổi ion
+Dạng hạt mịn, kích thước từ 16-325 mesh
+
+Hạt nhựa trao đổi ion A-400 Purolite
+
+101/104
+
+8.5 Trao đổi ion: Thiết bị
+Các kỹ thuật sử dụng cho quá trình hấp phụ đều có thể sử dụng cho quá
+trình trao đổi ion.
+Các loại thiết bị sử dụng: xử lý dung dịch gián đoạn, liên tục, tầng lưu
+hóa, tần cố định, liên tục nghịch dòng. Trong đó, thiết bị tầng cố định
+được sử dụng phổ biến.
+
+102/104
+
+8.5 Trao đổi ion: Thiết bị
+
+103/104
+
+8.5 Trao đổi ion: Thiết bị
+
+104/104
+
+8.6 Bài tập
+
+105/104
+
+

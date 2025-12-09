@@ -1,0 +1,910 @@
+TRUYỀN KHỐI
+Bài giảng # 5
+
+Hấp Thu
+PGS. TS. Nguyễn Hữu Hiếu
+Bộ môn Quá Trình & Thiết Bị
+Khoa Kỹ Thuật Hóa Học
+Trường Đại Học Bách Khoa TP.HCM
+nhhieubk@hcmut.edu.vn
+
+1/51
+
+Nội dung
+5.1 Khái niệm
+5.2 Độ hòa tan cân bằng
+5.3 Cân bằng vật chất
+5.4 Ảnh hưởng của nhiệt độ và áp suất
+5.5 Tháp hấp thu
+5.6 Bài tập
+
+2/51
+
+5.1 Khái niệm
+Hấp thu/thụ (absorption/srubbing): quá trình tách
+một/nhiều cấu tử của hỗn hợp khí/hơi bằng cách
+cho tiếp xúc với chất lỏng.
+Tên gọi:
+▪ Chất hấp thu (absorbent): chất lỏng để hòa tan
+khí
+▪ Chất bị hấp thu: cấu tử tách ra từ hỗn hợp khí
+▪ Khí trơ (inert): cấu tử khí không hòa tan
+Mục đích: hòa tan chọn lọc một hay nhiều cấu tử
+của hỗn hợp hơi/khí để tạo dung dịch của các cấu tử
+đó.
+Hấp thu vs. nhả hấp (desorption/stripping):
+• Hấp thu: vật chất từ pha khí vào pha lỏng. Vd:
+NH3 → H2O
+• Nhả hấp: vật chất từ pha lỏng vào pha khí bằng:
+hơi nước, khí trơ, tăng nhiệt độ, giảm áp suất. Vd:
+NH3/NH4OH 
+
+3/51
+
+5.1 Khái niệm
+Hấp thu
+Phân loại:
+❑Hấp thu vật lý: cấu tử bị
+hấp thu không tương tác
+hóa học với dung môi và
+có thể thực hiện nhả hấp
+❑Hấp thu hóa học: có xảy
+ra phản ứng hóa học giữa
+dung môi và cấu tử bị hấp
+thu và không thể thực hiện
+nhả hấp thông thường mà phải tiến hành hoàn nguyên dung môi bằng
+phương pháp hóa học.
+Ứng dụng: trong công nghiệp hóa chất, thực phẩm và môi trường
+1. Thu hồi các cấu tử có giá trị trong pha khí
+2. Làm sạch khí
+3. Tách hỗn hợp khí
+4. Tạo dung dịch sản phẩm
+4/51
+
+5.1 Khái niệm
+Chọn dung môi: hấp thu có tính chọn lọc, dung môi chỉ hấp thu một/vài cấu tử
+của hỗn hợp khí. Vì vậy, việc chọn dung môi là bước đầu tiên khi tiến hành quá trình
+hấp thu, dựa trên các yêu cầu sau:
+1. Có tính chọn lọc cao: ưu tiên số 1, được đánh giá qua độ hòa tan chọn lọc, là hòa
+tan tốt cấu tử cần tách ra khỏi hỗn hợp. Dung môi và chất tan có bản chất hóa học
+tương tự nhau sẽ có độ hòa tan tốt.
+2. Độ bay hơi thấp: dung môi nên có áp suất hơi thấp → ít thất thoát dung môi vào
+pha khí.
+3. Tính ăn mòn thấp: vật liệu chế tạo thiết bị rẻ tiền, dễ tìm
+4. Độ nhớt thấp: sẽ tăng tốc độ hấp thu, giảm ngập lụt trong tháp hấp thu, độ giảm áp
+thấp và truyền nhiệt tốt.
+5. Không độc, không dễ cháy: đảm bảo an toàn với môi trường
+6. Rẻ, dễ cung cấp và ổn định
+7. Các tính chất khác: nhiệt dung riêng thấp → ít tốn nhiệt khi hoàn nguyên; nhiệt độ
+đóng rắn thấp, không tạo tủa → tránh tắt nghẽn thiết bị.
+Thực tế: không có dung môi thỏa mãn hết các tính chất trên nên tùy vào điều kiện cụ
+thể để chọn.
+
+5/51
+
+5.2 Độ hòa tan cân bằng (equilibrium solubility)
+a. Hệ hai cấu tử: khí đơn chất được cho tiếp xúc với dung môi tương
+đối không bay hơi.
+Độ hòa tan cân bằng: nồng độ chất khí hòa tan trong pha lỏng tại nhiệt
+độ và áp suất đã cho.
+Đường cong độ hòa tan: được xác định từ thực nghiệm cho mỗi hệ khílỏng khác nhau.
+
+6/51
+
+5.2 Độ hòa tan cân bằng
+a. Hệ hai cấu tử:
+Đặc điểm của độ hòa tan cân bằng
+▪ Áp suất cân bằng của chất khí tại nồng
+độ cho trước cao thì chất khí tương
+đối không hòa tan trong chất lỏng
+(đường cong B). Ngược lại thì chất khí
+có độ hòa tan cao (đường cong C).
+▪ Nồng độ khí trong lỏng có thể được
+điều chỉnh bằng cách tác động lên hệ
+một áp suất tương ứng, Vd: dạng khí
+D
+hóa lỏng sẽ hoàn toàn hòa tan trong
+chất lỏng.
+▪ Khí hòa tan vào lỏng sẽ phát nhiệt.
+▪ Độ hòa tan của khí sẽ giảm khi nhiệt
+độ tăng và tại nhiệt độ sôi của dung
+6.1: Đường cân bằng của độ hòa
+môi, độ hòa tan của chất khí sẽ bằng Hình
+tan chất khí trong chất lỏng.
+không.
+7/51
+
+5.2 Độ hòa tan cân bằng
+b. Hệ nhiều cấu tử: hỗn hợp khí được cho tiếp xúc với chất lỏng tại
+điều kiện xác định.
+Đặc điểm của độ hòa tan cân bằng:
+❑ Độ hòa tan cân bằng của mỗi chất khí sẽ độc lập nhau và được biểu
+diễn theo áp suất riêng phần 𝑝∗ trong hỗn hợp khí.
+❑ Nếu chỉ một cấu tử trong hỗn hợp khí hòa tan thì áp dụng như
+trường hợp hệ hai cấu tử (khí đơn chất). Vd: hòa tan NH3/không khí
+vào nước, không khí không tan vào nước và trục tung chỉ biểu diễn 𝑝∗
+của NH3.
+❑ Nếu nhiều cấu tử hòa tan vào chất lỏng:
+• Dung dịch lý tưởng: khi các cấu tử hòa tan có cùng bản chất với
+chất lỏng. Vd: hỗn hợp propan và butan hòa tan vào dầu paraffin
+không bay hơi.
+• Dung dịch không lý tưởng: chất lỏng có sự hiện diện của chất tan
+không bay hơi, Vd: dung dịch nước muối, → sẽ ảnh hưởng đến độ
+hòa tan của chất khí.
+8/51
+
+5.2 Độ hòa tan cân bằng
+c. Dung dịch lý tưởng: hỗn hợp khí lý tưởng cân bằng với dung dịch
+lý tưởng → 𝑝∗ của chất tan trong pha khí và phân mol (𝑥) của chất tan
+trong pha lỏng liên hệ với nhau theo định luật Raoult.
+𝑝𝐴∗ = 𝑥𝐴 𝑃𝑣𝑝,𝐴
+với 𝑃𝑣,𝐴 : áp suất hơi của A tinh khiết.
+
+9/51
+
+5.2 Độ hòa tan cân bằng
+d. Dung dịch không lý tưởng:
+Đường D và E trên hình biểu diễn sự
+không phù hợp với số liệu thực nghiệm
+của khí SO2 và NH3 hòa tan vào nước ở
+10 oC được tính theo định luật Raoult.
+Riêng NH3 chỉ phù hợp với thực nghiệm
+đến 0,06 phân mol NH3 trong pha lỏng.
+∗
+𝑝𝐴
+∗
+Định luật Henry: 𝑦𝐴 = = 𝑚𝑥
+𝑃
+𝑡
+
+với 𝑦𝐴∗ : phân mol cân bằng của chất khí
+
+C
+
+D
+
+trong pha lỏng; m: hằng số cho mỗi
+chất khí hay hệ số Henry được xác định
+bằng thực nghiệm.
+Hình 6.1: Đường cân bằng của độ hòa
+tan chất khí trong chất lỏng.
+
+10/51
+
+Định luật Henry:
+Giới hạn của định luật Henry:
+▪ Không đúng trong một khoảng rộng nồng độ
+▪ Chất khí ít hòa tan trong nước (N2, O2): đúng tới 𝑝∗ = 1 atm.
+▪ Chất khí dạng hơi (dưới nhiệt độ tới hạn): đúng tới 𝑝∗ = 50% Pt tại
+nhiệt độ xác định trước.
+
+11/51
+
+c. Dung dịch lý tưởng:
+
+12/51
+
+Định luật Raoult vs. Định luật Henry
+
+Định luật Raoult: 𝑝∗ = 𝑥𝑃𝑣
+
+Định luật Henry: 𝑝∗ = 𝑥𝐻 = 𝑦 ∗ 𝑃𝑡
+𝑦 ∗ = 𝑚𝑥
+
+𝑃𝑣
+→𝑦 =𝑥
+𝑃𝑡
+∗
+
+13/51
+
+5.3 Cân bằng vật chất
+a. Quá trình nghịch chiều (counter-current gas absorption):
+Tại vị trí bất kỳ, CBVC cho cấu tử trơ
+không đổi khi đi qua tháp:
+Pha hơi
+𝑦
+𝑝
+𝑌=
+=
+1 − 𝑦 𝑃𝑡 − 𝑝
+𝐺𝑡𝑟 = 𝐺 1 − 𝑦 = 𝐺/(1 + 𝑌)
+Pha lỏng
+𝑥
+𝑋=
+1−𝑥
+𝐿𝑡𝑟 = 𝐿 1 − 𝑥 = 𝐿/(1 + 𝑋)
+với 𝑋, 𝑌 : tỉ số mol; 𝐺𝑡𝑟 , 𝐿𝑡𝑟 : lưu
+lượng mol của cấu tử trơ trong pha
+Hình: Cân bằng vật chất cho quá trình
+khí và pha lỏng.
+hấp thu nghịch chiều
+
+14/51
+
+a. Quá trình nghịch chiều:
+Đường làm việc
+CBVC Cho bao hình 1:
+𝐺𝑡𝑟 𝑌1 − 𝑌 = 𝐿𝑡𝑟 𝑋1 − 𝑋
+Đây là PT đường làm việc trên giản đồ
+𝑋𝑌 với hệ số góc là 𝐿𝑡𝑟 /𝐺𝑡𝑟 và đi qua
+điểm (𝑋1 , 𝑌1 ).
+Đặc điểm đường làm việc:
+▪ Đường thẳng khi vẽ trên giản đồ tỉ
+ത
+số mol 𝑋𝑌 hay tỉ số khối lượng 𝑋ത 𝑌.
+▪ Đường cong nếu biểu diễn theo
+phân mol/ áp suất riêng phần với PT
+là:
+𝐺𝑡𝑟
+
+𝑦1
+𝑦
+𝑝1
+𝑝
+𝑥1
+𝑥
+−
+= 𝐺𝑡𝑟
+−
+= 𝐿𝑡𝑟
+−
+1 − 𝑦1 1 − 𝑦
+𝑃𝑡 − 𝑝1 𝑃𝑡 − 𝑝
+1 − 𝑥1 1 − 𝑥
+
+với 𝑃𝑡 : áp suất tổng được xem là không đổi trong suốt tháp.
+15/51
+
+a. Quá trình nghịch chiều:
+Tính lượng dung môi tối thiểu: khi biết
+Lưu lượng pha khí: 𝐺 hay 𝐺𝑡𝑟
+Nồng độ pha khí/pha lỏng: 𝑌1 , 𝑌2 và 𝑋2
+Trên hình: đường làm việc đi qua điểm D và kết thúc tại E có tung độ 𝑌1 và nồng độ pha
+lỏng là 𝑋1 . Nếu lượng dung môi sử dụng ít hơn thì thành pha lỏng đi ra sẽ lớn hơn
+(điểm F) nhưng động lực khuếch tán của quá trình sẽ nhỏ hơn → quá trình thực hiện
+khó hơn và thời gian tiếp xúc pha sẽ lâu hơn → Thiết bị sẽ cao hơn.
+
+Khi lượng dung môi tối thiểu:
+Đường làm việc sẽ tiếp xúc với đường
+cân bằng tại M;
+Động lực của quá trình bằng không;
+Thời gian tiếp xúc pha và chiều cao tháp
+không xác định;
+→ Điều kiện giới hạn cho lượng dung
+môi sử dụng.
+
+16/51
+
+a. Quá trình nghịch chiều:
+Tính lượng dung môi tối thiểu: thường thì đường cân bằng lõm và đường làm
+việc ứng với lượng dung môi tối thiểu tương ứng với nồng độ dòng ra cực đại (𝑋1𝑚𝑎𝑥 )
+cân bằng với dòng khí vào (𝑌1 ).
+
+𝑌1 − 𝑌2
+𝐿𝑡𝑟𝑚𝑖𝑛 = 𝐺𝑡𝑟
+𝑋1𝑚𝑎𝑥 − 𝑋2
+
+Thực tế: 𝐿𝑡ℎự𝑐 > 𝐿𝑚𝑖𝑛 và 𝑋1𝑚𝑎𝑥,𝑡ℎự𝑐 < 𝑋1𝑚𝑎𝑥
+Tương tự cho quá trình nhả khí: đường làm việc tiếp xúc đường cân bằng sẽ cho tỉ số
+lỏng/khí cực đại và nồng độ dòng khí ra là cực đại.
+
+17/51
+
+5.3 Cân bằng vật chất
+b. Quá trình cùng chiều (co-current gas absorption):
+
+Đặc điểm:
+▪ Đường làm việc có hệ số góc âm: −𝐿𝑡𝑟 /𝐺𝑡𝑟
+▪ Chiều cao tháp sẽ không xác định khi nồng độ hai pha
+đạt cân bằng (𝑋𝑒 , 𝑌𝑒 )
+Hình 6.8: Tháp nghịch chiềuỨng dụng:
+cùng chiều cho trường hợp
+▪ Khi tháp quá cao và được phân thành hai tháp để tiết tháp có chiều cao lơn.
+kiệm đường ống dẫn khí, tháp có đường kính khá lớn.
+▪ Cho cấu tử hòa tan là nguyên chất.
+18/51
+
+5.4 Ảnh hưởng của nhiệt độ (T) và áp suất (P)
+Nhiệt độ (T) và áp suất (P) có ảnh
+hưởng quan trọng lên trạng thái cân
+bằng và động lực của quá trình hấp thu.
+❑ T :
+▪ Hệ số Henry (m) , đường cân bằng
+sẽ dịch chuyển về trục tung.
+▪ PQ là đường làm việc, T  thì động
+lực truyền khối .
+▪ t3: nhiệt độ giới hạn, động lực truyền
+khối . Nếu tiếp tục tăng nhiệt độ thì
+quá trình không thực hiện được.
+▪ dung môi : có lợi nếu trở lực khuếch
+tán chủ yếu ở pha lỏng.
+
+19/51
+
+5.4 Ảnh hưởng của nhiệt độ (T) và áp suất (P)
+❑ P :
+▪ Hệ số Henry (m) , đường cân
+bằng sẽ dịch chuyển về trục
+hoành.
+▪ PQ là đường làm việc, P  thì động
+lực truyền khối .
+▪ P  → T .
+▪ P  → mức độ khó của gia công
+thiết bị .
+▪ Hấp thu ở áp cao được áp dụng
+đối với khí khó hòa tan: hấp thu
+CO2 vào nước lạnh ở 17 atm, CO ở
+120 atm.
+
+20/51
+
+5.5 Tháp hấp thu
+Yêu cầu cơ bản: bề mặt tiếp xúc pha lớn → hiệu suất quá trình 
+
+5.5.1 Tháp mâm
+
+Xác định số mâm lý thuyết:
+Bằng hình vẽ (graphical method)
+Vẽ đường làm việc và đường cân
+bằng theo tọa độ XY. Số mâm lý
+thuyết bằng số bậc thang.
+Tháp nhả khí: đường làm việc
+nằm dưới đường cân bằng.
+
+21/51
+
+5.5.1 Tháp mâm
+Xác định số mâm lý thuyết: bằng phương trình toán (mathematical equation).
+Điều kiện:
+▪ Đường làm việc và đường cân bằng là đường thẳng
+▪ Pha khí và pha lỏng có nồng độ thấp
+Giả sử: lượng khí hấp thu là nhỏ → lưu lượng pha khí và pha lỏng vào và ra khỏi tháp
+xem như không đổi, G và L.
+Đường làm việc là đường thẳng có hệ số góc L/G.
+Áp dụng phương trình Kremser:
+với A: thừa số hấp thu (absorption factor),
+Hấp thu:
+𝐿
+𝐴 = , là tỉ số giữa hệ số góc đường làm việc
+𝑚𝐺
+và hệ số góc đường cân bằng; 𝑆 = 1/𝐴: thừa
+số nhả hấp (stripping factor); m: hằng số Henry,
+hệ số góc của đường cân bằng.
+Nhả hấp:
+A < 1: mức độ hấp thu bị giới hạn
+A > 1: tháp đủ mâm sẽ đạt được mức độ hấp
+thu nhất định.
+A : nếu G cố định → L  → dung dịch ra tháp
+có nồng độ loãng. Đồng thời, N  → chi phí
+thiết bị .
+→ Mỗi quá trình hấp thu sẽ có giá trị A hay L/G phù hợp nhất.
+
+22/51
+
+5.5.1 Tháp mâm
+
+23/51
+
+Ví dụ 6.2
+G2, Y2, Gtr
+
+G1, Y1, Gtr
+
+L2, X2, Ltr
+
+L1, X1, Ltr
+
+L2, X2, Ltr
+
+L1, X1, Ltr
+24/51
+
+Ví dụ 6.2
+3
+
+25/51
+
+Ví dụ 6.2
+Các giá trị X và Y* để vẽ đường cân bằng
+X
+
+0
+
+0,04
+
+0,08
+
+0,12
+
+0,16
+
+0,20
+
+Y*
+
+0
+
+0,0048
+
+0,0094
+
+0,0115
+
+0,0176
+
+0,0213
+
+26/51
+
+Ví dụ 6.2
+
+Đường làm việc là đường DF. Số mâm lý thuyết cho quá trình hấp thu là  7,7 mâm.
+
+27/51
+
+Ví dụ 6.2
+
+28/51
+
+Ví dụ 6.2
+
+29/51
+
+5.5.1 Tháp mâm: Quá trình không đẳng nhiệt
+Quá trình hấp và nhả hấp đẳng nhiệt: nồng độ khí và khí hòa tan ở hai
+pha là thấp.
+Hiệu ứng nhiệt:
+Quá trình hấp thu
+▪ Hấp thu → phát nhiệt
+▪ Lượng lớn khí bị hấp thu vào pha lỏng → dung dịch đậm đặc
+• Nếu nhiệt độ pha lỏng  đáng kể → độ hòa tan cân bằng của pha
+lỏng  và năng suất tháp  (hay dùng lưu lượng pha lỏng lớn hơn).
+• Nếu nhiệt phát ra nhiều → phải làm nguội bên trong tháp hoặc đưa
+pha lỏng ra ngoài để làm nguội rồi hoàn lưu.
+Quá trình nhả hấp: thu nhiệt → nhiệt độ pha lỏng .
+
+30/51
+
+5.5.1 Tháp mâm: Quá trình không đẳng nhiệt
+CB năng lượng cho toàn tháp:
+𝐿𝑜 𝐻𝐿𝑜 + 𝐺𝑁+1 𝐻𝐺,𝑁+1 = 𝐿𝑁 𝐻𝐿𝑁 + 𝐺1 𝐻𝐺1 + 𝑄𝑡
+với H: enthalpy (kj/mol) của mỗi dòng ở nhiệt độ và
+nồng độ xác định so với cùng một nhiệt độ chuẩn (𝑡𝑜 ).
+𝑄𝑡 : lượng nhiệt lấy ra ở toàn tháp (kj/h).
+Pha lỏng: 𝐻𝐿 = 𝐶𝐿 𝑡𝐿 − 𝑡𝑜 𝑀𝑡𝑏 + ∆𝐻𝑆
+với ∆𝐻𝑆 : nhiệt hòa tan của dung dịch:
+∆𝐻𝑆 < 0: phát nhiệt
+∆𝐻𝑆 = 0: dung dịch lý tưởng và 𝐻𝐿,𝑆𝑜𝑙 = σ 𝐻𝐿,𝑖
+∆𝐻𝑆 > 0: thu nhiệt
+Dung dịch lý tưởng được tạo nên từ chất khí hấp thu
+thì 𝑄𝑡 = 𝑄𝑐ℎấ𝑡 𝑘ℎí 𝑛𝑔ư𝑛𝑔 𝑡ụ
+Pha khí ở 𝑡𝑜 , 1 atm: 𝐻𝐺 = 𝐶𝐺 𝑡𝐺 − 𝑡𝑜
+
+31/51
+
+5.5.1 Tháp mâm: Quá trình đoạn nhiệt
+▪ 𝑄𝑡 = 0
+▪ 𝑡𝐿,𝑟𝑎 > 𝑡𝐿,𝑣à𝑜 do nhiệt dung dịch
+→ Thiết kế tháp hấp thu phải được tính từng mâm
+CBVC và năng lượng từ đáy đến mâm thứ n:
+𝐿𝑛 + 𝐺𝑁+1 = 𝐿𝑁 + 𝐺𝑛+1
+𝐿𝑛 𝑥𝑛 + 𝐺𝑁+1 𝑦𝑁+1 = 𝐿𝑁 𝑥𝑁 + 𝐺𝑛+1 𝑦𝑛+1
+→ 𝐿𝑛 𝑣à 𝑥𝑛
+𝐿𝑛 𝐻𝐿,𝑛 + 𝐺𝑁+1 𝐻𝐺,𝑁+1 = 𝐿𝑁 𝐻𝐿𝑁 + 𝐺𝑛+1 𝐻𝐺,𝑛+1
+→ nhiệt độ của dòng 𝐿𝑛 , dòng 𝐺𝑛 có cùng nhiệt độ
+với dòng 𝐿𝑛 . Thành phần hai dòng 𝐿𝑛 và 𝐺𝑛 là cân
+bằng, vì các mâm là lý tưởng nên xác định được 𝑦𝑛 .
+Tương tự, áp dụng các PT trên cho mâm n – 1 với cho
+trước t1 của dòng G1 (t1 bằng nhiệt độ mâm 1) nhiệt
+độ dòng lỏng ra ở đáy tháp. t1 sẽ được kiểm tra khi
+tính cho từng mâm lên đến mâm đỉnh, nếu sai số lớn
+thì sẽ được tính lặp.
+32/51
+
+5.5.1 Tháp mâm: Hiệu suất mâm và số mâm thực
+• Hiệu suất được tính theo Murphree đã trình bày ở Bài giảng # 3
+• Tháp hấp thu và nhả khí: 𝐸 = 𝑓(𝑇, 𝑥, 𝑦 của dòng lưu chất biến đổi từ
+đáy tháp lên đỉnh)
+• Chỉ cần xác định hiệu suất tại 3 hoặc 4 vị trí và xác định số mâm thực.
+• Đường nét đứt cho biết thành phần của các dòng ở mâm thực
+Trên hình, hiệu suất mâm đáy = AB/AC
+Giả sử:
+▪ Hiệu suất mâm Murphree không đổi
+▪ Đường làm việc và đường cân bằng là
+đường thẳng (tuân theo định luật Henry,
+quá trình đẳng nhiệt, dung dịch loãng)
+Hiệu suất tổng quát tính theo giải tích:
+1
+𝑙𝑜𝑔
+1
++
+𝐸
+(
+𝑀𝐺 𝐴 − 1)
+𝑠ố 𝑚â𝑚 𝑙ý 𝑡ℎ𝑢𝑦ế𝑡
+𝐸𝑜 =
+=
+1
+𝑠ố 𝑚â𝑚 𝑡ℎự𝑐
+log( )
+𝐴
+
+với EMG: hiệu suất Murphree tính theo pha
+khí; A=Ltr/mGtr: hệ số hấp thu.
+
+Hình 6.16: Sử dụng hiệu suất
+Murphrree cho tháp hấp thu
+
+33/51
+
+5.5 Tháp hấp thu
+5.5.2 Tháp đệm
+Đặc điểm:
+▪ Tạo sự tiếp xúc pha liên tục giữa
+hai dòng lỏng-khí chuyển động
+nghịch chiều
+▪ Thành phần pha lỏng và pha khí
+thay đổi liên tục theo chiều cao
+tháp.
+▪ Mỗi điểm trên đường làm việc
+biểu diễn điều kiện làm việc tại
+một vị trí trong tháp
+
+34/51
+
+5.5.2 Tháp đệm: Chiều cao tháp đệm, z
+Xét tháp đệm/chêm có tiết diện bằng một đơn vị diện
+tích, quá trình truyền khối ổn định.
+CBVC qua một khoảng vi phân chiều cao: 𝑑𝐺 = 𝑑𝐿
+CBVC cho cấu tử: 𝑑(𝑦𝐺) = 𝑑(𝑥𝐿)
+Quá trình khuếch tán của một cấu tử qua cấu tử không
+khuếch tán: hấp thu, trích ly, hấp phụ và trao đổi ion.
+z Trong quá trình này, cả hai pha sẽ có lưu lượng thay
+đổi do sự truyền chất từ pha này sang pha kia nhưng
+lưu lượng cấu tử trơ không đổi. CBVC theo pha khí:
+𝐺𝑡𝑟 = 𝐺 1 − 𝑦
+𝑦
+𝑦
+𝑦
+→ 𝑑 𝑦𝐺 = 𝑑 𝐺𝑡𝑟
+= 𝐺𝑡𝑟 𝑑
+= 𝐺𝑡𝑟 𝑑
+1−𝑦
+1−𝑦
+1−𝑦
+𝑑𝑦
+𝑑𝑦
+= 𝐺𝑡𝑟
+=𝐺
+1−𝑦 2
+1−𝑦
+
+Tốc độ biến đổi cấu tử trong một pha bằng tốc độ truyền khối của cấu tử
+đó đến pha kia: 𝑑 𝑦𝐺 = 𝑘𝑦 𝑦𝑖 − 𝑦 𝑑𝑆 = 𝐾𝑦 𝑦 ∗ − 𝑦 𝑑𝑆
+với S: diện tích bề mặt tiếp xúc pha qua đó xảy ra quá trình truyền khối.
+
+35/51
+
+5.5.2 Tháp đệm: Chiều cao tháp đệm, z
+Diện tích bề mặt tiếp xúc pha: 𝑑𝑆 = 𝜎𝑑𝑧
+với 𝜎: diện tích bề mặt riêng của vật chêm, m2/m3; z: chiều cao tháp có
+tiết diện bằng một đơn vị diện tích, m.
+
+→ 𝑑 𝑦𝐺 = 𝐺
+‫(׬‬1)
+
+Chiều cao đệm:
+
+𝑑𝑦
+1−𝑦
+
+= 𝑘𝑦 𝑦𝑖 − 𝑦 𝜎𝑑𝑧 = 𝐾𝑦 𝑦 ∗ − 𝑦 𝜎𝑑𝑧 (1)
+
+𝑦2
+
+𝐺
+1 − 𝑦 𝑙𝑚 𝑑𝑦
+𝑧=න
+𝑦1 𝑘𝑦 𝜎 1 − 𝑦 𝑙𝑚 1 − 𝑦 𝑦𝑖 − 𝑦
+
+với 1 − 𝑦 𝑙𝑚 là trung bình logarit của 1 − 𝑦𝑖 và 1 − 𝑦
+1 − 𝑦𝑖 − 1 − 𝑦
+1 − 𝑦 𝑙𝑚 =
+𝑙𝑛 1 − 𝑦𝑖 / 1 − 𝑦
+Chiều cao đơn vị truyền khối pha khí-height of transfer units (HTU) dimension of length, HtG:
+𝐺
+𝐻𝑡𝐺 =
+𝑘𝑦 𝜎 1 − 𝑦 𝑙𝑚
+HtG: không đổi trong độ chính xác cho phép và được lấy giá trị trung bình
+36/51
+tại điều kiện làm việc ở đỉnh và đáy tháp.
+
+5.5.2 Tháp đệm: Chiều cao tháp đệm, z
+Số đơn vị truyền khối pha khí-number of transfer units (NTU) – dimensionless,
+NtG: mức độ khó khăn của quá trình hấp thu
+𝑦2
+1 − 𝑦 𝑙𝑚 𝑑𝑦
+𝑁𝑡𝐺 = න
+𝑦1 1 − 𝑦 𝑦𝑖 − 𝑦
+Đơn giản hóa: 1 − 𝑦 𝑙𝑚 =
+
+1−𝑦𝑖 + 1−𝑦
+: trung bình số học
+2
+𝑦2
+
+→ 𝑁𝑡𝐺 = න
+𝑦1
+
+𝑑𝑦
+1 1 − 𝑦2
++ 𝑙𝑛
+𝑦 − 𝑦𝑖
+2 1 − 𝑦1
+
+→Chiều cao đệm: 𝑧 = 𝐻𝑡𝐺 𝑁𝑡𝐺
+Theo pha lỏng:
+
+Chiều cao đơn vị truyền khối pha lỏng: 𝐻𝑡𝐿 =
+
+𝐿
+𝑘𝑥 𝜎 1−𝑥 𝑙𝑚
+
+Số đơn vị truyền khối pha lỏng:
+𝑥1
+𝑥1
+1 − 𝑥 𝑙𝑚 𝑑𝑥
+𝑑𝑥
+1 1 − 𝑥2
+𝑁𝑡𝐿 = න
+=න
++ 𝑙𝑛
+2 1 − 𝑥1
+𝑥2 1 − 𝑥 𝑥𝑖 − 𝑥
+𝑥2 𝑥𝑖 − 𝑥
+
+với 1 − 𝑥 𝑙𝑚 =
+
+1−𝑥𝑖 + 1−𝑥
+2
+
+Tương tự, chiều cao đệm: 𝑧 = 𝐻𝑡𝐿 𝑁𝑡𝐿
+37/51
+
+5.5.2 Tháp đệm: Chiều cao tháp đệm, z
+Tính theo hệ số truyền khối tổng quát, pha khí
+
+Khi đường cân bằng là đường thẳng và ky, kx = const
+𝐺
+Chiều cao đơn vị truyền khối tổng quát pha khí: 𝐻𝑡𝑂𝐺 =
+
+𝐾𝑦 𝜎 1−𝑦 ∗𝑙𝑚
+𝑌1 𝑑𝑌
+1
+1+𝑌2
+Số đơn vị truyền khối tổng quát pha khí: 𝑁𝑡𝑂𝐺 = ‫𝑌׬‬
++
+𝑙𝑛
+2
+1+𝑌1
+2 𝑌−𝑌 ∗
+
+Chiều cao đệm: 𝑧 = 𝐻𝑡𝑂𝐺 𝑁𝑡𝑂𝐺
+Tương tự, theo pha lỏng:
+𝐿
+𝐾𝑥 𝜎 1−𝑥 ∗𝑙𝑚
+𝑋1 𝑑𝑋
+1
+1+𝑋2
+Số đơn vị truyền khối tổng quát pha lỏng: 𝑁𝑡𝑂𝐿 = ‫∗ 𝑋׬‬
++ 𝑙𝑛
+2
+1+𝑋1
+2 𝑋 −𝑋
+
+Chiều cao đơn vị truyền khối tổng quát pha lỏng: 𝐻𝑡𝑂𝐿 =
+
+Chiều cao đệm: 𝑧 = 𝐻𝑡𝑂𝐿 𝑁𝑡𝑂𝐿
+Đặc điểm của phương pháp:
+▪ Tiên lợi vì đường làm việc trên tọa độ XY là đường thẳng.
+▪ Các PT tính z đều cho cùng kết quả. Pha nào có trở lực truyền khối lớn thì tính z
+theo pha đó.
+
+Quá trình nhả khí: động lực 𝑦𝑖 − 𝑦 hay 𝑥𝑖 − 𝑥 sẽ âm nhưng 𝑥2 > 𝑥1 và
+𝑦2 > 𝑦1 nên z vẫn > 0.
+38/51
+
+5.5.2 Tháp đệm: Xác định số đơn vị truyền khối tổng quát
+a. Bằng thừa số hấp thu A: trường hợp hỗn hợp có nồng độ loãng
+Hỗn hợp khí có nồng độ rất thấp:
+𝑦1
+𝑦1
+𝑑𝑦
+1 1 + 𝑦2
+𝑑𝑦
+𝑁𝑡𝑂𝐺 = න
++ 𝑙𝑛
+≈න
+∗
+∗
+𝑦
+−
+𝑦
+2
+1
++
+𝑦
+𝑦
+−
+𝑦
+1
+𝑦2
+𝑦2
+Giả sử đường cân bằng là đường thẳng trong khoảng 𝑥1 , 𝑥2 và Áp dụng
+định luật Henry thì phương trình đường cân bằng: 𝑦 ∗ = 𝑚𝑥
+Dung dịch loãng, lượng chất truyền giữa hai pha là nhỏ và đường làm
+𝐿
+việc cũng được xem là đường thẳng: 𝑦 = 𝑥 − 𝑥2 + 𝑦2
+𝐺
+Khử 𝑥 giữa các phương trình đường cân bằng và thay 𝑦 ∗ trong phương
+trình 𝑁𝑡𝑂𝐺 cho kết quả:
+Tháp hấp thu:
+𝑙𝑛
+
+𝑁𝑡𝑂𝐺 =
+
+𝑦1 − 𝑚𝑥1
+1
+1
+1−
++
+𝑦2 − 𝑚𝑥2
+𝐴
+𝐴
+; 𝐴 = 𝐿/𝑚𝐺
+1 − 1/𝐴
+
+Tháp nhả khí:
+𝑙𝑛
+
+𝑁𝑡𝑂𝐿 =
+
+𝑥2 − 𝑦2 /𝑚
+1−𝐴 +𝐴
+𝑥1 − 𝑦1 /𝑚
+1−𝐴
+
+39/51
+
+Xác định số đơn vị truyền khối tổng quát theo thừa số hấp thu
+
+40/51
+
+5.5.2 Tháp đệm: Xác định số đơn vị truyền khối tổng quát
+b. Bằng đồ thị
+
+Hình 6.19: Xác định số đơn vị truyền khối
+tổng quát bằng đồ thị
+
+Các bước xác định:
+▪ Vẽ đường trung bình KB: qua
+các trung điểm của các đoạn
+thẳng đứng giữa đường cân
+bằng và đường làm việc.
+▪ Vẽ bậc truyền khối: vẽ JK = KL
+và CE = EF, từ L và F vẽ thẳng
+đứng lên để có C và D → JLC và
+CFD: các đơn vị truyền khối.
+▪ Đường KB cũng đi qua giao
+điểm với các đoạn thẳng nằm
+ngang nối đường làm việc và
+đường cân bằng.
+41/51
+
+5.5.2 Tháp đệm: Chiều cao tổng quát của đơn vị truyền khối
+Khi hệ số góc đường cân bằng không đổi:
+1−𝑦 𝑖𝑙𝑚
+𝑚𝐺
+1−𝑥 𝑖𝑙𝑚
+Pha khí: 𝐻𝑡𝑂𝐺 = 𝐻𝑡𝐺
++
+𝐻𝑡𝐿
+1−𝑦 ∗𝑙𝑚
+𝐿
+1−𝑦 ∗𝑙𝑚
+
+Nếu trở lực truyền khối chủ yếu ở pha khí: 𝑦𝑖 = 𝑦 ∗
+𝑚𝐺
+1 − 𝑥 𝑖𝑙𝑚
+→ 𝐻𝑡𝑂𝐺 = 𝐻𝑡𝐺 +
+𝐻𝑡𝐿
+𝐿
+1 − 𝑦 ∗𝑙𝑚
+𝑚𝐺
+Hỗn hợp có nồng độ nhỏ: 𝐻𝑡𝑂𝐺 = 𝐻𝑡𝐺 +
+𝐻𝑡𝐿
+𝐿
+1−𝑥 𝑖𝑙𝑚
+𝐿
+1−𝑦 𝑖𝑙𝑚
+Pha lỏng: 𝐻𝑡𝑂𝐿 = 𝐻𝑡𝐿
++
+𝐻
+1−𝑥 ∗𝑙𝑚
+𝑚𝐺 𝑡𝐺 1−𝑥 ∗𝑙𝑚
+
+Nếu trở lực truyền khối chủ yếu ở pha lỏng: 𝑥𝑖 = 𝑥 ∗
+𝐿
+1 − 𝑦 𝑖𝑙𝑚
+→ 𝐻𝑡𝑂𝐿 = 𝐻𝑡𝐿 +
+𝐻𝑡𝐺
+𝑚𝐺
+1 − 𝑥 ∗𝑙𝑚
+𝐿
+Hỗn hợp có nồng độ nhỏ: 𝐻𝑡𝑂𝐿 = 𝐻𝑡𝐿 +
+𝐻𝑡𝐺
+𝑚𝐺
+
+42/51
+
+5.5.2 Tháp đệm: Quá trình không đẳng nhiệt
+Tất cả các phương trình tính cho tháp chêm đúng cho cả quá trình đẳng hoặc không
+đẳng nhiệt. Trường hợp không đẳng nhiệt, các phương trình vi phân truyền nhiệt,
+truyền khối, CBVC và cân bằng enthalpy được lấy tích phân để xác định chiều cao tháp.
+Với dung dịch tương đối loãng, giả sử lượng nhiệt phát ra do quá trình hấp thu được
+pha lỏng thu vào, và vì vậy bỏ qua sự tăng nhiệt độ của pha khí. → Nhiệt độ của pha
+lỏng cao hơn thực tế và do đó tháp sẽ cao hơn cần thiết.
+
+43/51
+
+5.5.2 Tháp đệm
+
+44/51
+
+5.5.2 Tháp đệm: Ví dụ 6.3 tiếp
+
+45/51
+
+5.5.2 Tháp đệm: Ví dụ 6.3 tiếp
+
+46/51
+
+5.5.2 Tháp đệm: Ví dụ 6.3 tiếp
+
+47/51
+
+Hệ thống hấp thu
+
+48/51
+
+Hệ thống hấp thu
+
+49/51
+
+Hệ thống hấp thu
+
+50/51
+
+5.6 Bài tập
+5.1 Một thiết bị hấp thụ NH3 từ hỗn hợp khí với lưu lượng hỗn hợp khí vào tháp là
+6200 m3/h ở 30 oC áp suất 1,2 at; nồng độ NH3 của hỗn hợp khí vào tháp là 8% thể tích,
+sau khi qua thiết bị hấp thụ nồng độ NH3 giảm xuống còn 1,25% thể tích. Dung môi là
+nước sạch ở nhiệt độ 30 oC. Cho biết lượng dung môi được dùng bằng 1,3 lần lượng
+dung môi tối thiểu và thành phần cân bằng của hai pha tuân theo phương trình:
+Y* =1,45 X.
+Xác định:
+a) Lưu lượng dung môi m3/h?
+b) Nồng độ pha lỏng khi ra khỏi thiết bị?
+5.2 Tháp hấp thu được dùng để làm sạch dòng khí thải vào tháp chứa 6,0 % (thể tích)
+SO2 ở 1,0 at; 30 oC bằng nước. Nước đi vào tháp là nước sạch với lưu lượng 8 m3/h
+(khối lượng riêng của nước ρ = 1.000 kg/m3, ở điều kiện làm việc). Hãy xác định:
+a) Lượng khí được làm sạch (kmol/h) với nồng độ SO2 ra khỏi tháp là 1 %tt?
+b)Số mâm lý thuyết cho tháp hấp thu, nếu tháp là tháp mâm?
+c) Chiều cao lớp đệm, nếu tháp là tháp đệm? Cho chiều cao tổng quát của đơn vị
+chuyển khối theo pha khí là 1,1 m.
+Cho biết: Lượng dung môi sử dụng bằng 1,4 lượng dung môi tối thiểu; đường cân bằng
+ở 30 oC có dạng: Y* = 0,6X với X = mol SO2/mol nước và Y = mol SO2/mol không khí.
+51/51
+
+

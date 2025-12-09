@@ -1,0 +1,814 @@
+TRUYỀN KHỐI
+Bài giảng # 2
+
+Cơ Sở Quá Trình
+Truyền Khối
+PGS. TS. Nguyễn Hữu Hiếu
+Bộ môn Quá Trình & Thiết Bị
+Khoa Kỹ Thuật Hóa Học
+Trường Đại Học Bách Khoa TP.HCM
+nhhieubk@hcmut.edu.vn
+
+1/37
+
+C – Truyền khối giữa hai pha
+(interphase mass transfer)
+
+2/37
+
+Nội dung
+2C.1 Khái niệm
+2C.2 Cân bằng pha
+2C.3 Truyền khối giữa hai pha
+2C.4 Cân bằng vật chất
+2C.5 Phương trình đường làm việc
+
+3/37
+
+2C.1 Khái niệm
+Quá trình truyền khối giữa
+hai pha: quá trình di chuyển
+vật chất từ pha này sang pha
+khác khi hai pha không hòa
+tan tiếp xúc với nhau.
+Đặc điểm:
+▪ Phải có sự tiếp xúc pha
+▪ Quá trình truyền khối sẽ kết
+thúc khi đạt cân bằng pha
+Mô tả quá trình: vật chất di chuyển từ pha thứ nhất →bề mặt
+phân pha →pha thứ hai
+Thông lượng khuếch tán: phụ thuộc vào gradient nồng độ
+chất tan trong mỗi pha.
+4/37
+
+2C.1 Khái niệm
+Chiều khuếch tán: phụ thuộc vào gradient nồng độ của hệ sẽ
+có chiều của quá trình từ pha này sang pha kia để đạt cân
+bằng.
+Điều kiện hệ đạt cân bằng:
+C = 0 và J = 0
+Tính toán quá trình:
+• Cân bằng pha
+• Cân bằng vật chất
+• Động lực quá trình
+• Động học quá trình
+Cơ sở của quá trình:
+▪ Các định luật nhiệt động học
+▪ Các định luật bảo toàn
+▪ Các qui luật động học
+
+5/37
+
+2C.2 Cân bằng pha
+Quá trình hấp thu amoniac (NH3)/không khí
+bằng nước: quá trình được thực hiện trong
+bình kín, hỗn hợp khí tiếp xúc với nước và
+thực hiện quá trình truyền khối giữa hai pha
+ở nhiệt độ và áp suất không đổi.
+Khuếch tán:
+𝑁𝐻3 /𝑘ℎí ↔ 𝑁𝐻3 /𝑙ỏ𝑛𝑔
+Cân bằng động: đạt được khi
+𝐽𝑁𝐻3 ,𝑣à𝑜 𝑝ℎ𝑎 𝑙ỏ𝑛𝑔 = 𝐽𝑁𝐻3 ,𝑟𝑎 𝑝ℎ𝑎 𝑙ỏ𝑛𝑔
+𝐶𝑁𝐻3 /𝑚ỗ𝑖 𝑝ℎ𝑎 = 𝑐𝑜𝑛𝑠𝑡: 𝑛ồ𝑛𝑔 độ 𝑐â𝑛 𝑏ằ𝑛𝑔
+→ Quá trình khuếch tán xem như dừng vì sự di chuyển của các phân tử
+qua lại bề mặt phân pha vẫn xảy ra.
+→ Cân bằng động sẽ bị phá vỡ khi cho thêm NH3 vào bình chứa và cân
+bằng mới sẽ thiết lập với cặp nồng độ cân bằng cao hơn cho mỗi pha.
+→ Ở trạng thái cân bằng, ký hiệu:
+𝑥𝐴 : nồng độ A trong pha lỏng
+6/37
+𝑦𝐴 : nồng độ A trong pha khí
+
+2C.2 Cân bằng pha
+Đường cân bằng: biểu diễn 𝑥𝐴 và 𝑦𝐴
+Đặc điểm:
+▪ Không phụ thuộc vào lượng chất
+tan và lượng dung môi ban đầu
+▪ Phụ thuộc vào nhiệt độ và áp suất
+tác động lên hệ
+Điểm cân bằng:
+𝑥𝐴 ≠ 𝑦𝐴 ; 𝜇𝐴,𝐺 = 𝜇𝐴,𝐿
+với : thế hóa của cấu tử trong mỗi pha
+Thế hóa (chemical potential): quá trình truyền
+khối xảy ra giữa hai pha khi có chênh lệch thế
+hóa của cấu tử khuếch tán trong hai hai pha.
+Cấu tử sẽ khuếch tán từ nơi có thế hóa cao
+→ thấp. Khi thế hóa trong hai pha bằng nhau
+thì quá trình đạt cân bằng và không có sự
+khuếch tán xảy ra.
+7/37
+
+2C.2 Cân bằng pha
+Cân bằng pha: cho biết quá trình truyền khối có thể xảy ra hay không và
+điều kiện để quá trình đạt cân bằng pha.
+Nguyên tắc cân bằng:
+• Tại T, P xác định: có 𝑥𝐴 và 𝑦𝐴 , được
+biểu diễn bởi đường cân bằng
+• Hệ đạt cân bằng: 𝐽𝑇 = 0
+• Hệ chưa cân bằng: có khuynh
+hướng → điểm cân bằng. Nếu thời
+gian tiếp xúc pha đủ lớn thì nồng độ
+cân bằng giữa hai pha sẽ đạt được.
+Hạn chế của cân bằng pha: giới hạn của quá trình truyền khối: khi hai
+pha đạt trạng thái cân bằng và quá trình truyền khối tổng quát sẽ bằng
+không → ảnh hưởng đến năng suất quá trình → tránh đạt cân bằng.
+Động lực quá trình: sai biệt giữa nồng độ tại điểm đang xét với nồng độ
+cân bằng. Vậy xác định cân bằng pha để → động lực quá trình.
+Yếu tố kiểm soát cân bằng pha: T, P và 𝑥.
+Số liệu cân bằng pha: trình bày ở dạng bảng hay giản đồ
+8/37
+
+2C.2 Cân bằng pha
+Qui tắc pha: để phân loại cân bằng và thiết lập số biến số độc lập hay
+bậc tự do cho quá trình.
+Ý nghĩa: cho phép xác định số nhỏ nhất các thông số độc lập mà khi thay
+đổi chúng sẽ làm thay đổi cân bằng pha, tức là làm thay đổi số pha trong
+hệ hay làm di chuyển cấu tử khuếch tán từ pha này sang pha khác.
+Bậc tự do theo Gibbs:
+𝐹 =𝐶−𝑃+𝑁
+với F: số bậc tự do; C: số cấu tử; P: số pha, thường có hai pha nên P = 2;
+N: số yếu tố bên ngoài ảnh hưởng lên cân bằng pha, chỉ xét ảnh hưởng
+của T và P nên N = 2.
+Ví dụ: xác định bậc tự do của hệ 1 cấu tử, 2 pha (lỏng – hơi)
+𝐹 =1−2+2=1
+→ Hệ có 1 bậc tự do: 𝑝 = 𝑓 𝑇 là sự phụ thuộc của áp suất hơi bão hòa
+vào nhiệt độ.
+Ví dụ: xác định bậc tự do của hệ 2 cấu tử, 2 pha; 𝐹 = 2 − 2 + 2 = 2
+→ Hệ có 2 bậc tự do, nên có thể thay đổi đồng thời 2 trong 3 thông số:
+T, P, 𝑥 trong một pha mà hệ vẫn tồn tại 2 pha. Khi p = const: T – 𝑥, 𝑦 hay
+𝑦 – 𝑥; khi T = const: p – 𝑥, 𝑦.
+9/37
+
+2C.2 Cân bằng pha
+Quá trình
+
+Giả sử đặc điểm
+
+Chưng cất
+
+C = 2, P = 2
+
+Hấp thu
+
+C = 3 (cấu tử hòa
+tan A, trơ và
+dung môi), P = 2
+
+Hấp phụ
+
+C = 3 (cấu tử A,
+trơ và chất hấp
+phụ), P = 2
+
+C = 3 (chất tan A
+Trích
+ly trong dung dịch
+chất lỏng
+với B và dung
+môi C không hòa
+tan), P = 2
+
+Số bậc
+tự do
+F=2
+
+F=3
+
+Biến số
+
+Ý nghĩa
+
+T, P, 𝑥𝐴 ,𝑦𝐴
+
+Thay đổi đồng thời 2/4 biến
+số. Vd: cố định P; 𝑥: biến độc
+lập; T và 𝑦: biến phụ thuộc
+
+T, P, 𝑥𝐴 ,𝑦𝐴
+
+F=3
+
+T, P, 𝑥𝐴 ,𝑦𝐴
+
+F=3
+
+T, P, 𝑥𝐴 , 𝑥𝐵 ,
+𝑦𝐴 , 𝑦𝐵 (trong
+hai pha đều có
+hiện diện của 3
+cấu tử)
+
+Thay đổi 3/4 biến. Vd: cố định
+T và P; 𝑥 : biến độc lập;
+𝑦 : biến phụ thuộc→đường
+cân bằng
+Thay đổi 3/4 biến. Vd: cố định
+T và P; thay đổi nồng độ cấu
+tử A trong pha lỏng hay khí
+→ nồng độ A trên chất hấp
+phụ theo quan hệ cân bằng
+Thay đổi 3/6 biến. Vd: cố định
+T và P;  2 nồng độ cấu tử là
+biến độc lập → biểu diễn
+quan hệ bằng đồ thị
+
+10/37
+
+2C.2 Cân bằng pha
+Quá trình
+
+Giả sử đặc điểm
+C = 3 (dung môi dư để hòa
+tan hết chất tan A, chất rắn
+không tan), P = 2 (pha rắn
+và pha lỏng/dung dịch)
+
+Số bậc
+tự do
+F=3
+
+Trích ly
+chất rắn C = 3 (dung môi không đủ
+
+hòa tan chất tan A, chất
+rắn không tan), P = 3 (pha
+rắn, pha rắn cân bằng với
+dung dịch)
+
+Sấy
+
+C = 3 (hơi nước, tác nhân
+sấy
+và
+chất
+rắn),
+P = 3 (khí, rắn và lỏng-nước
+tự do)
+C = 3 (hơi nước, tác nhân
+sấy và chất rắn), P = 2 (khí,
+chất rắn liên kết với nước
+nên không có nước tự do)
+
+Biến số
+
+Ý nghĩa
+
+T, P, 𝑥𝐴
+
+Cố định 3 biến để xác định
+trạng thái cân bằng của hệ
+
+T, P,
+F=2
+
+𝑥𝐴,𝑏ã𝑜 ℎò𝑎
+
+T, P,
+F=2
+
+𝑥𝑛ướ𝑐/𝑘ℎí
+
+Thay đổi 2/3 biến: Vd: T và
+P cố định; 𝑥 : biến biến
+phụ thuộc T→đường cong
+độ hòa tan
+Thay đổi 2/3 biến. Vd: P cố
+định; nồng độ hơi nước
+trong pha khí thay đổi
+theo T
+
+T, P,
+
+F=3
+
+Thay đổi 3/4 biến. Vd: T và
+𝑥𝑛ướ𝑐/𝑟ắ𝑛 , P cố định; mối quan hệ hai
+𝑥𝑛ướ𝑐/𝑘ℎí nồng độ của nước →
+đường cân bằng
+
+11/37
+
+2C.3 Truyền khối giữa hai pha
+Thuyết lớp phim (Film theory): để giải thích ý
+nghĩa của HSTK khi lưu chất chuyển động ở
+trạng thái rối qua bề mặt chất rắn hay giữa hai
+pha khí-lỏng tiếp xúc nhau. Vận tốc lưu chất
+bằng không tại bề mặt chất rắn và có một lớp
+lưu chất nhớt (màng hay phim) kế cận bề mặt
+chất rắn. Tại bề mặt, tồn tại một gradient nồng
+độ của chất tan khuếch tán giữa bề mặt vào
+dòng lưu chất như hình vẽ.
+Đặc trưng dòng chảy và truyền khối trong
+lớp phim: chảy tầng và khuếch tán phân tử.
+Bề dày hiệu dụng của lớp phim: trở lực của
+khuếch tán phân tử bằng với trở lực thực tế
+của quá trình truyền khối. Lớp phim hiệu
+dụng có bề dày rất mỏng để nồng độ chất
+tan trong lớp phim là nhỏ so với nồng độ
+chất tan đi qua lớp phim.
+12/37
+
+2C.3 Truyền khối giữa hai pha
+Thuyết lớp phim:
+▪ Gradient nồng độ được thiết lập nhanh
+chóng trong lớp phim.
+▪ Bề dày hiệu dụng của lớp phim phụ
+thuộc vào điều kiện chảy.
+▪ HSTK (k) cho những chất tan khác nhau
+ở cùng điều kiện chế độ chảy là tỉ lệ với
+HSKT (D) của các chất tan đó.
+
+Ứng dụng:
+▪ Tiên đoán HSTK hay hệ số
+lớp phim.
+▪ Đơn giản nên kết quả có
+độ tin cậy không cao.
+13/37
+
+2C.3 Truyền khối giữa hai pha
+Truyền khối giữa hai pha khí–lỏng và thuyết hai lớp phim:
+Xét quá trình khuếch tán chất tan từ pha khí vào pha lỏng. Quá trình
+truyền khối xảy ra khi có gradient nồng độ trong mỗi pha theo chiều
+khuếch tán.
+Pha lỏng: 𝑥𝐴,𝑖 > 𝑥𝐴,𝑏
+Pha khí: 𝑦𝐴,𝑖 < 𝑦𝐴,𝑏
+Động lực cho quá trình truyền
+khối xuyên pha: chênh lệch hai
+hóa thế trong hai pha (không
+phải: 𝑦𝐴,𝑏 > 𝑥𝐴,𝑏 )
+Trở lực khuếch tán giữa hai pha: theo Lewis và Whitman, trở lực
+khuếch tán nằm ở trong hai lớp phim (two-film theory) hình thành tại bề
+mặt tiếp xúc pha khi hai lưu chất tiếp xúc nhau. Không có trở lực truyền
+khối qua bề mặt tiếp xúc pha, do đó 𝑦𝐴,𝑖 và 𝑥𝐴,𝑖 ở trạng thái cân bằng và
+liên hệ với nhau qua đường cong cân bằng.
+14/37
+
+2C.3 Truyền khối giữa hai pha
+Truyền khối giữa hai pha và thuyết hai lớp phim
+Ở một vị trí bất kỳ trong thiết bị truyền khối, quá trình khuếch tán đều
+có thể mô tả bằng thuyết hai lớp phim như hình vẽ.
+
+15/37
+
+2C.3 Truyền khối giữa hai pha
+Thông lượng truyền khối
+trong mỗi pha
+Điểm P: biểu diễn nồng độ
+của chất tan trong hai pha,
+điểm M: biểu diễn nồng độ
+của chất tan trong hai pha
+tại bề mặt tiếp xúc pha
+Giả sử:
+- Quá trình đạt trạng thái ổn định
+- Không xảy ra phản ứng hóa học
+- Không có sự tích tụ A tại bề mặt tiếp xúc: 𝐽𝐴,𝐺→𝑖 = 𝐽𝐴,𝑖→𝐿 = 𝐽𝐴
+
+𝐽𝐴 = 𝑘𝑥 𝑥𝐴,𝑖 − 𝑥𝐴 = 𝑘𝑦 𝑦𝐴 − 𝑦𝐴,𝑖
+với 𝑘𝑥 và 𝑘𝑦 là HSTK trong pha lỏng và pha khí
+𝑥𝐴,𝑖 − 𝑥𝐴 và 𝑦𝐴 − 𝑦𝐴,𝑖 là động lực truyền khối trong mỗi pha.
+16/37
+
+2C.3 Truyền khối giữa hai pha
+Thông lượng truyền khối trong mỗi pha
+Hệ số góc của đoạn PM:
+𝑦𝐴 − 𝑦𝐴,𝑖
+𝑘𝑥
+=−
+𝑘𝑦
+𝑥𝐴 − 𝑥𝐴,𝑖
+Nếu biết HSTK trong mỗi pha, 𝑘𝑥 và 𝑘𝑦 , và đường cân bằng thì sẽ xác
+định được nồng độ của A trong hai pha tại bề mặt phân pha, 𝑥𝐴,𝑖 và 𝑦𝐴,𝑖 ,
+và thông lượng truyền khối, 𝐽𝐴 .
+
+17/37
+
+2C.3 Truyền khối giữa hai pha
+HSTK tổng quát: biểu diễn hiệu ứng tổng quát của quá trình truyền khối
+giữa hai pha. Thông lượng truyền khối:
+𝐽𝐴 = 𝐾𝑦 𝑦𝐴 − 𝑦𝐴∗
+với 𝑦𝐴∗ : nồng độ A trong pha khí cân bằng với 𝑥𝐴 và 𝐾𝑦 : HSTK tổng quát
+tính theo pha khí. 𝑦𝐴 − 𝑦𝐴∗ : động lực truyền khối tổng quát tính theo
+pha khí, 𝑦𝐴 − 𝑦𝐴∗ = 𝑦𝐴 − 𝑦𝐴,𝑖 + 𝑦𝐴,𝑖 − 𝑦𝐴∗ = 𝑦𝐴 − 𝑦𝐴,𝑖 + 𝑚 𝑥𝐴,𝑖 − 𝑥𝐴
+với m: hệ số góc của dây cung CM.
+Quan hệ HSTK tổng quát và HSTK
+trong mỗi pha: dạng cộng trở lực của
+các quá trình thành phần xảy ra nối
+tiếp.
+𝐽𝐴
+𝐽𝐴 𝑚𝐽𝐴
+1
+1
+𝑚
+→
+=
++
+ℎ𝑎𝑦
+=
++
+𝐾𝑦 𝑘𝑦
+𝑘𝑥
+𝐾𝑦 𝑘𝑦 𝑘𝑥
+18/37
+
+2C.3 Truyền khối giữa hai pha
+HSTK tổng quát:
+Tương tự
+1
+𝐽𝐴 = 𝐾𝑥 𝑥𝐴∗ − 𝑥𝐴 → =
+𝐾𝑥
+
+1
+1
++
+𝑚′ 𝑘𝑦
+𝑘𝑥
+
+với 𝑥𝐴∗ : nồng độ chất tan trong pha lỏng cân
+bằng với 𝑦𝐴 và 𝐾𝑥 : HSTK tổng quát tính theo
+pha lỏng, 𝑚′ : hệ số góc của dây cung MD.
+Ý nghĩa HSTK tổng quát
+Nếu 𝑚 ≪ 0: đường cân bằng gần nằm ngang → thay đổi nhỏ nồng độ
+A/pha khí sẽ cho một nồng độ lớn A/pha lỏng (chất tan A dễ hòa tan
+trong pha lỏng).
+𝑚
+1
+1
+Trở lực quá trình: vì ~0 → = : trở lực chủ yếu ở pha khí hay pha
+𝑘𝑥
+
+𝐾𝑦
+
+𝑘𝑦
+
+khí đóng vai trò kiểm soát quá trình truyền khối.
+Khi đó, tăng 𝑘𝑥 sẽ không ảnh hưởng nhiều đến 𝐾𝑦 và để tăng tốc độ
+truyền khối cần phải giảm trở lực pha khí.
+Động lực quá trình: 𝑦𝐴 − 𝑦𝐴∗ = 𝑦𝐴 − 𝑦𝐴,𝑖
+19/37
+
+2C.3 Truyền khối giữa hai pha
+HSTK tổng quát:
+Ý nghĩa HSTK tổng quát
+Nếu 𝑚′ ≫ 0: chất tan A khó hòa
+tan vào pha lỏng.
+1
+Trở lực của quá trình: vì ′ ~0
+𝑚 𝑘𝑦
+
+nên trở lực của quá trình truyền
+khối chủ yếu nằm trong pha lỏng
+và pha lỏng đóng vai trò kiểm
+soát quá trình.
+1
+1
+=
+𝐾𝑥 𝑘𝑥
+Động lực của quá trình:
+𝑥𝐴∗ − 𝑥𝐴 = 𝑥𝐴,𝑖 − 𝑥𝐴
+
+20/37
+
+HSTK tổng quát:
+
+21/37
+
+HSTK tổng quát: ví dụ 4.1 tiếp
+
+22/37
+
+HSTK tổng quát:
+
+23/37
+
+HSTK tổng quát: ví dụ 4.2 tiếp
+
+24/37
+
+2C.4 Cân bằng vật chất (CBVC)
+Phân loại quá trình truyền khối theo sự tiếp xúc pha:
+▪ Một bậc
+▪ Tiếp xúc pha liên tục cùng chiều
+▪ Tiếp xúc pha liên tục ngược chiều
+▪ Nhiều bậc
+Phân loại CBVC:
+❑ Theo chất khuếch tán
+▪ Cân bằng chung
+▪ Cân bằng riêng cho từng cấu tử
+❑ Theo cấp độ sản xuất
+▪ Một phần thiết bị
+▪ Toàn thiết bị
+▪ Nhóm thiết bị
+Đơn vị: thông thường theo khối lượng (kg), có thể theo mol
+Ứng dụng của CBVC để tính:
+▪ Hiệu suất quá trình so với lý thuyết
+▪ Năng suất sản phẩm
+
+25/37
+
+2C.5 Phương trình đường làm việc (PTĐLV)
+a) Quá trình một bậc: đơn giản nhất, năng suất nhỏ, các pha được
+khuấy trộn và thực hiện quá trình truyền khối như quá trình trích ly lỏng
+– lỏng một bậc. Xét quá trình khuếch tán của cấu tử i từ pha một (G)
+sang pha hai (L).
+G1, y1
+y
+L2, x2
+
+L1, x1
+G, L: lưu lượng các pha;
+y, x: nồng độ các pha;
+1, 2: vào (ban đầu) và ra
+(bất kỳ) thiết bị
+
+y1
+
+y2
+G2, y2
+
+x1
+
+x2
+
+x
+
+Hình: CBVC cho quá trình một bậc và đường
+nồng độ làm việc.
+CBVC:
+Tổng quát: 𝐺1 + 𝐿1 = 𝐺2 + 𝐿2
+Cấu tử i: 𝑦𝑖,1 𝐺1 + 𝑥𝑖,1 𝐿1 = 𝑦𝑖,2 𝐺2 + 𝑥𝑖,2 𝐿2
+26/37
+
+2C.5 Phương trình đường làm việc
+a) Quá trình một bậc:
+G1, y1
+
+y
+L2, x2
+
+L1, x1
+
+y1
+
+y2
+
+x1
+x2
+G2, y2
+x
+Hình: CBVC cho quá trình một bậc và đường nồng độ làm việc.
+PTĐLV:
+𝐿2
+𝑦𝑖,1 𝐺1 + 𝑥𝑖,1 𝐿1
+→ 𝑦𝑖,2 = −
+𝑥𝑖,2 +
+𝐺2
+𝐺2
+PTĐLV có dạng: 𝑦 = −𝐴𝑥 + 𝐵 cho biết quan hệ nồng độ của hai pha ở
+đầu ra của thiết bị, khi 𝑥 tăng thì 𝑦 giảm.
+27/37
+
+2C.5 Phương trình đường làm việc
+b) Quá trình tiếp xúc pha liên tục cùng chiều: xảy ra trong tháp màng,
+đệm, phun, … để thực hiện quá trình hấp thu, chưng cất, trích ly, …
+Khảo sát sự di chuyển vật chất từ pha G sang pha L như hình vẽ.
+Tại tiết diện bất kỳ của thiết bị ứng với khoảng cách 𝑑𝑙, CBVC:
+Tổng quát: −𝑑𝐺 = 𝑑𝐿
+Cấu tử: −𝑑(𝑦𝐺) = 𝑑(𝑥𝐿)
+Tích phân cho toàn thiết bị và
+một đoạn từ đầu vào đến tiết
+diện bất kỳ
+Tổng quát:
+𝐺1 + 𝐿1 = 𝐺2 + 𝐿2 = 𝐺 + 𝐿
+Cấu tử:
+𝑦1 𝐺1 + 𝑥1 𝐿1 = 𝑦2 𝐺2 + 𝑥2 𝐿2
+= 𝑦𝐺 + 𝑥𝐿
+→ Tổng hai dòng pha tại mỗi tiết diện của thiết bị là không đổi và bằng
+tổng hai dòng ở hai đầu thiết bị.
+28/37
+
+2C.5 Phương trình đường làm việc
+b) Quá trình tiếp xúc pha liên tục cùng chiều: quá trình truyền khối chỉ
+xảy ra sự phân bố lại các cấu tử giữa hai pha.
+PTĐLV:
+𝐿
+𝑦1 𝐺1 + 𝑥1 𝐿1
+𝐿
+𝑦2 𝐺2 + 𝑥2 𝐿2
+𝑦=− 𝑥+
+=− 𝑥+
+= −𝐴𝑥 + 𝐵
+𝐺
+𝐺
+𝐺
+𝐺
+→Cho biết quan hệ nồng độ giữa hai pha tại mỗi tiết diện bất kỳ trong
+thiết bị xuôi chiều.
+𝐿
+𝐴 = = 𝑐𝑜𝑛𝑠𝑡
+𝐺
+
+Nếu
+thì đường
+làm việc là đường thẳng.
+𝐿
+Nếu 𝐴 = ≠ 𝑐𝑜𝑛𝑠𝑡 thì đường
+𝐺
+làm việc là đường cong.
+
+29/37
+
+2C.5 Phương trình đường làm việc
+c) Quá trình tiếp xúc pha liên tục ngược chiều: quá trình này được sử
+dụng phổ biến trong công nghiệp vì có động lực truyền khối lớn.
+CBVC:
+Tổng quát: 𝑑𝐺 = 𝑑𝐿
+Cấu tử: 𝑑(𝑦𝐺) = 𝑑(𝑥𝐿)
+Tích phân cho toàn thiết bị và
+một đoạn từ đầu vào đến tiết
+diện bất kỳ
+Tổng quát:
+𝐺1 − 𝐿1 = 𝐺2 − 𝐿2 = 𝐺 − 𝐿
+Cấu tử:
+𝑦1 𝐺1 − 𝑥1 𝐿1 = 𝑦2 𝐺2 − 𝑥2 𝐿2
+= 𝑦𝐺 − 𝑥𝐿
+→Hiệu của hai dòng pha tại mỗi
+tiết diện bất kỳ trong thiết bị thực hiện quá trình tiếp xúc pha liên tục
+ngược chiều là không đổi và bằng hiệu của hai dòng ở hai đầu thiết bị.
+30/37
+
+2C.5 Phương trình đường làm việc
+c) Quá trình tiếp xúc pha liên tục ngược chiều:
+PTĐLV:
+𝐿
+𝑦1 𝐺1 − 𝑥1 𝐿1 𝐿
+𝑦2 𝐺2 − 𝑥2 𝐿2
+𝑦= 𝑥+
+= 𝑥+
+= 𝐴𝑥 + 𝐵
+𝐺
+𝐺
+𝐺
+𝐺
+
+Tương tự:
+𝐿
+Nếu 𝐴 = = 𝑐𝑜𝑛𝑠𝑡 thì đường
+𝐺
+làm việc là đường thẳng.
+𝐿
+Nếu 𝐴 = ≠ 𝑐𝑜𝑛𝑠𝑡 thì đường
+𝐺
+làm việc là đường cong.
+
+31/37
+
+2C.5 Phương trình đường làm việc
+d) Quá trình nhiều bậc (multistage process/cascades):
+Bậc/đoạn thay đổi nồng độ: bộ phận thiết bị, một thiết bị, hay một cụm
+thiết bị.
+Quá trình truyền khối của một bậc: trong đó hai pha không hòa tan tiếp
+xúc nhau để thực hiện quá trình truyền khối có khuynh hướng hai pha
+đạt cân bằng và được tách ra.
+Bậc/đĩa/mâm lý thuyết/lý tưởng/cân bằng: thời gian tiếp xúc đủ để hai
+pha thực sự đạt cân bằng (thực tế không xảy ra).
+Hiệu suất mâm-Murphree: tỉ lệ đạt đến cân
+bằng mà một bậc thực tế đạt được, được
+tính theo nồng độ pha G hay L:
+𝑌2 − 𝑌1
+𝑋1 − 𝑋2
+𝐸𝑀𝐺 = ∗
+ℎ𝑎𝑦𝐸𝑀𝐿 =
+𝑌2 − 𝑌1
+𝑋1 − 𝑋2∗
+Phân loại quá trình nhiều bậc:
+❑ Giao dòng
+❑ Nghịch dòng
+32/37
+
+2C.5 Phương trình đường làm việc
+d) Quá trình nhiều bậc giao dòng (co-current/cross-flow cascades):
+Nguyên lý: Các dòng trong mỗi bậc là cùng chiều. Pha L di chuyển từ bậc
+này sang bậc kế với lưu lượng không đổi để tiếp xúc với pha G.
+Lưu lượng pha G vào mỗi bậc có thể khác nhau và hiệu suất bậc
+Murphree cũng có thể khác nhau. Cân bằng vật chất và đường làm việc
+trên đồ thị lặp lại cho từng bậc.
+Ứng dụng: quá trình hấp phụ, trích chất rắn, sấy và trích chất lỏng.
+
+33/37
+
+2C.5 Phương trình đường làm việc
+d) Quá trình nhiều bậc nghịch dòng
+(multistage counter-current continuous process)
+Ưu điểm: hiệu quả nhất, cần ít bậc nhất cho một sự
+biến đổi nồng độ và tỷ số lưu lượng hai pha cho
+trước → được sử dụng phổ biến.
+Đặc điểm:
+Mỗi bậc: cùng chiều
+Toàn bộ quá trình: nghịch chiều
+CBVC:
+L
+L
+G
+
+G
+
+Xét một bậc bất kỳ thứ n và giả sử L và G là không đổi qua mỗi bậc và cả
+quá trình.
+CBVC cho cấu tử cho toàn bộ tháp có n bậc:
+𝐿𝑥𝐹 + 𝐺𝑦𝑛+1 = 𝐿𝑥𝑛 + 𝐺𝑦1
+𝐿 𝑥𝐹 − 𝑥𝑛 = 𝐺 𝑦1 − 𝑦𝑛+1
+34/37
+
+2C.5 Phương trình đường làm việc
+d) Quá trình nhiều bậc nghịch dòng: có đường cân bằng là đường cong
+PTĐLV cho toàn quá trình:
+
+𝐿
+𝑦1 =
+𝐺
+
+Hình: Quá trình nhiều bậc nghịch dòng,
+chất tan từ pha L → pha G
+
+𝑥𝐹 − 𝑥𝑛 + 𝑦𝑛+1
+
+Hình: Quá trình nhiều bậc nghịch
+dòng, chất tan từ pha G → pha L
+
+Xác định số bậc lý thuyết: bằng đồ thị (Graphical determination of the number of
+theoretical stages), vẽ đường bậc thang giữa đường làm việc và đường cân bằng.
+Nếu tại vị trí bất kỳ ĐLV và đường cân bằng chạm nhau thì số bậc sẽ vô cực.
+35/37
+
+2C.5 Phương trình đường làm việc
+d) Quá trình nhiều bậc nghịch dòng: có đường cân bằng là đường thẳng
+đi qua gốc tọa độ.
+Nồng độ tại một bậc bất kỳ:
+bằng giải tích theo phương trình của
+Kremser – Brown – Souders (KBS),
+khi biết nồng độ ở hai đầu thiết bị.
+𝑌𝑛+1
+𝑌𝑛+1
+− 𝐴𝑋𝑛
+− 𝐴𝑋𝑛
+𝑚
+𝑚
+𝑖
+𝑋𝑖 = 𝑋0 −
+𝐴 +
+1−𝐴
+1−𝐴
+
+với m: hệ số góc đường cân bằng và
+𝐿
+𝐴 = : hệ số hấp thu
+𝑚𝐺
+
+36/37
+
+d) Quá trình nhiều bậc nghịch dòng:
+Xác định số bậc lý thuyết: bằng đồ
+thị theo các phương trình của KBS
+▪ Quá trình giải hấp (stripping):
+Chất tan từ pha L → pha G
+
+A1
+
+𝑙𝑜𝑔
+𝑛=
+
+𝑋0 − 𝑌𝑛+1 /𝑚
+1−𝐴 +𝐴
+𝑋𝑛 − 𝑌𝑛+1 /𝑚
+𝑙𝑜𝑔1/𝐴
+
+A=1
+𝑋0 − 𝑋𝑛
+𝑛=
+𝑋𝑛 − 𝑌𝑛+1 /𝑚
+▪ Quá trình hấp thu (absorption):
+Chất tan từ pha G → pha L
+
+A1
+
+𝑙𝑜𝑔
+𝑛=
+
+𝑌𝑛+1 − 𝑚𝑋0
+1
+1
+1−
++
+𝑌1 − 𝑚𝑋0
+𝐴
+𝐴
+𝑙𝑜𝑔𝐴
+
+A=1
+𝑌𝑛+1 − 𝑌1
+𝑛=
+𝑌1 − 𝑚𝑋0
+
+37/37
+
+

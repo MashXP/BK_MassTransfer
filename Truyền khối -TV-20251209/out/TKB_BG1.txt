@@ -1,0 +1,158 @@
+TRUYỀN KHỐI
+Bài giảng # 1
+
+Các Quá Trình Truyền Khối
+• PGS. TS. Nguyễn Hữu Hiếu
+• Bộ môn Quá Trình & Thiết Bị
+•
+•
+•
+
+Khoa Kỹ Thuật Hóa Học
+Trường Đại Học Bách Khoa TP.HCM
+nhhieubk@hcmut.edu.vn
+
+1/11
+
+Nội dung
+1.1 Vị trí môn học
+1.2 Giới thiệu các quá trình truyền khối
+1.3 Các phương pháp thực hiện quá trình
+truyền khối
+1.4 Nguyên tắc tính toán thiết kế
+1.5 Biểu diễn thành phần pha
+1.6 Bài tập
+2/11
+
+1.1 Vị trí môn học
+Các quá trình và thiết bị trong
+công nghệ hóa học & thực phẩm
+
+CƠ
+
+NHIỆT
+
+TRUYỀN KHỐI
+
+PHẢN ỨNG
+
+• Cơ học lưu chất
+• Phân riêng các
+hệ không đồng
+nhất bằng cơ học
+• Cơ học vật liệu
+rời
+
+▪ Các định luật
+truyền nhiệt
+▪ Các quá trình
+và thiết bị trao
+đổi nhiệt
+
+o Các định luật
+khuếch tán
+o Các quá trình
+và thiết bị
+truyền khối
+
+Cơ sở tính toán
+và tiến hành
+các loại và thiết
+bị phản ứng
+
+3/11
+
+1.2 Giới thiệu các quá trình truyền khối
+▪ Quá trình truyền khối (khuếch tán): quá trình di chuyển
+vật chất ở qui mô phân tử từ pha này sang pha khác khi có
+sự tiếp xúc pha trực tiếp.
+▪ Động lực của quá trình: sự sai biệt nồng độ làm cho vật
+chất khuếch tán từ nơi có nồng độ cao tới nơi có nồng độ
+thấp.
+▪ Nguyên lý quá trình: bằng các phương pháp hóa lý (dựa
+trên sự tiếp xúc pha trực tiếp) không dùng đến phản ứng
+hóa học để biến đổi nồng độ của dung dịch/hỗn hợp
+(phân riêng).
+▪ Ứng dụng: trong công nghiệp hóa học, thực phẩm, sinh
+học, và môi trường để tách các chất ra khỏi nguyên liệu,
+thu hồi và làm tinh khiết các sản phẩm chính, giảm thiểu
+các chất gây ô nhiễm trong nước/khí thải.
+4/11
+
+1.2 Giới thiệu các quá trình truyền khối
+
+5/11
+
+6/11
+
+1.3 Các phương pháp thực hiện quá trình truyền khối
+
+❑ Gián đoạn
+❑ Liên tục
+❑ Bán liên tục
+❑ Đẳng áp
+❑ Đẳng nhiệt
+❑ Áp suất: cao, thường, thấp/chân không
+
+7/11
+
+1.3 Các phương pháp thực hiện quá trình truyền khối
+❖ Thu hồi dung chất và phân đoạn
+▪ Phân riêng hỗn hợp các cấu tử có tính chất rất khác nhau (dung môi
+và dung chất) dễ dàng → Thu hồi dung chất.
+▪ Phân riêng hỗn hợp các cấu tử có tính chất gần giống nhau khó khăn
+→ Phân đoạn.
+
+❖ Ổn định và không ổn định
+▪ Nồng độ tại một điểm bất kỳ trong thiết bị không đổi theo thời gian
+→ Quá trình ổn định. Ngược lại → Không ổn định.
+❖ Tiếp xúc theo bậc và tiếp xúc liên tục
+▪ Bậc/đoạn thay đổi nồng độ: hai pha tiếp xúc nhau, thực hiện quá
+trình truyền khối và tách riêng ra hoàn toàn.
+→ Quá trình nhiều bậc: thực hiện nhiều bậc thay đổi nồng độ.
+▪ Quá trình tiếp xúc pha liên tục: hai pha tiếp xúc nhau và thực hiện
+quá trình truyền khối liên tục trong thiết bị.
+8/11
+
+1.4 Nguyên tắc tính toán thiết kế
+a) Số bậc lý thuyết
+Tính số bậc lý thuyết hay chiều cao tương đương cho quá trình tiếp xúc
+pha liên tục dựa vào:
+• Đặc trưng cân bằng pha của hệ
+• Cân bằng vật chất
+b) Thời gian tiếp xúc pha
+Phụ thuộc vào chiều cao thiết bị và độc lập với năng suất thiết bị
+c) Năng suất
+Quyết định tiết diện thiết bị và tốc độ quá trình. Tính năng suất dựa vào:
+• Cơ học lưu chất
+• Cân bằng vật chất
+d) Nhu cầu năng lượng
+• Nhiệt năng: cần cho quá trình có sự biến đổi nhiệt độ, hiệu ứng
+nhiệt dung dịch.
+• Cơ năng: cần cho việc vận chuyển lưu chất và chất rắn, phân tán
+pha lỏng và pha khí, và các bộ phận chuyển động của thiết bị.
+9/11
+
+1.5 Biểu diễn thành phần pha
+
+lưu lượng
+lưu lượng
+
+10/11
+
+1.6 Bài tập
+1.1 Xác định thành phần mol và khối lượng mol trung bình
+của hỗn hợp benzene và toluene có 30 %kl benzene?
+1.2 Xác định thành phần khối lượng của hỗn hợp chứa
+20 %mol etan, 35 %mol propan, 15 %mol butan và 30 %mol
+izobutan?
+1.3 Hỗn hợp khí gồm CO2 và không khí chứa 15 %tt CO2.
+Xác định phần trăm khối lượng của CO2 trong hỗn hợp?
+1.4 Hỗn hợp hơi nước và ethanol ở 100 oC, 1 at có nồng độ
+ethanol là 20% khối lượng. Xác định: thể tích riêng, khối
+lượng riêng, thể tích mol, khối lượng mol của hỗn hợp và
+phân mol, phân thể tích, tỉ số mol, tỉ số khối lượng, phần trăm
+mol của ethanol trong hỗn hợp?
+11/11
+
+

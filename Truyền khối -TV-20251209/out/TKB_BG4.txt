@@ -1,0 +1,1836 @@
+TRUYỀN KHỐI
+Bài giảng # 4
+
+Chưng Cất
+PGS. TS. Nguyễn Hữu Hiếu
+Bộ môn Quá Trình & Thiết Bị
+Khoa Kỹ Thuật Hóa Học
+Trường Đại Học Bách Khoa TP.HCM
+nhhieubk@hcmut.edu.vn
+
+1/105
+
+Nội dung
+4.1 Khái niệm
+4.2 Cân bằng lỏng-hơi
+4.3 Hệ nhiều cấu tử lý tưởng
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+4.5 Chưng cất bằng tháp chêm
+4.6 Chưng cất đơn giản
+4.7 Bài tập
+2/105
+
+4.1 Khái niệm
+Chưng cất: quá trình tách các cấu tử của hỗn hợp lỏng bằng cách đun
+sôi, bay hơi và ngưng tụ hỗn hợp.
+Cơ sở quá trình: dựa vào độ bay hơi khác nhau của các cấu tử trong hỗn
+hợp: ở cùng một nhiệt độ thì cấu tử có áp suất hơi lớn hơn sẽ dễ bay hơi
+hơn; hay ở cùng một áp suất thì cấu tử có nhiệt độ sôi thấp hơn sẽ dễ
+bay hơn.
+
+3/105
+
+4.1 Khái niệm
+Quá trình
+Hấp thu/nhả khí
+
+Giống
+
+Pha mới được đưa vào để tạo nên
+Có tham gia của sự tiếp xúc pha
+pha mới
+Pha mới được tạo nên bằng sự
+
+Chưng cất
+
+Cô đặc
+
+Khác
+
+bốc hơi hoặc ngưng tụ
+Bay hơi dung môi
+
+Chất tan bay hơi với hàm lượng
+khác so với dung môi
+Chất tan không bay hơi
+
+4/105
+
+4.1 Khái niệm
+Sản phẩm: hỗn hợp có bao nhiêu
+cấu tử → sẽ có bấy nhiêu sản
+phẩm. Phạm vi chương: xét hỗn
+hợp có 2 cấu tử.
+
+▪ Sản phẩm đỉnh: chủ yếu cấu tử có
+độ bay hơi lớn và một phần rất ít
+cấu tử có độ bay hơi bé.
+▪ Sản phẩm đáy: chủ yếu cấu tử có
+độ bay hơi bé và một phần rất ít
+cấu tử có độ bay hơi lớn.
+5/105
+
+4.1 Khái niệm
+Phân loại:
+a) Chưng đơn giản (một bậc): quá trình tách các cấu tử có độ bay hơi
+rất khác nhau. Ứng dụng: tách sơ bộ hoặc làm sạch các cấu tử khỏi tạp
+chất.
+b) Chưng bằng hơi nước trực tiếp: tách các hỗn hợp có các chất khó
+bay hơi và tạp chất không bay hơi. Ứng dụng: các hợp chất được tách
+không tan vào nước.
+c) Chưng cất/luyện: phân tách triệt để hỗn hợp các cấu tử dễ bay hơi có
+tính chất hòa tan một phần hoặc hoàn toàn vào nhau.
+▪ Chưng cất ở áp suất thấp: tách các cấu tử dễ bị phân hủy ở nhiệt độ
+cao như: tinh dầu, các vitamin,… hoặc có nhiệt độ sôi quá cao như
+cặn mazut của dầu mỏ.
+▪ Chưng cất ở áp suất thường: phổ biến vì đơn giản, như chưng cất
+rượu (cồn), hỗn hợp axit, dầu thô,…
+▪ Chưng cất ở áp suất cao: đối với hỗn hợp không hóa lỏng ở áp suất
+thường, ví dụ như sản xuất O2 và N2 từ không khí.
+6/105
+
+4.2 Cân bằng lỏng-hơi (vapour-liquid equilibrium-VLE)
+a) Cân bằng ở áp suất không đổi: Txy
+Cấu tử A dễ bay hơi hơn B: ở một nhiệt độ bất kỳ, áp suất hơi bão hòa
+của A lớn hơn áp suất hơi bão hòa của B.
+Cân bằng lỏng–hơi cho hệ hai cấu tử: gồm 2 đường cong từ nhiệt độ sôi
+của B tinh khiết (tB) đến nhiệt độ sôi của A tinh khiết (tA).
+▪ Đường cong trên: tngưng tụ– y
+▪ Đường cong dưới: tsôi–x
+Constant Pressure
+▪ Đường nằm ngang (DF): đối tuyến
+(vô số) nối hai hỗn hợp lỏng-hơi
+cân bằng tại D và F.
+- D: hỗn hợp lỏng bão hòa
+E
+F
+- F: hỗn hợp hơi bão hòa
+D
+- E: hỗn hợp hai pha lỏng–hơi cân
+bằng, pha lỏng có thành phần tại D
+và pha hơi có thành phần tại F. Số
+mol mỗi pha: 𝑆ố 𝑚𝑜𝑙 𝑝ℎ𝑎 𝐷 𝐸𝐹
+𝑆ố 𝑚𝑜𝑙 𝑝ℎ𝑎 𝐹
+
+=
+
+𝐷𝐸
+
+7/105
+
+4.2 Cân bằng lỏng-hơi: a) Cân bằng ở áp suất không đổi
+Giản đồ Txy
+G: hỗn hợp lỏng trong bình kín ở P = const, được gia nhiệt
+H: hỗn hợp bắt đầu sôi
+I: có thành phần hơi đầu tiên cân bằng với H
+Hỗn hợp được gia nhiệt→pha lỏng giảm đến L và pha hơi cân bằng K
+Hỗn hợp vẫn ban đầu vẫn tại G
+O
+N: Giọt lỏng cuối cùng bốc hơi
+M
+M: pha hơi cân bằng với N, có
+N
+thành phần bằng với hỗn hợp
+K
+L
+lỏng G.
+I
+H
+Quá trình bốc hơi: từ nhiệt độ
+điểm sôi (H) đến nhiệt độ điểm
+G
+sương (M) → nhiệt độ sôi không
+có ý nghĩa.
+O: hỗn hợp hơi nếu được làm
+lạnh thì quá trình diễn ra ngược
+8/105
+lại bắt đầu từ M và kết thúc tại H.
+
+4.2 Cân bằng lỏng-hơi: a) Cân bằng ở áp suất không đổi
+Giản đồ Txy
+G: hỗn hợp lỏng trong bình hở ở P = const, được gia nhiệt
+H: hỗn hợp bắt đầu sôi và hơi có nhiều cấu tử dễ bay hơi thoát ra ngoài,
+pha lỏng còn lại trong bình ở trạng thái bão hòa có nhiệt độ và thành
+phần di chuyển theo đường cong đến điểm N.
+O
+
+M
+
+N
+
+K
+
+L
+
+I
+
+H
+G
+
+9/105
+
+4.2 Cân bằng lỏng-hơi: a) Cân bằng ở áp suất không đổi
+Giản đồ xy*
+Biểu diễn những cặp thành phần pha lỏng-hơi ở trạng thái cân bằng nối
+với nhau bởi các đối tuyến (DB) trên giản đồ Txy. Nối các điểm này lại
+được đường cân bằng x-y*. Vì y* > x nên đường cân bằng nằm trên
+đường 45o.
+
+10/105
+
+4.2 Cân bằng lỏng-hơi: a) Cân bằng ở áp suất không đổi
+Độ bay hơi tương đối-Relative volatility
+Khoảng cách giữa đường cân bằng và đường 45o càng lớn thì sự sai biệt
+giữa thành phần pha lỏng và pha hơi càng lớn→quá trình chưng cất
+càng dễ thực hiện.
+Độ bay hơi tương đối/hệ số phân riêng, : tỉ số của nồng độ A và B
+trong pha hơi với tỉ số của A và B trong pha lỏng.
+𝑦∗/ 1 − 𝑦∗
+𝛼=
+𝑥/ 1 − 𝑥
+Ý nghĩa:
+▪ 𝛼 thay đổi theo 𝑥 = 0 – 1
+▪ 𝑥 = 𝑦 ∗ → α = 1: quá trình phân
+riêng không thực hiện được
+▪ 𝛼 ≫ 1: mức độ phân riêng càng dễ
+
+11/105
+
+4.2 Cân bằng lỏng-hơi: b) Cân bằng khi áp suất thay đổi
+Khi áp suất tăng:
+• Đường cân bằng lỏng-hơi thu hẹp lại
+• Nhiệt độ sôi cao hơn
+• Độ bay hơi tương đối giảm
+
+12/105
+
+4.2 Cân bằng lỏng-hơi: c) Cân bằng ở nhiệt độ không đổi
+Giản đồ pxy
+
+13/105
+
+4.2 Cân bằng lỏng-hơi: d) Hỗn hợp lý tưởng-Định luật Raoult
+Định luật Raoult: dung dịch lý tưởng
+gồm A và B
+𝑝𝐴∗ = 𝑥𝑃𝐴 𝑣à 𝑝𝐵∗ = 1 − 𝑥 𝑃𝐵
+với 𝑝∗ : áp suất riêng phần cân bằng,
+𝑃: áp suất hơi bão hòa khi tinh khiết.
+→ 𝑃𝑡 = 𝑝𝐴∗ + 𝑝𝐵∗ = 𝑥𝑃𝐴 + 1 − 𝑥 𝑃𝐵
+Hỗn hợp hơi lý tưởng:
+∗
+𝑝
+𝑃𝐴 𝐹𝐺
+𝐴
+∗
+𝑦 =
+=𝑥 =
+𝑃𝑡
+𝑃𝑡 𝐸𝐺
+∗
+𝑝𝐵
+𝑃𝐵
+∗
+1−𝑦 =
+= 1−𝑥
+𝑃𝑡
+𝑃𝑡
+𝑦∗ 1 − 𝑥
+𝑃𝐴
+→𝛼=
+=
+𝑥 1 − 𝑦∗
+𝑃𝐵
+
+E
+
+D
+
+F
+
+G
+
+với 𝑦 ∗ : phân mol cân bằng với 𝑥 của cấu tử trong pha hơi tại điểm D, 𝑃𝑡 : áp suất tổng.
+▪ T = const, 𝑝∗ và 𝑃𝑡 : tuyến tính theo 𝑥 nhưng 𝑃𝑡 : không tuyến tính theo 𝑦.
+▪ Hỗn hợp lý tưởng: tính toàn bộ cân bằng lỏng-hơi từ các giá trị áp suất hơi bão hòa
+của các cấu tử nguyên chất ở các nhiệt độ khác nhau.
+▪ Hỗn hợp không lý tưởng: cân bằng lỏng-hơi được xác định từ thực nghiệm. 14/105
+
+4.2 Cân bằng lỏng-hơi: d) Hỗn hợp lý tưởng-Định luật Raoult
+
+15/105
+
+4.2 Cân bằng lỏng-hơi: d) Hỗn hợp lý tưởng-Định luật Raoult
+Ví dụ 7.1 tiếp
+
+16/105
+
+4.2 Cân bằng lỏng-hơi: e) Sai lệch dương so với định luật Raoult
+Sai lệch dương (positive deviation):
+∗
+∗
+𝑃𝑡 > 𝑝𝐴,𝑅
++ 𝑝𝐵,𝑅
+∗
+với 𝑝𝑖,𝑅
+: áp suất riêng phần của cấu tử i tính theo Raoult.
+
+▪ Hỗn hợp đẳng phí thường là
+sai lệch dương
+∗
+▪ 𝑝𝑖∗ > 𝑝𝐴,𝑅
+▪ Khi 𝑥 → 1 thì 𝑝𝑖∗ → điều kiện lý
+tưởng (ĐL Raoult áp dụng cho
+những chất có nồng độ rất lớn)
+▪ Đường cong áp suất tổng có
+điểm cực đại
+
+17/105
+
+4.2 Cân bằng lỏng-hơi: e) Sai lệch dương so với định luật Raoult
+Đặc điểm của hỗn hợp đẳng phí:
+• Nhiệt độ sôi cực tiểu (minimum-boiling azeotrope)
+• 𝑥 = 𝑦 ∗ 𝑣à 𝛼 = 1 → không thể phân riêng hỗn hợp đẳng phí bằng
+chưng cất thông thường.
+• Thành phần và tsôi thay đổi theo P → thay đổi P sẽ thay đổi được điều
+kiện đẳng phí của hệ.
+1 atm
+
+Điểm đẳng phí của hệ sẽ bị phá khi
+P < 70 mmHg
+
+= 89,4% mol
+
+18/105
+
+4.2 Cân bằng lỏng-hơi: e) Sai lệch dương so với định luật Raoult
+
+19/105
+
+4.2 Cân bằng lỏng-hơi: e) Sai lệch dương so với định luật Raoult
+
+20/105
+
+4.2 Cân bằng lỏng-hơi: e) Sai lệch dương so với định luật Raoult
+Chất lỏng hòa tan một phần
+Vùng KMPN: biểu diễn hai pha lỏng, Vd: điểm D sẽ có thành phần hai
+pha lỏng cân bằng tại C và E. Hỗn hợp tại F sẽ có cân bằng lỏng-hơi như
+các hỗn hợp hòa tan hoàn toàn.
+Đường nét đứt: thể hiện nếu tăng P để quá trình bốc hơi không xảy ra
+thì KN và MP sẽ kéo dài ra.
+Hỗn hợp đẳng phí dị thể
+(heterogeneous azeotrope):
+Hỗn hợp lỏng sẽ tạo nên pha hơi có
+thành phần giống pha lỏng (điểm L).
+Vd: hỗn hợp isobutanol-nước
+Điểm L có thể nằm ngoài vùng
+KMPN (ít trường hợp) Vd: hệ metil
+etil ceton-nước.
+N
+
+P
+
+21/105
+
+4.2 Cân bằng lỏng-hơi: e) Sai lệch dương so với định luật Raoult
+Chất lỏng không hòa tan
+K và M: biểu diễn hai chất lỏng có độ hòa tan hỗ tương rất nhỏ xem như
+không hòa tan, Vd: các hỗn hợp hidrocacbon-nước.
+Đặc điểm: áp suất hơi bão hòa của các cấu tử không chịu ảnh hưởng bởi
+sự hiện diện của nhau và mỗi cấu tử có áp suất hơi riêng tại nhiệt độ đã
+cho.
+
+Hỗn hợp sôi khi: tổng áp suất hơi
+của mỗi cấu tử bằng với áp suất
+tổng tác động lên hệ.
+𝑃𝐴 + 𝑃𝐵 = 𝑃𝑡
+𝑃𝐴
+∗
+𝑦𝐴 =
+𝑃𝑡
+Hỗn hợp sôi ở nhiệt độ không đổi
+và có thành phần pha hơi không
+đổi.
+
+K
+
+N
+
+22/105
+
+Chưng cất bằng hơi nước trực tiếp cho các chất lỏng không hòa tan
+
+23/105
+
+Chưng cất bằng hơi nước trực tiếp cho các chất lỏng không hòa tan
+Ví dụ 7.2 tiếp
+
+pha lỏng
+
+24/105
+
+4.2 Cân bằng lỏng-hơi: f) Sai lệch âm so với định luật Raoult
+
+Sai lệch âm (negative deviation)
+∗
+∗
+𝑃𝑡 < 𝑝𝐴,𝑅
++ 𝑝𝐵,𝑅
+
+25/105
+
+4.2 Cân bằng lỏng-hơi: f) Sai lệch âm so với định luật Raoult
+Đặc điểm của hỗn hợp đẳng phí:
+▪ Có nhiệt độ sôi cực đại
+(maximum-boiling azeotrope) tại
+điểm L.
+▪ Hỗn hợp có thành phần ở hai bên
+điểm L.
+▪ Khi cho sôi trong bình hở đến
+cuối cùng thu được hỗn hợp
+đẳng phí trong bình.
+▪ Ít phổ biến so với hỗn hợp đẳng
+phí có nhiệt độ sôi cực tiểu. Vd:
+hệ axit clorhydric-nước (11,1%
+mol HCl, 110 oC, 1 atm).
+26/105
+
+4.2 Cân bằng lỏng-hơi: f) Sai lệch âm so với định luật Raoult
+Maximum-boiling azeotropes
+
+acetone - chloroform (65.5 mole% chloroform, 64.5 oC, 1 atm)27/105
+
+Positive and Negative Deviations from Raoult’s Law
+
+Positive deviations
+
+Negative deviations
+
+28/105
+
+Minimum-boiling and Maximum-boiling Azeotropes
+
+29/105
+
+4.2 Cân bằng lỏng-hơi: g) Giản đồ hàm nhiệt-nồng độ (Hxy)
+Enthalpy-Concentration diagram
+P = const
+Hàm nhiệt pha lỏng: gồm nhiệt cảm và
+nhiệt hòa tan của các cấu tử.
+𝐻𝐿 = 𝐶𝐿 𝑡𝐿 − 𝑡𝑜 𝑀𝑡𝑏 + ∆𝐻𝑠 , 𝐽/𝑘𝑚𝑜𝑙
+với 𝐶𝐿 : nhiệt dung riêng của hỗn hợp, J/kgoC;
+𝑀𝑡𝑏 : khối lương mol trung bình của hỗn hợp,
+kg/kmol; ∆𝐻𝑠 : nhiệt dung dịch ở nhiệt độ to và
+nồng độ đã cho theo các cấu tử tinh khiết, J/kmol
+hỗn hợp, ∆𝐻𝑠 < 0: trộn hai cấu tử phát nhiệt,
+∆𝐻𝑠 > 0: thu nhiệt;
+
+HG
+
+HL
+
+Chất lỏng bão hòa (lỏng sôi), 𝑡𝐿 : nhiệt độ sôi của hỗn hợp ở nồng độ và áp suất đã cho.
+
+Hàm nhiệt pha hơi: ở trạng thái bão hòa (điểm sương).
+Giả sử: mỗi cấu tử được gia nhiệt và bốc hơi riêng ở nhiệt độ điểm
+sương (tG) rồi trộn lại.
+
+𝐻𝐺 = 𝑦 𝐶𝐿𝐴 𝑀𝐴 𝑡𝐺 − 𝑡𝑜 + 𝑟𝐴 𝑀𝐴 + 1 − 𝑦 𝐶𝐿𝐵 𝑀𝐵 𝑡𝐺 − 𝑡𝑜 + 𝑟𝐵 𝑀𝐵 , 𝐽/𝑘𝑚𝑜𝑙
+với 𝑟𝐴 , 𝑟𝐵 : ẩn nhiệt hóa hơi của A, B nguyên chất tại 𝑡𝐺 , J/kg; 𝐶𝐿𝐴 , 𝐶𝐿𝐵 : nhiệt dung riêng
+của A, B nguyên chất, J/kgC.
+30/105
+
+4.2 Cân bằng lỏng-hơi: g) Giản đồ hàm nhiệt-nồng độ (Hxy)
+D M
+
+N
+
+P
+
+F
+C
+
+E
+
+P = const
+G
+
+Nhiệt cần thiết để bốc hơi hỗn hợp tại C:
+𝐽
+𝐻𝐷 − 𝐻𝐶 ,
+ℎỗ𝑛 ℎợ𝑝
+𝑘𝑚𝑜𝑙
+Đối tuyến EF: liên hệ cân bằng lỏng-hơi (x-y)
+Điểm G: biểu diễn đối tuyến EF
+Mối liên hệ giữa H-xy và x-y
+Cân bằng vật chất và năng lượng
+𝑀+𝑁 =𝑃
+𝑥𝑀 𝑀 + 𝑥𝑁 𝑁 = 𝑥𝑃 𝑃
+𝐻𝑀 𝑀 + 𝐻𝑁 𝑁 = 𝐻𝑃 𝑃
+Khử P
+𝑀 𝑥𝑁 − 𝑥𝑃 𝐻𝑁 − 𝐻𝑃
+=
+=
+𝑁 𝑥𝑃 − 𝑥𝑀 𝐻𝑃 − 𝐻𝑀
+Phương trình biểu diễn đoạn thẳng MN và
+vị trí của P được xác định:
+𝑀 𝑁𝑃
+=
+𝑁 𝑀𝑃
+31/105
+
+4.2 Cân bằng lỏng-hơi: g) Giản đồ hàm nhiệt-nồng độ (Hxy)
+Đặc trưng của giản đồ Hxy và xy
+Hỗn hợp 𝐶(𝑧𝐶 , 𝐻𝐶 ): còn lại sau khi tách
+hỗn hợp lỏng bão hòa D ra khỏi hỗn
+hợp hơi bão hòa E. C cũng có thể là hỗn
+hợp còn lại sau khi tách F ra khỏi G, I ra
+khỏi K, …
+Nồng độ của các pha tương ứng biểu
+diễn bằng đường cong trên x-y.
+CBVC: với 𝐸 − 𝐷 = 𝐶
+𝐷 𝑧𝐶 − 𝑦𝐸 𝐶𝐸
+→ =
+=
+𝐸 𝑧𝐶 − 𝑥𝐷 𝐶𝐷
+Phương trình của dây cung có hệ số góc
+D/E, được vẽ giữa điểm 𝑥𝐷 , 𝑦𝐸 và
+điểm G (𝑥 = 𝑦 = 𝑧𝐶 ) nằm trên đường
+45o. Tương tự, vẽ cho F/G và I/K.
+
+C
+
+32/105
+
+4.2 Cân bằng lỏng-hơi: g) Giản đồ hàm nhiệt-nồng độ (Hxy)
+Đặc trưng của giản đồ Hxy và xy
+❑ 𝑟𝐴 = 𝑟𝐵 , 𝐶𝑃,𝑑𝑑 = 𝑐𝑜𝑛𝑠𝑡, ∆𝐻𝑆 = 0
+→ HGy và HLx song song: D/E = F/G = I/K
+→ Dây cung qua điểm G là đường thẳng
+❑ C di chuyển lên trên, hệ số góc của
+đường cong qua G sẽ → 1, và trùng với
+đường 45o khi C → ∞
+❑ 𝐶 ∈ 𝐻𝐺𝑦 → đường cong thành đường
+nằm ngang; 𝐶 ∈ 𝐻𝐿𝑥 → đường cong
+thành đường thẳng đứng.
+
+G
+
+33/105
+
+4.3 Hệ nhiều cấu tử lý tưởng
+Hỗn hợp lý tưởng: các cấu tử có cấu tạo tương tự, Vd: hỗn hợp các parafin, các
+hydrocacbon thơm có nhiệt độ sôi thấp. → áp dụng định luật Raoult tại T = const:
+
+𝑝𝐴∗ = 𝑥𝐴 𝑃𝐴 ; 𝑝𝐵∗ = 𝑥𝐵 𝑃𝐵 ; 𝑝𝐶∗ = 𝑥𝐶 𝑃𝐶 ; … ; 𝑝𝐽∗ = 𝑥𝐽 𝑃𝐽
+Nếu pha hơi lý tưởng:
+𝑃𝑡 = 𝑝𝐴∗ + 𝑝𝐵∗ + 𝑝𝐶∗ + ⋯ + 𝑝𝐽∗ = ෍ 𝑝∗
+∗
+∗
+𝑝
+𝑥𝐽 𝑃𝐽
+𝑝
+𝐽
+𝐴
+∗
+∗
+𝑦𝐴 =
+→ 𝑦𝐽 =
+=
+∗
+∗
+σ𝑝
+σ𝑝
+σ 𝑥𝑃
+Độ bay hơi tương đối của chất J theo chất C:
+𝑃𝐽
+𝛼𝐽𝐶 =
+𝑃𝐶
+Phương trình 𝑦𝐽∗ /𝑃𝐶 và 𝛼𝐶𝐶 = 1, 𝑦𝐽∗ được viết lại
+𝛼𝐽𝐶 𝑥𝐽
+𝛼𝐽𝐶 𝑥𝐽
+∗
+𝑦𝐽 =
+=
+𝛼𝐴𝐶 𝑥𝐴 + 𝛼𝐵𝐶 𝑥𝐵 + 𝑥𝐶 + ⋯ σ 𝛼𝑥
+
+Vì độ bay hơi tương đối it biến đổi hơn so với áp suât nên phương trình này tiện lợi
+hơn để tính thành phần các cấu tử.
+34/105
+
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+Continuous distillation of a binary mixture
+
+▪ Quá trình: liên tục, nghịch dòng và
+nhiều đoạn.
+▪ Ứng dụng: thu hồi được hai sản phẩm
+có độ tinh khiết mong muốn với hỗn
+hợp không đẳng phí.
+▪ Mô tả:
+• Nhập liệu tại vị trí thích hợp
+• Phần cất: trên vị trí nhập liệu
+• Phần chưng: dưới vị trí nhập liệu
+• Dòng hoàn lưu: tạo pha lỏng chảy từ
+đỉnh tháp xuống
+• Dòng sản phẩm đỉnh (hơi hay lỏng) và
+dòng hoàn lưu: do pha hơi ở đỉnh
+ngưng tụ lại, chứa nhiều cấu tử dễ
+bay hơi
+• Nồi đun: tạo pha hơi đi từ dưới lên,
+lôi cuốn cấu tử dễ bay hơi
+• Sản phẩm đáy: chất lỏng lấy ra từ nồi
+đun, chứa nhiều cấu tử khó bay hơi
+35/105
+
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+• Bên trong tháp: pha lỏng và pha
+hơi luôn ở nhiệt độ sôi và ngưng
+tụ. Cao nhất tại đáy và thấp nhất
+tại đỉnh tháp.
+• Độ tinh khiết của sản phẩm (đỉnh
+và đáy) tùy thuộc vào tỉ số pha
+lỏng/pha khí đi trong tháp và số
+mâm lý thuyết.
+• Đường kính tháp phụ thuộc vào
+lưu lượng các pha.
+
+36/105
+
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+Cân bằng vật chất và nhiệt lượng tổng
+quát
+Tỉ số hoàn lưu: số mol dòng hoàn lưu (Lo) chia
+cho số mol sản phẩm đỉnh (D)
+
+𝐿𝑜
+𝑅=
+𝐷
+
+CBVC cho thiết bị ngưng tụ (bao hình I)
+
+𝐺1 = 𝐷 + 𝐿𝑜
+𝐺1 = 𝐷 + 𝑅𝐷 = 𝐷 1 + 𝑅
+với cấu tử A: 𝑦1 𝐺1 = 𝑥𝐷 𝐷 + 𝑥𝑜 𝐿𝑜
+
+→ Các phương trình này để tính lưu lượng và
+thành phần các dòng ở đỉnh
+Cân bằng nhiệt lượng (CBNL) cho bao hình I
+
+𝐺1 𝐻𝐺1 = 𝑄𝑐 + 𝐿0 𝐻𝐿𝑜 + 𝐷𝐻𝐷
+→ 𝑄𝑐 = 𝐷 1 + 𝑅 𝐻𝐺1 − 𝑅𝐻𝐿𝑜 − 𝐻𝐷
+với 𝑄𝑐 : nhiệt tải của thiết bị ngưng tụ (TBNT)
+Hình 7.9b: Cân bằng vật chất-năng lượng cho tháp chưng cất
+
+37/105
+
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+Cân bằng vật chất và nhiệt lượng tổng
+quát
+Nhiệt tải do nồi đun cung cấp được xác
+đinh từ PT CBNL cho toàn bộ tháp (bao
+hình II)
+𝑄Đ = 𝐷𝐻𝐷 + 𝑊𝐻𝐵 + 𝑄𝑐 + 𝑄𝐿 − 𝐹𝐻𝐹
+𝑄𝐿 : tổn thất nhiệt ra môi trường ngoài.
+Các biện pháp tiết kiệm năng lượng
+- Dòng sản phẩm (SP) đáy trao đổi
+nhiệt với dòng nhập liệu (NL);
+- Dòng NL làm dòng lạnh để ngưng tụ
+hơi trong TBNT và để gia nhiệt dòng
+NL
+
+Hình 7.9b: Cân bằng vật chất-năng lượng cho tháp chưng cất
+
+38/105
+
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+Phương pháp xác định:
+• Số mâm lý thuyết
+• Tỉ số lỏng/hơi
+• Nồng độ sản phẩm
+❖ Phương pháp Ponchon-Savarit:
+▪ Cơ sở: dùng giản đồ Hxy và xy
+▪ Ưu điểm: áp dụng cho mọi
+trường hợp
+▪ Nhược điểm: cần đủ dữ kiện về
+nhiệt
+❖ Phương pháp Mc Cabe-Thiele:
+▪ Cơ sở: dùng giản đồ xy
+▪ Ưu điểm: đơn giản
+▪ Nhược điểm: thích hợp cho một
+số trường hợp
+39/105
+
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+❖ Phương pháp Ponchon-Savarit: giả sử nhiệt tổn thất không đáng kể
+Phần cất (luyện-rectifying section): Xét mâm thứ n trong bao hình III
+CBVC tổng:
+𝐺𝑛+1 = 𝐿𝑛 + 𝐷
+CBVC cho A:
+𝑦𝑛+1 𝐺𝑛+1 = 𝑥𝑛 𝐿𝑛 + 𝑥𝐷 𝐷
+hay 𝑦𝑛+1 𝐺𝑛+1 − 𝑥𝑛 𝐿𝑛 = 𝑥𝐷 𝐷
+PT này biểu diễn sai biệt lưu lượng của A
+lên-xuống tháp bằng với lưu lượng A trong
+sản phẩm đỉnh ra khỏi tháp. Sai biệt này
+không phụ thuộc vào vị trí mâm trong phần
+cất.
+CBNL với QL = 0: 𝐺𝑛+1 𝐻𝐺,𝑛+1 = 𝐿𝑛 𝐻𝐿,𝑛 + 𝑄𝑐 + 𝐷𝐻𝐷
+Nhiệt lượng lấy ra từ TBNT và dòng SP đỉnh cho mỗi đơn vị SP đỉnh, Q’:
+𝑄𝑐 + 𝐷𝐻𝐷 𝑄𝑐
+′
+𝑄 =
+=
++ 𝐻𝐷
+𝐷
+𝐷
+CBNL được viết lại: 𝐺𝑛+1 𝐻𝐺,𝑛+1 − 𝐿𝑛 𝐻𝐿,𝑛 = 𝐷𝑄′
+PT này biểu diễn sai biệt dòng nhiệt lên-xuống bằng dòng nhiệt lấy ra ở
+đỉnh tháp.
+40/105
+
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+❖ Phương pháp Ponchon-Savarit: Phần cất
+Khử D ở các PT
+𝐿𝑛
+𝑥𝐷 − 𝑦𝑛+1 𝑄′ − 𝐻𝐺,𝑛+1
+=
+=
+𝐺𝑛+1
+𝑥𝐷 − 𝑥𝑛
+𝑄′ − 𝐻𝐿,𝑛
+với
+
+𝐿𝑛
+: tỉ số hoàn lưu
+𝐺𝑛+1
+
+Trên Hxy, PT này biểu diễn đường thẳng
+đi qua 𝐺𝑛+1 𝑦𝑛+1 , 𝐻𝐺,𝑛+1 ; 𝐿𝑛 𝑥𝑛 , 𝑦𝑛+1
+𝑣à ∆𝐷 .
+∆𝐷 : điểm sai biệt trong phần cất.
+Trên giản đồ xy, PT này biểu diễn đường
+𝐿
+thẳng có hệ số góc 𝑛 và qua
+𝐺𝑛+1
+
+𝑥𝑛 , 𝑦𝑛+1 và 𝑥 = 𝑦 = 𝑥𝐷 .
+41/105
+Hình 7.10: Xác định số mâm lý thuyết cho phần cất, ngưng tụ hoàn toàn, hoàn lưu dưới điểm sôi
+
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+❖ Phương pháp Ponchon-Savarit: Phần cất
+Cách xác định số mâm lý thuyết
+▪ Hxy: các đối tuyến biểu diễn các dòng ra khỏi
+mâm lý thuyết và các đường xuất phát từ D
+thể hiện sự biến đổi nồng độ pha lỏng, pha
+hơi qua mỗi mâm.
+▪ xy: tương ứng với các đối tuyến là các tam
+giác biểu diễn một mâm lý thuyết.
+▪ Số mâm lý thuyết tương ứng với các tam
+giác đến vị trí mâm nhập liệu.
+Tỉ số hoàn lưu:
+
+𝐿𝑜 ∆𝐷 𝐺1
+𝑅=
+=
+𝐷
+𝐺1 𝐷
+
+Xác định điểm ∆𝑫 : với tỉ số hoàn lưu cho trước,
+tỉ số hai độ dài của hai đoạn ∆𝐷 𝐺1 và 𝐺1 𝐷 để
+xác định ∆𝐷 thẳng đứng trên hình và tung độ Q’
+của ∆𝐷 được dùng để tính nhiệt tải của TBNT.
+42/105
+Hình 7.10: Xác định số mâm lý thuyết cho phần cất, ngưng tụ hoàn toàn, hoàn lưu dưới điểm sôi
+
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+❖ Phương pháp Ponchon-Savarit: Phần cất
+
+Hơi ra ở đỉnh không được ngưng tụ hoàn toàn, SP D được lấy ra ở dạng
+hơi bão hòa, phần lỏng ngưng tụ được cho hoàn lưu. Giả sử quá trình
+ngưng tụ đạt cân bằng nên tương đương một mâm lý thuyết. Dòng
+hoàn lưu Lo cân bằng với D (đối tuyến C). G1 được xác định bằng vẽ
+đoạn DLo.
+43/105
+
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+❖ Phương pháp Ponchon-Savarit: Phần chưng (striping section)
+Xét bao hình IV
+CBVC cho mâm thứ m:
+𝐿𝑚 = 𝐺𝑚+1 + 𝑊
+với cấu tử A:
+𝑥𝑚 𝐿𝑚 = 𝑦𝑚+1 𝐺𝑚+1 + 𝑥𝑤 𝑊
+hay 𝑥𝑚 𝐿𝑚 − 𝑦𝑚+1 𝐺𝑚+1 = 𝑥𝑤 𝑊
+PT này biểu diễn sự sai biệt lưu
+lượng A xuống-lên bằng với dòng A
+ra khỏi tháp trong dòng SP đáy.
+CBNL: 𝐿𝑚 𝐻𝐿,𝑚 + 𝑄Đ = 𝐺𝑚+1 𝐻𝐺,𝑚+1 + 𝑊𝐻𝑤
+Dòng nhiệt lấy ra ở đáy tính cho mỗi mol SP đáy:
+𝑊𝐻𝑤 − 𝑄Đ
+𝑄Đ
+′′
+𝑄 =
+= 𝐻𝑤 −
+𝑊
+𝑊
+→ 𝐿𝑚 𝐻𝐿,𝑚 − 𝐺𝑚+1 𝐻𝐺,𝑚+1 = 𝑊𝑄′′
+PT này biểu diễn dòng nhiệt đi xuống-lên bằng với dòng nhiệt không đổi
+44/105
+đi ra ở đáy tháp.
+
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+❖ Phương pháp Ponchon-Savarit: Phần chưng
+𝐻𝐺,𝑚+1 −𝑄′′
+𝐿𝑚
+𝑦𝑚+1 −𝑥𝑤
+Khử W →
+=
+=
+𝐺𝑚+1
+𝑥𝑚 −𝑥𝑤
+𝐻𝐿,𝑚 −𝑄′′
+
+Trên Hxy, PT này biểu diễn đường thẳng qua các điểm
+𝐺𝑚+1 𝑦𝑚+1 , 𝐻𝐺,𝑚+1 ; 𝐿𝑚 𝑥𝑚 , 𝐻𝐿,𝑚 𝑣à ∆𝑤 (𝑥𝑤 , 𝑄 ′′ )
+∆𝑤 : điểm sai biệt phần chưng.
+Trên xy, PT này biểu diễn đường thẳng có hệ số góc
+𝐿𝑚
+qua các điểm 𝑥𝑚 , 𝑦𝑚+1 và (𝑥 = 𝑦 = 𝑥𝑤 )
+𝐺𝑚+1
+
+w
+
+Mặt khác:
+
+𝐻𝐺,𝑚+1 −𝑄′′
+𝐿𝑚
+𝑦𝑚+1 −𝑥𝑤
+=
+=
+𝑊
+𝑦𝑚+1 −𝑥𝑚
+𝐻𝐺,𝑚+1 −𝐻𝐿,𝑚
+
+PT này biểu diễn cho nồi đun, với hơi rời khỏi nồi đun
+cân bằng với dòng sản phẩm đáy. Vì vậy, nồi đun
+tương đương một mâm lý thuyết (đối tuyến B).
+Xác định số mâm lý thuyết (N): trên Hxy vẽ các đối
+tuyến từ ∆𝑤 , mỗi đối tuyến tương đương một mâm
+lý thuyết. Trên xy, giao điểm của các tia từ ∆𝑤 cắt HL
+và HG có hoành nằm trên đường làm việc. Vẽ đường
+bậc thang giữa đường làm việc và đường cân bằng →
+N.
+Hình 7.12: Xác định số mâm lý thuyết cho phần chưng
+45/105
+
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+❖ Phương pháp Ponchon-Savarit: Toàn tháp – xét bao hình II
+CBVC cho toàn tháp: 𝐹 = 𝐷 + 𝑊
+cho cấu tử A: 𝑥𝐹 𝐹 = 𝑥𝐷 𝐷 + 𝑥𝑤 𝑊
+Giả sử nhiệt tổn thất, QL = 0, kết hợp
+Q’ và Q’’:
+𝐹𝐻𝐹 = 𝐷𝑄′ + 𝑊𝑄′′
+Khử F giữa các PT:
+𝐷 𝑥𝐹 − 𝑥𝑤 𝐻𝐹 − 𝑄′′
+=
+= ′
+𝑊 𝑥𝐷 − 𝑥𝐹
+𝑄 − 𝐻𝐹
+Trên Hxy, PT này biểu diễn đường
+thẳng qua các điểm:
+∆𝐷 𝑥𝐷 , 𝑄 ′ ; 𝐹 𝑥𝐹 , 𝐻𝐹 𝑣à ∆𝑤 (𝑥𝑤 , 𝑄 ′′ )
+
+46/105
+
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+❖ Phương pháp Ponchon-Savarit: Toàn tháp
+Xác định số mâm lý thuyết-N:
+
+w
+
+F: nhập liệu (nồng độ, trạng thái nhiệt) là lỏng dưới
+điểm sôi. F có thể là lỏng hoặc hơi bão hòa, hỗn hợp
+lỏng-hơi hay hơi quá nhiệt và ba điểm D, F và w
+luôn thẳng hàng.
+❑ Trên Hxy:
+• Định vị 𝐹(𝑥𝐹 , 𝐻𝐹 ), các hoành độ 𝑥𝐷 , 𝑥𝑤 được
+• D: trên đường 𝑥 = 𝑥𝐷 và tính Q’ khi biết R
+→∆𝐷 (𝑥𝐷 , 𝑄 ′ )
+• w: đường DF kéo dài cắt đường 𝑥 = 𝑥𝑤 tại
+∆𝑤 (𝑥𝑤 , 𝑄Đ )
+❑ Trên xy:
+• Các đường DJ sẽ cho đường làm việc phần cất
+(rectifying section operating line-ROL)
+• Các đường wV sẽ cho đường làm việc phần
+chưng (stripping section operating line-SOL)
+• →Hai đường này giao nhau tại M liên hệ với
+đường DFw
+47/105
+
+Hình 7.13: Xác định số mâm lý thuyết cho toàn tháp. Nhập liệu dưới điểm sôi và ngưng tụ hoàn toàn
+
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+❖ Phương pháp Ponchon-Savarit: Toàn tháp
+
+Số mâm lý thuyết: vẽ đường bậc thang giữa
+đường làm việc và đường cân bằng bắt đầu
+từ 𝑥 = 𝑦 = 𝑥𝐷 hay từ 𝑥 = 𝑦 = 𝑥𝑤 . Mỗi bậc
+biểu diễn một mâm lý thuyết. Đường bậc
+thang thay đổi đường làm việc khi chuyển
+từ phần cất sang phần chưng tại mâm nhập
+liệu.
+
+48/105
+
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+❖ Phương pháp Mc Cabe-Thiele:
+Ưu điểm: đơn giản hơn so với Ponchon Savarit vì không cần dữ kiện
+nhiệt để xác định giản đồ Hxy
+Cơ sở của phương pháp: xem gần đúng đường làm việc phần chưng và
+phần cất là đường thẳng
+Ứng dụng: trường hợp có tổn thất nhiệt và nhiệt dung dịch không lớn
+
+49/105
+
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+
+❖ Phương pháp Mc Cabe-Thiele:
+Phần cất (rectifying section): ngưng tụ hoàn toàn–hoàn lưu ở điểm sôi
+Lưu lượng dòng lỏng, L, và dòng hơi, G, không đổi
+qua mỗi mâm, nhưng thành phần mỗi dòng thay đổi.
+CBVC cho bao hình bên:
+
+𝐺 =𝐿+𝐷 =𝐷 𝑅+1
+cho cấu tử A:
+
+𝑦𝑛+1 𝐺 = 𝑥𝑛 𝐿 + 𝑥𝐷 𝐷
+Đường làm việc cho phần cất-ROL
+VG
+
+hay
+
+𝐿
+𝐷
+𝑦𝑛+1 = 𝑥𝑛 + 𝑥𝐷
+𝐺
+𝐺
+𝑅
+𝑥
+𝑦𝑛+1 =
+𝑥𝑛 + 𝐷
+𝑅+1
+
+𝑅+1
+
+PT này biểu diễn đường thẳng có hệ số góc
+𝑥
+
+𝐿
+𝑅
+=
+𝐺
+𝑅+1
+
+và tung độ góc 𝐷 . Khi 𝑥𝑛 = 𝑥𝐷 → 𝑦𝑛+1 = 𝑥𝐷 thì
+𝑅+1
+đường thẳng đi qua điểm 𝐷(𝑥 = 𝑦 = 𝑥𝐷 ) trên
+đường 45o. Từ tung độ góc và điểm D → vẽ được
+đường làm việc phần cất.
+50/105
+
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+
+❖ Phương pháp Mc Cabe-Thiele:
+Phần chưng (stripping section): hơi nồi đun cân bằng với sản phẩm đáy
+
+B W
+
+Lưu lượng dòng lỏng, L’, và dòng hơi, G’, không đổi
+qua mỗi mâm, nhưng thành phần mỗi dòng thay đổi.
+CBVC cho bao hình bên:
+𝐿′ = 𝐺′ + 𝑊
+cho cấu tử A:
+𝑥𝑚 𝐿′ = 𝑦𝑚+1 𝐺′ + 𝑥𝑤 𝑊
+Đường làm việc cho phần chưng-SOL
+𝐿′
+𝑊
+𝑦𝑚+1 = 𝑥𝑚 − 𝑥𝑤
+𝐺′
+𝐺′
+hay
+
+𝐿′
+𝑊
+𝑦𝑚+1 = ′ 𝑥𝑚 − ′ 𝑥𝑤
+𝐿 −𝑊
+𝐿 −𝑊
+
+PT này biểu diễn đường thẳng có hệ số góc
+
+𝐿′
+𝐿′
+= ′ và khi 𝑥𝑚 = 𝑥𝑤 → 𝑦𝑚+1 = 𝑥𝑤 thì đường
+𝐺′
+𝐿 −𝑊
+
+thẳng đi qua điểm W(𝑥 = 𝑦 = 𝑥𝑤 ) trên đường 45o.
+Từ điểm W và hệ số góc → vẽ được đường làm việc
+phần chưng. Và nếu pha hơi rời nồi đun ở trạng thái
+cân bằng với dòng SP đáy thì bậc thang cuối biểu
+diễn nồi đun.
+51/105
+
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+❑ Các yếu tố ảnh hưởng: Dòng nhập liệu
+a) Trạng thái nhiệt của dòng nhập liệu
+Khảo sát dòng nhập liệu ảnh hưởng đến hệ
+số góc của các đường làm việc và số mâm lý
+thuyết.
+Tại mâm nhập liệu: lưu lượng các dòng lỏng,
+hơi sẽ thay đổi đột ngột khi đi qua mâm
+nhập liệu.
+
+VG
+
+Trạng thái nhập liệu: lỏng, hơi hoặc cả hai
+Đại lượng 𝑞: tỉ số giữa nhiệt cần thiết để biến đổi 1 mol nhập liệu từ trạng thái ban
+đầu ra thành hơi bão hòa.
+Nếu nhập liệu ở trạng thái lỏng bão hòa: 𝐿′ = 𝐿 + 𝐹
+CBVC tổng: 𝐹 + 𝐿 + 𝐺 ′ = 𝐿′ + 𝐺
+CBNL: 𝐹𝐻𝐹 + 𝐿𝐻𝐿,𝑓−1 + 𝐺 ′ 𝐻𝐺,𝑓+1 = 𝐿′ 𝐻𝐿,𝑓 + 𝐺𝐻𝐺,𝑓
+Vì pha lỏng và pha hơi luôn ở trạng thái bão hòa, và nhiệt độ và thành phần thay đổi
+không nhiều qua một mâm, nên: 𝐻𝐺,𝑓 = 𝐻𝐺,𝑓+1 = 𝐻𝐺 và 𝐻𝐿,𝑓−1 = 𝐻𝐿,𝑓 = 𝐻𝐿
+→ 𝐿′ − 𝐿 𝐻𝐿 = 𝐺 ′ − 𝐺 𝐻𝐺 + 𝐹𝐻𝐹
+𝐿′ − 𝐿 𝐻𝐺 − 𝐻𝐹
+→𝑞=
+=
+𝐹
+𝐻𝐺 − 𝐻𝐿
+52/105
+
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+❑ Các yếu tố ảnh hưởng: Dòng nhập liệu
+a) Trạng thái nhiệt của dòng nhập liệu: lỏng dưới điểm sôi → hơi quá
+nhiệt, mỗi trạng thái tương ứng có một giá trị 𝑞
+
+53/105
+
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+❑ Các yếu tố ảnh hưởng: Dòng nhập liệu
+a) Trạng thái nhiệt của dòng nhập liệu:
+PT xác định G’: 𝐺 ′ − 𝐺 = 𝐹(𝑞 − 1)
+Tọa độ giao điểm của hai đường làm việc:
+𝑦𝐺 = 𝑥𝐿 + 𝑥𝐷 𝐷
+𝑦𝐺 ′ = 𝑥𝐿′ − 𝑥𝑤 𝑊
+→ 𝐺 ′ − 𝐺 𝑦 = 𝐿′ − 𝐿 𝑥 − 𝑊𝑥𝑤 + 𝐷𝑥𝐷
+CBVC đối với cấu tử cho toàn tháp: 𝑥𝐹 𝐹 = 𝑥𝐷 𝐷 + 𝑥𝑤 𝑊
+Đường nhập liệu (Feed line or q-line)
+𝑞
+𝑥𝐹
+→𝑦=
+𝑥−
+𝑞−1
+𝑞−1
+PT này mô tả đường nhập liệu là tập hợp các giao điểm của hai đường
+𝑞
+làm việc phần chưng và cất. Đường nhập liệu có hệ số góc
+và đi qua
+𝑞−1
+
+điểm 𝐹(𝑥 = 𝑦 = 𝑥𝐹 ).
+54/105
+
+a) Trạng thái nhiệt của dòng nhập liệu:
+
+55/105
+
+a) Trạng thái nhiệt của dòng nhập liệu:
+
+Sự thay đổi của pha lỏng và pha hơi qua mâm nhập liệu tùy thuộc vào trạng thái
+nhiệt của dòng nhập liệu
+56/105
+
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+❑ Các yếu tố ảnh hưởng: Dòng nhập liệu
+b) Vị trí mâm nhập liệu: tại bậc thang qua giao điểm hai đường làm
+việc. Dòng nhập liệu được đưa vào mâm trên hay mâm dưới so với mâm
+nhập liệu thích hợp thì số mâm lý thuyết-N tăng lên nhiều.
+
+a) Mâm nhập liệu dưới vị trí
+thích hợp
+
+b) Mâm nhập liệu trên vị trí
+thích hợp
+
+c) Mâm nhập liệu ở vị trí
+thích hợp
+
+Hình: Ảnh hưởng của vị trí mâm nhập liệu
+57/105
+
+b) Vị trí mâm nhập liệu: các bước xác định số mâm lý thuyết
+1.
+2.
+
+𝑅
+𝑥𝐷
+Vẽ đường ROL theo: 𝑦𝑛+1 =
+𝑥 +
+𝑅+1 𝑛
+𝑅+1
+′
+𝐿
+𝑊
+Vẽ đường SOL theo: 𝑦𝑚+1 = ′ 𝑥𝑚 − ′ 𝑥𝑤
+𝐿 −𝑊
+𝐿 −𝑊
+𝑞
+𝑥𝐹
+hay vẽ đường q theo: 𝑦 =
+𝑥−
+𝑞−1
+𝑞−1
+
+3. Vẽ đường bậc thang --> N
+
+58/105
+
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+❑ Các yếu tố ảnh hưởng: Dòng hoàn/hồi lưu-Reflux ratio (R)
+a) Tăng tỉ số hồi lưu:
+𝐿
+❑𝑅 = 𝑜 ↑
+𝐷
+
+▪ Trên Hxy: D di chuyển lên trên, vì D,F, w
+wthẳng hàng nên w sẽ di chuyển xuống.
+▪
+
+𝐿𝑛
+𝐿′𝑚
+Trên xy:
+↑ 𝑣à ′ ↓ → các đường làm việc
+𝐺𝑛+1
+𝐺𝑚+1
+
+sẽ tiến gần đường 45o →𝑁 ↓
+▪ TBNT, nồi đun và các dòng lỏng, hơi ở phần
+chưng: 𝑄𝑐 , 𝑄Đ , 𝐿′ , 𝐺′ ↑ → bề mặt truyền nhiệt
+tăng, đường kính tháp tăng để phù hợp với sự
+gia tăng tải trọng của tháp
+
+w
+
+❑𝑅 →∞
+𝐿𝑛
+𝐿′𝑚
+▪ 𝐺 = 𝐺′ = 1→ các đường làm việc trùng
+𝑛+1
+
+𝑚+1
+
+với đường 45o
+▪ Trên Hxy và xy: các điểm  sẽ ra vô cực và 𝑁 →
+𝑚𝑖𝑛
+→ Chưng cất không lấy SP đỉnh, đáy ra và không có
+dòng nhập liệu vào tháp.
+
+59/105
+
+a) Tăng tỉ số hồi lưu
+
+60/105
+
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+❑ Các yếu tố ảnh hưởng: Dòng hoàn/hồi lưu-Reflux ratio (R)
+a) Tăng tỉ số hồi lưu:
+Xác định số mâm lý thuyết tối thiểu-Nmin để cho SP đỉnh và đáy có nồng
+độ 𝑥𝐷 𝑣à 𝑥𝑤
+𝑥𝐷 1 − 𝑥𝑤
+𝑙𝑜𝑔
+1 − 𝑥𝐷 𝑥𝑤
+𝑁𝑚𝑖𝑛 + 1 =
+𝑙𝑜𝑔𝛼𝑡𝑏
+Với số 1 ở vế trái để biểu diễn cho nồi đun
+Điều kiện sử dụng công thức:
+▪ Độ bay hơi tương đối không đổi, 𝛼𝑡𝑏 : độ bay hơi tương đối trung
+bình
+▪ Hỗn hợp gần lý tưởng
+
+61/105
+
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+❑ Các yếu tố ảnh hưởng: Dòng hoàn/hồi lưu-Reflux ratio (R)
+b) Tỉ số hồi lưu tối thiểu-Rm:
+▪ Số mâm: 𝑁 → ∞
+▪ Nhiệt tải của nồi đun và TBNT: 𝑄Đ 𝑣à 𝑄𝑐 → 𝑚𝑖𝑛
+Khi nhập liệu ở trạng thái lỏng bão hòa:
+
+𝑥𝐷 − 𝑦𝐹∗
+𝑅𝑚 = ∗
+𝑦𝐹 − 𝑥𝐹
+
+với 𝑦𝐹∗ : thành phần pha hơi cân bằng với 𝑥𝐹
+
+A trade-off between R and N
+
+62/105
+
+Hoàn lưu toàn phần vs. hoàn lưu tối thiểu
+
+Total reflux or infinite reflux ratio results in minimum stages
+
+63/105
+
+Hoàn lưu toàn phần vs. hoàn lưu tối thiểu
+
+a) Minimum Reflux Ratio for
+Ideal Solution
+
+b) Minimum Reflux for
+Non-Ideal Solution-ROL
+first becomes tangent to
+the equilibrium curve
+(a tangent pinch)
+
+b) Minimum Reflux for
+Non-Ideal
+Solution-SOL
+first becomes tangent to
+the equilibrium curve
+(a tangent pinch)
+
+Minimum reflux ratio results in infinite stages
+64/105
+
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+❑ Các yếu tố ảnh hưởng: Dòng hoàn/hồi lưu-Reflux ratio (R)
+c) Tỉ số hồi lưu tối ưu-Rtối ưu: tỉ số hoàn lưu dùng để thiết kế ứng với chi phí thấp
+nhất.
+▪ Các loại chi phí: cố định (đầu tư), vận hành (nhiệt, nước, điện) và tổng cộng
+▪ 𝑅 = 𝑅𝑚 : 𝑁 → ∞ hay chi phí cố định là vô cực nhưng chi phí vận hành là tối thiểu
+▪ 𝑅 ↑: 𝑁 ↓ nhưng đường kính tháp, TBNT, nồi đun và công bơm tăng
+▪ R → toàn phần: chi phí cố định → min và → .
+▪ Nhiệt và nước tăng theo R
+▪ 𝑅 = 𝑅𝑡ố𝑖 ư𝑢 : tổng chi phí → min
+▪ 𝑅𝑡ố𝑖 ư𝑢 = 1,2 ÷ 1,5 𝑅𝑚
+
+Hình: Biểu diễn mối quan hệ Hình: Biểu diễn mối quan
+giữa N và R.
+hệ giữa R và chi phí.
+
+65/105
+
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+❑Hiệu suất mâm (tray efficiency)
+Đã trình bày ở Bài giảng # 3
+Hiệu suất tổng quá, Eo chỉ có ý nghĩa khi:
+▪ Hiệu suất mâm, EM = const qua các mâm
+▪ Đường cân bằng và đường làm việc là đường thẳng trong khoảng
+nồng độ đang xét
+
+66/105
+
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+❑Nồi đun: thiết bị trao đổi nhiệt được đặt ở đáy tháp dùng để cấp
+nhiệt cho tháp. Thời gian lưu của chất lỏng trong nồi đun là 5 – 10
+phút để bốc hơi. Nồi đun có thể được gia nhiệt bằng
+hơi nước, dầu truyền nhiệt, hoặc đun trực tiếp đối
+với chất lỏng có nhiệt độ sôi cao.
+
+→ Nồi đun: thiết bị trao đổi nhiệt loại hai vỏ có
+diện tích bề mặt trao đổi nhiệt nhỏ, dùng cho
+tháp có năng suất nhỏ.
+
+→ Nồi đun: thiết bị trao đổi nhiệt loại ống
+chùm, đặt ở đáy tháp, có diện tích bề mặt trao
+đổi nhiệt lớn hơn loại (a)
+
+67/105
+
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+❑Nồi đun:
+→ Nồi đun: đặt ngoài và có hai nồi đun để luân
+phiên làm vệ sinh. Chất tải nhiệt đi trong ống gia
+nhiệt cho dung dịch ngoài ống, tạo hơi đi vào
+tháp cân bằng với dòng sản phẩm đáy. Nên nồi
+đun được xem là một mâm lý tưởng. Áp dụng đối
+với tháp có năng suất lớn.
+
+→ Nồi đun: đặt thẳng đứng, chất tải nhiệt đi
+ngoài ống để gia nhiệt và bốc hơi hoàn toàn phần
+lỏng đi trong ống→ tạo pha hơi có cùng thành
+phần với dòng sản phẩm đáy. Nhược điểm: dễ
+đóng cáu cặn lên bề mặt truyền nhiệt bên trong
+ống nên thực tế pha lỏng chỉ được cho bốc hơi
+một phần và dòng ra khỏi nồi đun là một hỗn hợp
+lỏng hơi.
+68/105
+
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+❑Nồi đun:
+
+→ Nồi đun: nhận dòng lỏng từ mâm đáy
+và chỉ bốc hơi một phần.
+
+69/105
+
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+❑ Sử dụng hơi nước để cấp nhiệt trực tiếp cho đáy tháp:
+Điều kiện: SP đáy là nước, cấu tử còn lại dễ bay hơi
+Ưu-nhược điểm: 𝑥𝐷 & 𝑅 = 𝑐𝑜𝑛𝑠𝑡 → 𝑁 ↑ nhưng giảm chi phí chế tạo nồi
+đun, bảo trì và làm vệ sinh.
+Phần cất không bị ảnh hưởng
+CBVC và NL tổng quát: giả sử QL = 0
+𝐹 + 𝐺𝑤 = 𝐷 + 𝐵
+𝑥𝐴,𝐹 𝐹 = 𝑥𝐴,𝐷 𝐷 + 𝑥𝐴,𝐵 𝐵
+𝐹𝐻𝐹 + 𝐺𝑤 𝐻𝐺𝑤 = 𝐷𝐻𝐷 + 𝐵𝐻𝐵 + 𝑄𝑐
+với G’: lưu lượng của hơi nước đưa
+vào đáy tháp; 𝐻𝐺𝑤 : enthalpy của hơi
+nước.
+Lượng nhiệt lấy ra trên tổng số mol lấy ra ở đáy tháp:
+𝐵𝐻𝐵 − 𝐺𝑤 𝐻𝐺𝑤
+′′
+𝑄 =
+𝐵 − 𝐺𝑤
+70/105
+
+❑ Sử dụng hơi nước để cấp nhiệt trực tiếp cho đáy tháp:
+Dòng hơi đưa vào ở trạng thái hơi quá nhiệt
+(không nằm trên đường HG). Nếu là hơi bão hòa
+thì M: biểu diễn dòng hơi vào.
+
+CBVC tại mâm m:
+𝑥𝑚 𝐿′ = 𝑦𝑚+1 𝐺 ′ + 𝑥𝐵 𝐵
+𝐿′
+𝑦𝑚+1
+′
+vì 𝐿 = 𝐵 → =
+: hệ số
+𝐺′
+
+𝑥𝑚 −𝑥𝐵
+
+góc đường làm việc phần chưng
+đi qua điểm (𝑥 = 𝑥𝐵 , 𝑦 = 0)
+71/105
+
+❑ Sử dụng hơi nước để cấp nhiệt trực tiếp cho đáy tháp:
+
+Nếu hơi nước G’ vào tháp là
+quá nhiệt thì sẽ làm bốc hơi
+pha lỏng ở mâm đáy tháp và
+trở thành hơi bão hòa.
+Lưu lượng pha hơi và pha lỏng
+đi trong phần chưng:
+𝐻𝐺′ − 𝐻𝐺,𝑏ℎ
+𝐺𝑆 = 𝐺𝑤 1 +
+𝑟𝑀
+𝐿𝑆 = 𝐺𝑆 − 𝐺𝑤 + 𝐵
+→ tỉ số mol pha hơi và pha
+lỏng đi trong tháp.
+
+72/105
+
+❑ Sử dụng hơi nước để cấp nhiệt trực tiếp cho đáy tháp:
+
+73/105
+
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+❑ Thiết bị ngưng tụ
+• Loại thiết bị: thiết bị trao đổi nhiệt ống chùm
+• Vị trí đặt: ở trên tháp để dòng hoàn lưu có
+thể tự chảy vào mâm trên cùng của tháp
+hoặc có thể đặt ở mặt đất và dùng bơm để
+đưa dòng hoàn lưu về đỉnh tháp, cũng dễ
+điều khiển lưu lượng dòng hoàn lưu.
+• Chất tải nhiệt: nước, áp suất trong tháp đủ
+lớn để nước có thể làm ngưng tụ hoàn toàn
+hơi ra ở đỉnh với một sai biệt nhiệt độ thích
+hợp. Với những sản phẩm rất dễ bay hơi thì
+phải dùng chất tải nhiệt lạnh có nhiệt độ rất
+thấp.
+• Thiết bị làm nguội: nếu sản phẩm đỉnh chỉ
+ngưng tụ thành lỏng bão hòa thì phải được
+làm nguội tiếp xuống nhiệt độ thường trước
+khi đưa vào bồn chứa để tránh thất thoát do
+bay hơi.
+74/105
+
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+❑ Thiết bị ngưng tụ
+o Ngưng tụ một phần (partial condenser): sản phẩm có nhiệt
+độ sôi thấp → khó ngưng tụ hoàn toàn. Khi đó, hơi ra ở đỉnh vào
+TBNT được làm nguội đủ để ngưng tụ tạo dòng hoàn lưu và dòng
+sản phẩm đỉnh lấy ra ở dạng hơi. Có các trường hợp sau:
+a) Ngưng tụ cân bằng: đủ thời gian tiếp xúc pha để pha lỏng hoàn lưu
+và pha hơi sản phẩm đỉnh đạt trạng thái cân bằng, và TBNT tương
+đương mâm lý thuyết.
+b) Ngưng tụ vi phân: pha lỏng được lấy ra ngay sau khi được tạo
+thành.
+c) Ngưng tụ nhanh: làm lạnh nhanh
+→ quá trình truyền khối giữa hai pha
+là không đáng kể và hai pha gần như
+có cùng thành phần.
+
+75/105
+
+❑ Thiết bị ngưng tụ
+
+76/105
+
+Ngưng tụ cân bằng: CBVC cho bao hình I và II --> xác định 𝑦𝐷 ,
+𝑥𝑜 và đường làm việc phần cất (ROL):
+Bao hình II:
+𝑦𝑛+1 𝐺 + 𝑥𝑜 𝐿 = 𝑦1 𝐺 + 𝑥𝑛 𝐿
+Bao hình II:
+𝐺 =𝐿+𝐷
+𝑦𝑛+1 𝐺 = 𝑥𝑛 𝐿 + 𝑦𝐷 𝐷
+
+VG
+
+77/105
+
+4.4 Chưng cất liên tục hỗn hợp hai cấu tử
+❑ Dòng lưu nguội: dòng hoàn lưu ở trạng thái dưới điểm sôi vì hơi ở
+đỉnh được ngưng tụ và làm nguội đến dưới nhiệt độ sôi.
+Lượng nhiệt để đưa dòng hoàn lưu lên đến nhiệt độ sôi khi trở lại tháp:
+𝐿𝑜 𝐶𝐿𝑜 𝑀𝑡𝑏 𝑇𝑅,𝑏ℎ − 𝑇𝑅
+
+Với 𝑇𝑅,𝑏ℎ , 𝑇𝑅 : nhiệt độ sôi và nhiệt đội thực của dòng hoàn lưu.
+Lượng hơi ngưng tụ trong tháp:
+𝐿𝑜 𝐶𝐿𝑜 𝑀𝐿,𝑡𝑏 𝑇𝑅,𝑏ℎ − 𝑇𝑅 / 𝑟𝑀𝐺,𝑡𝑏
+
+lượng hơi này sẽ nhập vào dòng 𝐿𝑜 tạo thành dòng L đi vào mâm trên
+cùng của tháp.
+𝐿𝑜 𝐶𝐿𝑜 𝑀𝐿,𝑡𝑏 𝑇𝑅,𝑏ℎ − 𝑇𝑅
+𝐶𝐿𝑜 𝑀𝐿,𝑡𝑏 𝑇𝑅,𝑏ℎ − 𝑇𝑅
+𝐿 = 𝐿𝑜 +
+= 𝑅𝐷 1 +
+𝑟𝑀𝐺,𝑡𝑏
+𝑟𝑀𝐺,𝑡𝑏
+
+Tỉ số hoàn lưu thực: 𝑅′ =
+
+𝐿
+𝐷
+
+𝐶𝐿𝑜 𝑀𝐿,𝑡𝑏 𝑇𝑅,𝑏ℎ − 𝑇𝑅
+→ 𝑅′ = 𝑅 1 +
+𝑟𝑀𝐺,𝑡𝑏
+
+Phương trình đường làm việc phần cất trở thành:
+𝑅′
+𝑥𝐷
+𝑦𝑛+1 = ′
+𝑥 +
+𝑅 + 1 𝑛 𝑅′ + 1
+
+78/105
+
+4.5 Chưng cất bằng tháp chêm (packed tower)
+Xét một vi phân thể tích tầng chêm có:
+- Tiết diện: 1 đơn vị diện tích, m2
+- Chiều cao: 𝑑𝑧, m
+- Thể tích: 1 𝑥 𝑑𝑧, 𝑚3
+- Diện tích bề mặt vật chêm: 𝑎𝑑𝑧, 𝑚2
+Lưu lượng cấu tử A trong pha khí đi vào
+vi phân thể tích này: y𝐺, mol/m2.s
+Tốc độ truyền khối pha khí: 𝑑(𝐺𝑦)
+Tốc độ truyền khối pha lỏng: 𝑑(𝐿𝑥)
+CBVC cho phần cất
+Giả sử:
+▪ Trong chưng cất: 𝐿 và 𝐺 là không đổi
+▪ Quá trình truyền khối: đẳng mol và
+nghịch dòng: 𝑁𝐴 = −𝑁𝐵 , mol/m2.s
+𝑑(y𝐺)
+= 𝑘𝑦′ 𝑦𝑖 − 𝑦
+𝑎𝑑𝑧
+𝑧
+y𝐺
+𝑑(y𝐺)
+Chiều cao phần cất: 𝑧𝑅 = ‫׬‬0 𝑅 𝑑𝑧 = ‫ ׬‬y𝐺 2 ′
+𝑎 𝑘𝑦 𝑎 𝑦𝑖 −𝑦
+
+Thông lượng truyền khối: 𝑁𝐴 =
+
+𝑑(𝑥𝐿)
+= 𝑘𝑥′ 𝑥 − 𝑥𝑖
+𝑎𝑑𝑧
+𝑥𝐿
+𝑑(𝑥𝐿)
+= ‫ 𝐿𝑥 ׬‬2 ′
+𝑎 𝑘𝑥 𝑎 𝑥−𝑥𝑖
+
+=
+
+Chiều cao phần chưng được xác định với biểu thức tương tự có các giới hạn tích phân
+thích hợp.
+79/105
+
+4.5 Chưng cất bằng tháp chêm
+Với điểm bất kỳ (𝑥, 𝑦) trên đường làm việc
+phần cất sẽ tìm được điểm (𝑥𝑖, 𝑦𝑖) trên đường
+cân bằng tại giao điểm với đoạn thẳng vẽ từ
+(𝑥, 𝑦) có hệ số góc −𝑘𝑥′ /𝑘𝑦′ .
+Nếu 𝑘𝑥′ > 𝑘𝑦′ : pha hơi có trở lực truyền khối
+lớn thì tính toán theo pha khí sẽ chính xác hơn
+và ngược lại.
+▪ Tính chiều cao tháp theo chiều cao một đơn
+vị truyền khối: chiều cao đơn vị truyền khối
+được xem là không đổi với 𝐿 và 𝐺 là không đổi
+trong mỗi phần của tháp (hoặc lấy giá trị trung
+bình trong mỗi phần):
+𝐺
+𝐿
+𝐻𝑡𝐺 = ′ ; 𝐻𝑡𝐿 = ′
+𝑘𝑦 𝑎
+𝑘𝑥 𝑎
+Khi đó, chiều cao phần cất:
+𝑦2
+𝑥2
+𝑑𝑦
+𝑑𝑥
+𝑧𝑅 = 𝐻𝑡𝐺 න
+= 𝐻𝑡𝐺 𝑁𝑡𝐺 ℎ𝑎𝑦 𝑧𝑅 = 𝐻𝑡𝐿 න
+= 𝐻𝑡𝐿 𝑁𝑡𝐿
+𝑦
+−
+𝑦
+𝑥
+−
+𝑥
+𝑖
+𝑦𝑎 𝑖
+𝑥𝑎
+với 𝑁𝑡𝐺 , 𝑁𝑡𝐿 : số đơn vị truyền khối tính theo pha khí và pha hơi.
+Chiều cao phần chưng được xác định với các biểu thức tương tự.
+80/105
+
+4.5 Chưng cất bằng tháp chêm
+
+Đặc điểm của hệ số truyền khối 𝑘𝑦′ và 𝑘𝑥′ :
+Phụ thuộc vào lưu lượng khối lượng của dòng mà
+lưu lượng khối lượng thì thay đáng kể theo vị trí
+tháp, mặc dù lưu lượng mol không đổi, vì khối
+ഥ thay đổi theo nồng độ. Vì vậy, cần có
+lượng mol (𝑀)
+sự kiểm tra 𝐻𝑡𝐺 và 𝐻𝑡𝐿 .
+▪ Tính chiều cao tháp theo chiều cao một đơn vị
+truyền khối tổng quát:
+Thường thì đường cân bằng cân bằng ở mỗi phần
+của tháp là không thẳng và để đáp ứng với điều này
+thì hệ số truyền khối tổng quát, 𝐾𝑦′ và 𝐾𝑥′ được
+dùng. Tuy nhiên, nếu trong một khoảng nồng độ mà
+đường cân bằng có thể xem là thẳng thì chiều cao
+mỗi phần cuả tháp được xác định theo chiều cao và
+số đơn vị truyền khối tổng quát, 𝐻𝑡𝑂 và 𝑁𝑡𝑂 .
+𝑦2
+𝑥2
+𝑑𝑦
+𝑑𝑥
+𝑧𝑅 = 𝐻𝑡𝑂𝐺 න
+= 𝐻𝑡𝑂𝐺 𝑁𝑡𝑂𝐺 ℎ𝑎𝑦 𝑧𝑅 = 𝐻𝑡𝑂𝐿 න
+= 𝐻𝑡𝑂𝐿 𝑁𝑡𝑂𝐿
+∗−𝑦
+∗
+𝑦
+𝑥
+−
+𝑥
+𝑦𝑎
+𝑥𝑎
+với 𝐻𝑡𝑂𝐺 =
+
+𝐺
+𝐿
+;
+𝐻
+=
+; 𝑦 ∗ − 𝑦: động lực truyền khối theo pha khí; 𝑥 − 𝑥 ∗ : động
+𝑡𝑂𝐿
+′
+′
+𝐾𝑦 𝑎
+𝐾𝑥 𝑎
+
+lực truyền khối theo pha lỏng.
+
+81/105
+
+4.5 Chưng cất bằng tháp chêm
+Hệ số truyền khối và chiều cao một đơn vị truyền
+khối tổng quát:
+1
+1
+𝑚
+′ = ′ + ′
+𝐾𝑦 𝑘𝑦 𝑘𝑥
+1
+1
+1
+′ =
+′ + ′
+𝐾𝑥 𝑚𝑘𝑦 𝑘𝑥
+𝑚𝐺
+𝐻𝑡𝑂𝐺 = 𝐻𝑡𝐺 +
+𝐻𝑡𝐿
+𝐿
+𝐿
+𝐻𝑡𝑂𝐿 = 𝐻𝑡𝐿 +
+𝐻𝑡𝐺
+𝑚𝐺
+m: hệ số góc đường cân bằng thẳng.
+
+82/105
+
+4.6 Chưng cất đơn giản (simple distillation)
+Chưng cất đơn giản: quá trình có một giai đoạn, trong đó pha lỏng ở nồi
+đun được cho bốc hơi, pha hơi luôn ở trạng thái cân bằng với pha lỏng
+còn lại trong nồi và qua thiết bị ngưng tụ thành lỏng.
+Thực hiện quá trình: gián
+đoạn hay liên tục
+▪ Quá trình gián đoạn: nồng
+độ pha hơi thu được sẽ giảm
+theo thời gian chưng cất. Vì
+vậy, sản phẩm thường được
+chứa trong các bình riêng
+biệt. Kết thúc quá trình, chất
+lỏng trong nồi đun chứa
+nhiều cấu tử khó bay hơi.
+▪ Quá trình liên tục: thành
+phần sản phẩm sẽ không đổi.
+83/105
+
+4.6 Chưng cất đơn giản
+Ứng dụng:
+• Khi nhiệt độ sôi của hai cấu tử khác xa nhau
+• Khi không yêu cầu sản phẩm có độ tinh khiết cao
+• Tách hỗn hợp lỏng ra khỏi tạp chất không bay hơi
+• Tách sơ bộ hỗn hợp nhiều cấu tử
+
+84/105
+
+4.6 Chưng cất đơn giản: a) Không hoàn lưu
+Xét quá trình chưng cất đơn giản:
+- Hỗn hợp A và B
+- Gián đoạn
+- Thành phần và lượng sản phẩm thay đổi theo thời gian
+Tại thời điểm bất kỳ: 𝐿: mol chất lỏng trong nồi; 𝑥: mol A và 𝑑𝐷: lượng mol hơi bốc ra
+từ nồi cân bằng với nồng độ pha lỏng.
+CBVC:
+
+−
+𝐹
+
+𝑥𝐹
+𝑑𝐿
+𝐹
+𝑑𝑥
+∗
+𝑦 𝑑𝐿 = 𝐿𝑑𝑥 + 𝑥𝑑𝐿 → න
+= 𝑙𝑛 = න
+∗
+𝐿
+𝑊
+𝑊
+𝑥𝑊 𝑦 − 𝑥
+với 𝐹: mol hỗn hợp nhập liệu có thành phần ban đầu 𝑥𝐹 ; 𝑊: mol còn lại trong nồi sau
+khi kết thúc quá trình có thanh phần 𝑥𝐵.
+Phương trình này được dùng để xác định các biến (𝐹, 𝑥𝐹 , 𝑊, 𝑥𝑊 ) khi biết 1 trong ba
+biến. Vế phải có thể lấy tích phân nếu biết quan hệ 𝑦 ∗ và 𝑥, hoặc lấy tích phân bằng đồ
+thị với dữ kiện cân bằng lỏng – hơi.
+85/105
+
+4.6 Chưng cất đơn giản: a) Không hoàn lưu
+CBVC:
+
+Thành phần trung bình của sản
+phẩm của quá trình:
+𝑥𝐹 𝐹 = 𝑦𝐷𝑡𝑏 𝐷 + 𝑥𝑊 𝑊
+Nếu độ bay hơi tương đối 
+không đổi thì quan hệ , quan hệ
+𝑦 ∗ và 𝑥 được xác định theo .
+Khi đó, phương trình CBVC được
+lấy tích phân cho kết quả:
+𝐹
+1
+𝑥𝐹 1 − 𝑥𝑊
+1 − 𝑥𝑊
+𝑙𝑛 =
+𝑙𝑛
++ 𝑙𝑛
+𝑊 𝛼 − 1 𝑥𝑊 1 − 𝑥𝐹
+1 − 𝑥𝐹
+hay
+𝑥𝐹 𝐹
+1 − 𝑥𝐹 𝐹
+𝑙𝑜𝑔
+= 𝛼𝑙𝑜𝑔
+𝑥𝑊 𝑊
+1 − 𝑥𝑊 𝑊
+
+Vế phải của phương trình CBVC được xác định
+theo đồ thị.
+86/105
+
+4.6 Chưng cất đơn giản: a) Không hoàn lưu
+
+87/105
+
+4.6 Chưng cất đơn giản: a) Không hoàn lưu
+Ví dụ 7.4 tiếp
+
+𝒚𝑫𝒕𝒃 = 𝟎, 𝟔𝟏𝟒 𝑝ℎâ𝑛 𝑚𝑜𝑙 𝑛 − ℎ𝑒𝑝𝑡𝑎𝑛
+
+88/105
+
+4.6 Chưng cất đơn giản: b) Có hoàn lưu
+Mục đích: chưng cất đơn giản với dòng hoàn lưu để cải
+thiện hioatj động của cột chưng cất vì chưng cất không có
+hoàn lưu sẽ không đạt được sự phân riêng tốt trừ khi độ
+bay hơi tương đối rất lớn.
+Cấu tạo: nếu cột cất không quá lớn thì có thể đặt trên nồi
+đun hoặc đỡ riêng có ống dẫn nối với nồi đun.
+Quá trình gián đoạn: hoạt động của nồi đun và cột cất
+được xác định bằng phương pháp McCabe-Thiele với
+phương trình đường làm việc phần cất giống như phần
+cất trong quá trình liên tục.
+𝑅
+𝑥𝐷
+𝑦𝑛+1 =
+𝑥 +
+𝑅+1 𝑛 𝑅+1
+Vận hành với nồng độ không đổi: hệ có thể hoạt động
+được giữ ở nồng độ sản phẩm đỉnh không đổi bằng cách
+tăng tỉ số hoàn lưu khi thành phần chất lỏng trong nồi
+thay đổi. Giản đồ McCabe-Thiele trong trường hợp này sẽ
+có các đường làm việc có hệ số góc khác nhau sao cho số
+mâm lý thuyết không đổi từ 𝑥𝐷 đến 𝑥𝐵 tại thời điểm bất
+kỳ.
+89/105
+
+4.6 Chưng cất đơn giản: b) Có hoàn lưu
+Giản đồ trình đường làm việc trên ứng với
+nồng độ của hỗn hợp trong nồi bằng với nồng
+độ nhập liệu (nồng độ 𝑥𝑤 trong nồi thấp hơn
+𝑥𝐹 vì một lượng chất lỏng bị giữ trên mâm).
+Đường làm việc dưới và đường nét đứt biểu
+diễn 5 mâm lý thuyết bao gồm nồi đun.
+Xác định tỉ số hoàn lưu: cho 𝑥𝐷 không đổi và
+một giá trị 𝑥𝑤 cho trước bằng phươn pháp dọ
+dẫm vì bậc cuối cùng vẽ giữa đường làm việc
+và đường cân bằng phải chấm dứt đúng tại
+𝑥𝑤 . Phương trình CBVC sẽ xác định được
+lượng sản phẩm đỉnh cất được (D) và lượng
+sản phẩm còn lại trong nồi (W).
+Hình 7.32: Giản đồ McCabe-Thiele cho quá trình chưng cất đơn giản, gián đoạn, có hoàn lưu.
+Đường làm việc trên ứng với điều kiện ban đầu. Đường làm việc dưới sau khi đã cất được 1/3
+nhập liệu.
+
+90/105
+
+4.6 Chưng cất đơn giản: b) Có hoàn lưu
+Vận hành với tỉ số hoàn lưu không đổi: với hệ
+thống cất gián đoạn, cố định tỉ số hoàn lưu và
+cho sản phẩm đỉnh có nồng độ thay đổi theo
+thời gian, quá trình cất sẽ dừng khi lượng sản
+phẩm đỉnh hay nồng độ trung bình của dòng sản
+phẩm tổng cộng đạt đến giá trị nhất định.
+Trường hợp này, các đường làm việc có hệ số góc
+không đổi được vẽ từ các giá trị 𝑥𝐷 khác nhau và
+số bậc thang được vẽ để xác định 𝑥𝑊 . Tổng số
+mol còn lại trong nồi được tính bằng cách lấy tích
+phân phương tình CBVC với 𝑥𝐷 = 𝑦 và 𝑥 = 𝑥𝑊 .
+
+91/105
+
+92/105
+
+Ví dụ 7.5 tiếp
+
+93/105
+
+Ví dụ 7.5 tiếp
+
+94/105
+
+Ví dụ 7.5 tiếp
+
+95/105
+
+Ví dụ 7.5 tiếp
+
+96/105
+
+Ví dụ 7.5 tiếp
+
+97/105
+
+Ví dụ 7.5 tiếp
+
+98/105
+
+Ví dụ 7.5 tiếp
+
+99/105
+
+Ví dụ 7.5 tiếp
+
+100/105
+
+Ví dụ 7.5 tiếp
+
+101/105
+
+Ví dụ 7.5 tiếp
+
+102/105
+
+Ví dụ 7.5 tiếp
+
+Hình 7.36: Xác định số mâm lý thuyết
+
+103/105
+
+THIẾT KẾ THÁP
+
+Chiều Cao - Tháp mâm
+
+Chiều Cao Tháp đệm
+
+Đường Kính Tháp
+
+4.7 Bài tập
+4.1 Xác định độ bay hơi tương đối của hỗn hợp ethanol-nước ở 80 oC, hỗn hợp
+methanol–nước ở 80 oC? Nêu ý nghĩa những giá trị tính được?
+4.2 Cho hỗn hợp nước–axit axetic được đưa vào tháp chưng cất với lưu lượng nhập
+liệu là 350 kmol/h ở nhiệt độ sôi và không có thất thoát nhiệt. Lưu lượng hơi đi vào
+ngưng tụ là 600 kmol/h; đường làm việc đoạn cất có dạng: y = 0,84 x + 0,15; tung độ
+giao điểm hai đường làm việc bằng 0,48. Xác định:
+a) Lưu lượng sản phẩm đáy thu được (kg/h)?
+b) Tỉ lệ thu hồi axit axetic?
+c) Số mâm lý thuyết?
+4.3 Tháp mâm chưng cất hỗn hợp ethanol–nước có nồng độ nhập liệu 20%, sản phẩm
+đỉnh 80% và sản phẩm đáy 5% mol ethanol. Lưu lượng sản phẩm đỉnh là 1000 kg/h và
+vào tháp ở nhiệt độ sôi và không có thất thoát nhiệt. R = 1,6Rmin
+a) Tính lưu lượng dòng sản phẩm đáy theo kg/h và tỉ lệ thu hồi ethanol?
+b) Xác định số mâm lý thuyết và vị trí mâm nhập liệu cho tháp chưng cất?
+c) Tính số mâm thực tế cho tháp chưng cất và vị trí mâm nhập liệu. Giả sử hiệu suất
+tháp lấy bằng hiệu suất tại mâm nhập liệu. Độ nhớt của pha lỏng tại mâm nhập liệu
+bằng 1cP.
+
+104/105
+
+4.7 Bài tập
+4.4 Tháp chưng cất hỗn hợp nước–axit axêtic từ nguyên liệu ban đầu có nồng độ 10%
+mol axit ra sản phẩm là dung dịch axit axêtic đậm đặc có nồng độ 95% mol axit.
+Quá trình chưng cất nhằm thu hồi 90% axit trong nhập liệu. Nhập liệu ở trạng thái lỏng
+sôi, ngưng tụ hoàn toàn và hoàn lưu ở điểm sôi. Xác định:
+a) Lưu lượng các dòng sản phẩm đỉnh và đáy với lưu lượng nhập liệu là 100 kg/h?
+b) Số mâm lý thuyết và vị trí mâm nhập liệu của tháp chưng cất?
+c) Nhiệt tải thiết bị ngưng tụ?
+Cho biết: tỉ số hoàn lưu, R = 8; nhiệt hóa hơi của nước là 2.270 kJ/kg; của axit axêtic là
+405 kJ/kg.
+
+105/105
+
+

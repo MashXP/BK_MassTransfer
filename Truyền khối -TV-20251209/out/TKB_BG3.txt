@@ -1,0 +1,987 @@
+TRUYỀN KHỐI
+Bài giảng # 3
+
+Các Tháp Truyền Khối
+PGS. TS. Nguyễn Hữu Hiếu
+Bộ môn Quá Trình & Thiết Bị
+Khoa Kỹ Thuật Hóa Học
+Trường Đại Học Bách Khoa TP.HCM
+nhhieubk@hcmut.edu.vn
+
+1/69
+
+Nội dung
+3.1 Khái niệm
+3.2 Tháp mâm
+❑ Tháp mâm chóp
+❑ Tháp mâm van
+❑ Tháp mâm xuyên lỗ
+3.3 Tháp chêm
+3.4 Bài tập
+2/69
+
+3.1 Khái niệm
+Tháp truyền khối: thiết bị để thực hiện quá trình truyền vật chất trong
+một pha, giữa hai pha khi tiếp xúc nhau.
+Yêu cầu cơ bản:
+▪ Diện tích bề mặt tiếp xúc pha lớn
+▪ Hoạt động ổn định
+▪ Hiệu suất cao
+▪ Năng suất lớn
+▪ Dễ: chế tạo, lắp đặt, vận hành, bảo trì, sửa chữa và thay thế
+Phân loại: theo
+• Nguyên tắc làm việc: liên tục, gián đoạn và bán liên tục
+• Áp suất làm việc: thường, thấp và cao
+• Nhiệt độ làm việc: thấp của khí hóa lỏng đến 900 oC
+• Phương pháp cấp nhiệt: đun nóng trực tiếp và gián tiếp
+• Chiều chuyển động của pha: xuôi chiều, ngược chiều và chéo
+chiều
+• Dạng bề mặt tiếp xúc: pha liên tục, tầng bậc
+• Kết cấu tháp: màng, đệm, mâm/đĩa và phun
+3/69
+
+3.1 Khái niệm
+Phạm vi nghiên cứu:
+Tháp mâm và tháp chêm (plate/tray and packed column)
+
+4/69
+
+3.1 Khái niệm
+Phạm vi nghiên cứu: tháp mâm và tháp chêm
+Tháp mâm: pha khí phân tán vào pha lỏng, dùng cho chưng
+cất và hấp thu
+Tháp chêm: pha lỏng phân tán vào pha khí, dùng cho hấp thu
+Thông số kỹ thuật:
+▪ Đường kính: tùy vào năng suất, D = 0,3 – 9 m
+▪ Khoảng cách mâm: 150 mm – 1 m
+▪ Số mâm thực: được tính từ số mâm lý thuyết và hiệu
+suất mâm
+▪ Hiệu suất mâm: phụ thuộc vào cấu tạo mâm
+Ứng dụng: tháp lớn dùng trong công nghiệp lọc hóa dầu.
+Tháp lớn và phức tạp dùng trong chưng cất dung môi, công
+nghiệp hóa chất, thực phẩm.
+5/69
+
+3.2 Tháp mâm (plate or tray column or tower)
+Cấu tạo: thân tháp hình trụ đứng, bên
+trong có gắn các mâm. Mỗi tháp có cấu tạo
+mâm khác nhau trên đó pha lỏng và pha hơi
+được cho tiếp xúc nhau.
+Nguyên tắc hoạt động: pha lỏng vào tháp ở
+đỉnh hoặc tại mâm thích hợp và chảy xuống
+do trọng lực qua mỗi mâm bằng ống chảy
+chuyền (downcomer). Pha hơi hay khí đi từ
+dưới lên qua mỗi mâm bằng các khe hở
+trên mâm do cấu tạo khác nhau của mâm
+tạo nên.
+
+Diagram of a typical bubble cap tray column
+
+6/69
+
+3.2 Tháp mâm
+Quá trình tiếp xúc pha:
+▪ Tại mỗi mâm: giao dòng
+▪ Tổng quá trình: nghịch dòng
+Số mâm lý thuyết: phụ thuộc vào mức
+độ phân riêng của hai pha.
+Được xác định bằng đồ thị từ đường
+làm việc và đường cân bằng.
+Hiệu suất mâm: được xác định sau khi
+đã có thiết kế cơ khí và các điều kiện
+hoạt động của tháp.
+Số mâm thực: được tính từ số mâm lý
+thuyết và hiệu suất mâm.
+7/69
+
+3.2 Tháp mâm
+
+Điều kiện vận hành tháp vs hiệu
+suất: hai yêu cầu trái nghịch nhau →
+cần phải dung hòa hay đánh đổi
+(trade-off). Để có hiệu suất mâm cao
+thì mức chất lỏng trên mâm và vận
+tốc khí phải lớn. Nhưng điều này lại
+gây nên:
+❑ Giảm hiệu suất mâm: do vận tốc
+dòng khí lớn → lôi cuốn cơ học các
+giọt lỏng trong dòng hơi từ mâm
+dưới lên mâm trên → giảm sự biến
+đổi nồng độ tạo quá trình truyền khối.
+❑ Giảm áp lớn cho dòng hơi/khí: vì mức chất lỏng trên mâm cao. Điều
+này làm tăng công suất máy nén khí cho tháp hấp thu, hoặc tăng nhiệt
+độ sôi ở nồi đun của tháp chưng cất.
+❑ Hiện tượng ngập lụt (flooding in tray column): với độ giảm áp cao của
+pha khí làm cho tháp dễ bị ngập lụt khi hoạt động.
+8/69
+
+3.2 Tháp mâm
+Khi thiết kế, phải
+chọn các kích thước
+và bố trí mâm để
+dung hòa với điều
+kiện vận hành tháp
+nhằm đạt được các
+mục tiêu trái ngược
+nhau.
+
+9/69
+
+3.2 Tháp mâm: đặc trưng chung
+a) Thân và mâm
+Vật liệu chế tạo: được làm bằng vật liệu phụ thuộc vào mức độ ăn mòn
+của lưu chất làm việc.
+Bề dày vật liệu: phụ thuộc vào tốc độ ăn mòn của lưu chất và áp suất
+làm việc bên trong tháp.
+Hình dạng: trụ tròn, chia thành từng đoạn ghép với nhau bằng mặt bích
+(flange).
+
+10/69
+
+3.2 Tháp mâm: đặc trưng chung
+a) Thân và mâm
+
+Mâm: được gắn cố định vào
+tháp và phải có vòng đỡ hoặc
+thanh đỡ để mâm được phẳng.
+11/69
+
+3.2 Tháp mâm: đặc trưng chung
+b) Khoảng cách mâm: được chọn trước trên cơ sở chế tạo, bảo trì,
+chi phí hợp lý và kiểm tra lại khi tháp hoạt động không bị lụt.
+
+12/69
+
+3.2 Tháp mâm: đặc trưng chung
+c) Đường kính tháp: tương ứng với lưu lượng pha lỏng, pha khí để
+tháp hoạt động không bị lụt hoặc lôi cuốn pha lỏng lên mâm.
+Vận tốc biểu kiến pha khí:
+1/2
+
+𝜌𝐿 − 𝜌𝐺
+𝑣𝐹 = 𝐶𝐹
+, 𝑚/𝑠
+𝜌𝐺
+với 𝐶𝐹 : thông số năng suất, phụ thuộc vào lưu lượng của hai pha, được
+xác định từ đồ thị cho từng loại mâm.
+Khi có 𝑣𝐹 , dựa vào lưu lượng pha khí thực (𝑣 ) sẽ tính được diện tích bề
+mặt bốc hơi: 𝑆𝑛 = 𝑆𝑡 − 𝑆𝑑 , với 𝑆𝑡 : diện tích mâm và 𝑆𝑑 : tiết diện ống
+chảy chuyền.
+▪ Chất lỏng không tạo bọt:
+𝑣 = (80 ÷ 85%)𝑣𝐹
+▪ Chất lỏng tạo bọt:
+𝑣 ≤ 75%𝑣𝐹
+▪ Tháp hoạt động ở áp suất thường: 𝑣 = 0,3 ÷0,9 m/s
+Tháp thường được thiết kế có một đường kính và chọn lưu lớn nhất để
+tính toán. Đặc biệt, nếu lưu lượng hai pha thay đổi đáng kể và vật liệu
+chế tạo đắt tiền thì dùng tháp có hai đường kính.
+
+13/69
+
+3.2 Tháp mâm: đặc trưng chung
+c) Đường kính tháp:
+
+14/69
+
+3.2 Tháp mâm: đặc trưng chung
+c) Đường kính tháp:
+
+15/69
+
+3.2 Tháp mâm: đặc trưng chung
+d) Ống chảy chuyền (downcomer):
+▪ Hình dạng: hình viên phân hay hình tròn
+(tháp nhỏ)
+▪ Diện tích: 𝑆𝑑 = 10 ÷ 15% 𝑆𝑡
+▪ Yêu cầu: ống chảy chuyền phải gần sát đến
+mâm dưới (thấp hơn gờ chảy tràn của mâm
+dưới) để giữ mức chất lỏng trong ống ngăn
+không cho pha khí thổi tắt vào ống.
+
+16/69
+
+3.2 Tháp mâm: đặc trưng chung
+e) Gờ chảy tràn (weir):
+▪ Mục đích: duy trì chiều cao mức chất lỏng trên mâm bằng với gờ chảy
+tràn, có thể là phần kéo dài lên khỏi mâm của ống chảy chuyền.
+▪ Chiều dài: 𝑙𝑤 = 60 ÷ 75% 𝐷
+
+17/69
+
+3.2 Tháp mâm: đặc trưng chung
+f) Chuyển động của dòng lỏng trên mâm (flow pattern):
+Tùy thuộc vào lưu lượng dòng lỏng chảy trên mâm mà ống chảy chuyền
+được bố trí khác nhau → tạo nên các kiểu dòng chảy pha lỏng khác
+nhau.
+
+18/69
+
+3.2 Tháp mâm: đặc trưng chung
+f) Chuyển động của dòng lỏng trên mâm (flow pattern):
+
+19/69
+
+3.2 Tháp mâm: chóp (bubble-cap plate tower)
+▪ Đặc điểm: trên mâm có gắn chóp và
+ống chảy chuyền (tròn, viên phân,
+1 hay nhiều ống tùy vào lưu lượng
+pha lỏng).
+▪ Chóp: tròn hay không tròn, trên thân
+chóp có rãnh (chữ nhật, tam giác hay
+tròn) để pha khí đi qua. Hình dáng
+rãnh không ảnh hưởng nhiều đến quá
+trình truyền khối.
+
+20/69
+
+3.2 Tháp mâm: chóp
+Nguyên tắc hoạt động: pha lỏng chảy
+từ mâm trên xuống mâm dưới nhờ ống
+chảy truyền, pha khí đi từ mâm dưới
+lên qua ống khí của chóp rồi xuyên qua
+các rãnh chóp để sục vào lớp chất lỏng
+mâm trên.
+
+Hiệu quả của quá trình sục khí: phụ thuộc vào vận tốc pha khí và chiều
+cao lớp chất lỏng trên mâm.
+21/69
+
+3.2 Tháp mâm: chóp
+Ảnh hưởng của vận tốc pha khí:
+▪ 𝑣𝐺 : nhỏ → phạm vi sục khí nhỏ hoặc
+không đủ để sục vào pha lỏng
+▪ 𝑣𝐺 : lớn → lôi cuốn chất lỏng hay chất
+lỏng bị dạt ra một vùng
+
+22/69
+
+3.2 Tháp mâm: chóp
+Độ giảm áp của pha khí qua tháp
+Độ mở lỗ chóp: pha lỏng luôn ngập chóp.
+Khi pha khí thổi qua, áp suất bên dưới
+chóp sẽ tang làm mực chất lỏng bị đẩy
+xuống dưới lỗ chóp để hở lỗ chóp cho pha
+khí đi ra sục vào pha lỏng.
+1/3
+
+2/3
+
+𝜌𝐺
+2/3 𝑄𝐺
+ℎ𝑠 = 7,55
+ℎ𝑠𝑜
+𝜌𝐿 − 𝜌𝐺
+𝑆𝑠
+với ℎ𝑠𝑜 : chiều cao hình học của lỗ chóp,
+mm; 𝑄𝐺 : lưu lượng pha khí, m3/s; 𝑆𝑠 : tổng
+diện tích các lỗ chóp trên mỗi mâm, m2.
+Độ mở chóp hoàn toàn: ℎ𝑠 = ℎ𝑠𝑜 , pha khí sẽ thổi
+qua toàn bộ lỗ chóp.
+Nếu lưu lượng pha khí lớn thì sẽ thổi qua dưới mép
+chóp.
+Nếu lưu lượng pha khí nhỏ thì hiệu quả sử dụng lỗ
+chóp không cao.
+
+, 𝑚𝑚 𝑐ℎấ𝑡 𝑙ỏ𝑛𝑔
+
+23/69
+
+3.2 Tháp mâm: chóp
+Độ giảm áp của pha khí qua tháp
+Chiều cao mực chất lỏng trên gờ chảy tràn: khi pha lỏng chảy vào ống
+chảy truyền sẽ tạo nên một lớp chất lỏng trên gờ chay tràn, ℎ𝑜𝑤 .
+𝑄𝐿
+ℎ𝑜𝑤 = 2,84𝐸
+𝐿𝑤
+
+2/3
+
+, 𝑚𝑚 𝑐ℎấ𝑡 𝑙ỏ𝑛𝑔
+
+với 𝑄𝐿 : lưu lượng chất lỏng, m3/h; 𝐿𝑤 : chiều dài gờ chảy tràn, m; 𝐸: hệ
+số hiệu chỉnh cho gờ chảy tràn, được xác định từ đồ thị theo mối quan
+hệ 𝐸 = 𝑓 𝐿𝑄2,5𝐿 , 𝐿𝐷𝑤 .
+𝑤
+
+24/69
+
+3.2 Tháp mâm: chóp
+Độ giảm áp của pha khí qua tháp
+
+25/69
+
+3.2 Tháp mâm: chóp
+Độ giảm áp của pha khí qua tháp
+Gradient chiều cao mực chất lỏng trên mâm, : do áp suất pha lỏng
+giảm khi chảy qua mỗi hàng chóp trên mâm nên làm giảm mực chất lỏng
+trên mâm theo chiều dòng chảy. Mực chất lỏng thấp nhất ở khu vực gần
+gờ chảy tràn và cao nhất ở gần ống chảy chuyền.  không nên quá lớn
+→ sự phân phối pha khí cho mỗi chóp sẽ không đều.
+
+26/69
+
+3.2 Tháp mâm: chóp
+Độ giảm áp của pha khí qua tháp
+Gradient chiều cao mực chất lỏng
+trên mâm, :
+∆= 𝐶𝑔 ∆′ 𝑛
+với: n: số hàng chóp mà pha lỏng
+phải chảy qua, ∆′ : gradient chiều
+cao mực chất lỏng qua một hang
+chóp, 𝐶𝑔 : hệ số hiệu chỉnh cho
+suất lượng pha khí, được xác định
+theo giản đồ.
+Quan hệ 4∆′ = 𝑓 ℎ𝑚 , 𝑄𝐿 , 𝐵𝑚 , ℎ𝑠𝑐
+được cho trên giản đồ, với
+1
+ℎ𝑚 = ℎ𝑤 + ℎ𝑜𝑤 + ∆: chiều cao
+2
+mực chất lỏng trung bình trên
+mâm; 𝐵𝑚 : bề rộng trung bình của
+mâm.
+
+27/69
+
+Gradient chiều cao mực chất lỏng trên mâm, :
+
+28/69
+
+Gradient chiều cao mực chất lỏng trên mâm, :
+
+29/69
+
+Gradient chiều cao mực chất lỏng trên mâm, :
+
+30/69
+
+3.2 Tháp mâm: chóp
+Độ giảm áp của pha khí qua tháp
+Độ lôi cuốn chất lỏng, : lượng chất
+lỏng bị pha hơi lôi cuốn từ mâm dưới
+lên mâm trên. Ý nghĩa: làm giảm hiệu
+suất mâm vì mang chất lỏng từ mâm lên
+mâm trên, hoặc mang cấu tử không bay
+hơi đi lên trên.
+𝑒
+=
+𝐿+𝑒
+với 𝑒 : lượng chất lỏng bị lôi cuốn,
+mol/h; 𝐿: lượng chất lỏng chảy xuống,
+mol/h.
+
+31/69
+
+3.2 Tháp mâm: chóp
+Độ giảm áp của pha khí qua tháp
+Độ giảm áp của pha khí qua một mâm, ht: sự chênh lệch áp suất giữa
+pha hơi dưới và trên mâm khi pha hơi di chuyển qua mâm và chất lỏng
+trên mâm.
+Mâm thường: ℎ𝑡 = 50 − 70 𝑚𝑚𝐻2 𝑂
+Độ giảm áp tổng của pha hơi qua tháp có
+40 mâm: 2 – 3 mH2O
+Khắc phục: nồi đun sẽ khắc phục tổn thất
+áp suất qua toàn tháp và thiết bị ngưng
+tụ.
+Ý nghĩa:
+▪ Xác định tổn thất tổng để tính áp suất,
+nhiệt độ của nồi đun (tháp chưng cất)
+và áp suất máy nén (tháp hấp thu).
+▪ Kiểm tra sự hoạt động của mâm: ngập
+lụt hay chảy rò (mâm xuyên lỗ).
+32/69
+
+3.2 Tháp mâm: chóp
+Độ giảm áp của pha khí qua tháp
+Độ giảm áp của pha khí qua một
+mâm, ht:
+1
+ℎ𝑡 = ℎ𝑓𝑣 + ℎ𝑠 + ℎ𝑠𝑠 + ℎ𝑜𝑤 + ∆, 𝑚𝑚 𝑐ℎấ𝑡 𝑙ỏ𝑛𝑔
+2
+
+với ℎ𝑓𝑣 : độ giảm áp do ma sát và
+biến đổi vận tốc pha khí thổi qua
+chóp khi không có chất lỏng.
+𝜌𝐺
+ℎ𝑓𝑣 = 274𝐾
+𝜌𝐿 − 𝜌𝐺
+
+𝑄𝐺
+𝑆𝑟
+
+2
+
+, mm chất lỏng
+
+với 𝑆𝑟 : tổng diện tích ống hơi của
+mỗi mâm, m2; K: hệ số cho trên giản
+đồ, trong đó
+
+𝑆𝑎𝑗
+𝑆𝑟𝑗
+
+: tỉ số diện tích vành
+
+khăn và diện tích ống hơi của chóp.
+
+33/69
+
+3.2 Tháp mâm: chóp
+Độ giảm áp của pha khí qua tháp
+Chiều cao mực chất lỏng không bọt trong ống chảy chuyền, hd:
+ℎ𝑑 = ℎ𝑤 + ℎ𝑜𝑤 + ∆ + ℎ𝑡 + ℎ𝑑′ , 𝑚𝑚 𝑐ℎấ𝑡 𝑙ỏ𝑛𝑔
+với ℎ𝑑′ : tổn thất thủy lực do dòng lỏng chảy từ ống chảy chuyền vào
+mâm. ℎ𝑑′ = 0,128
+
+2
+𝑄𝐿
+, mm chất lỏng
+100𝑆𝑑
+
+với 𝑆𝑑 : diện tích giữa ống chảy chuyền và mâm, m2
+Ý nghĩa: ℎ𝑑 dùng để kiểm tra khoảng cách mâm. Để đảm bảo điều kiện
+tháp không bị ngập lụt:
+1
+ℎ𝑑 ≤ 𝑘ℎ𝑜ả𝑛𝑔 𝑐á𝑐ℎ 𝑚â𝑚
+2
+Chất lỏng chảy vào ống chảy chuyền, 𝒅𝒕𝒘 :
+𝑑𝑡𝑤 = 0,8 ℎ𝑜𝑤 ℎ𝑜
+với ℎ𝑜 : khoảng cách rơi tự do, ℎ𝑜 = 𝐻 + ℎ𝑤 + ℎ𝑑 ; H: khoảng cách mâm
+Ý nghĩa: kiểm tra chất lỏng chảy vào ống chảy chuyền có đều không và
+chất lỏng không và đập vào thành tháp.
+𝑑𝑡𝑤 ≤ 60% 𝑏ề 𝑟ộ𝑛𝑔 ố𝑛𝑔 𝑐ℎả𝑦 𝑐ℎ𝑢𝑦ề𝑛
+
+34/69
+
+3.2 Tháp mâm: van
+
+35/69
+
+3.2 Tháp mâm: van
+
+36/69
+
+3.2 Tháp mâm: chóp, van
+
+37/69
+
+3.2 Tháp mâm: xuyên lỗ (sieve plate tower)
+Đặc điểm:
+• Trên mâm có nhiều lỗ hay rãnh
+• Đường kính lỗ: 3 – 12 mm
+• Tổng diện tích lỗ/mâm: (8 – 15%)St
+• Bố trí lỗ: tam giác đều, khoảng cách giữa
+hai tâm/bước lỗ (2,5 – 5)dlỗ
+• Bề dày mâm: tùy vào vật liệu chế tạo
+• Thép không rỉ: (4/10 – 8/10)dlỗ
+• Thép carbon hay hợp kim đồng: dày hơn
+đối với khi chế tạo bằng thép không rỉ
+
+• Tháp có đường kính lớn (Dt >
+2,4m): ít dùng mâm xuyên lỗ vì
+chất lỏng không phân phối đều
+trên mâm.
+38/69
+
+3.2 Tháp mâm: xuyên lỗ
+Ống chảy chuyền: để chất lỏng
+chảy từ mâm trên xuống mâm
+dưới, được lắp đặt như thap
+mâm chóp.
+Chế độ thủy động:
+▪ 𝑣𝐺 nhỏ: pha khí qua pha
+lỏng ở dạng bọt riêng biệt,
+pha lỏng có thể chảy rò qua
+lỗ.
+▪ 𝑣𝐺 vừa: pha khí qua pha
+lỏng ở dạng tia bọt liên tục,
+chất lỏng không chảy rò qua
+lỗ → tháp hoạt động ổn
+định.
+▪ 𝑣𝐺 lớn: khí và lỏng trên mâm sẽ tạo nên hỗn hợp lỏng bọt xáo trộn
+mạnh trên mâm → mâm hoạt động với hiệu suất cao nhất. Nếu tiếp
+tục tăng 𝑣𝐺 → lôi cuốn chất lỏng lên mâm trên.
+39/69
+
+3.2 Tháp mâm: xuyên lỗ
+Độ giảm áp của pha khí qua tháp
+Chiều cao mực chất lỏng trên gờ chay tràn, how:
+2/3
+2/3
+𝐿𝑤
+𝑄𝐿
+ℎ𝑜𝑤 = 669
+, 𝑚𝑚 𝑐ℎấ𝑡 𝑙ỏ𝑛𝑔
+𝐿𝑤𝑒
+𝐿𝑤
+với 𝐿𝑤 : chiều dài gờ chảy tràn, m; 𝑄𝐿 : lưu lượng chất lỏng, m3/h; 𝐿𝑤𝑒 :
+chiều dài hiệu dụng của gờ chảy tràn, m.
+Để đảm bảo sự tạo bọt tốt: ℎ𝑜𝑤 ≥ 50 𝑚𝑚,
+điều này phụ thuộc vào chiều cao gờ và
+chiều cao mực chất lỏng trên gờ chảy tràn.
+
+40/69
+
+Độ giảm áp của pha khí qua tháp
+Độ lôi cuốn chất lỏng: được xác định theo giản đồ
+
+41/69
+
+3.2 Tháp mâm: xuyên lỗ
+Độ giảm áp của pha khí qua tháp
+Độ giảm áp của pha khí qua một mâm, ht: tổng các độ giảm áp của pha
+khí qua mâm khô và các độ giảm áp do pha lỏng.
+ℎ𝑡 = ℎ𝑘 + ℎ𝑙 + ℎ𝑅 , 𝑚𝑚 𝑐ℎấ𝑡 𝑙ỏ𝑛𝑔
+với ℎ𝑘 : độ giảm áp qua mâm khô, mm chất lỏng; ℎ𝑙 : độ giảm áp do chiều
+cao lớp chất lỏng trên mâm; ℎ𝑅 : độ giảm áp do sức căng bề mặt.
+Gradient chiều cao mực chất lỏng trên mâm, , là không đáng kể đối với
+tháp mâm xuyên lỗ → bỏ qua.
+ℎ𝑘 được tính dựa trên cơ sở tổn thất áp suất do dòng chảy đột thu, đột
+mở và do ma sát khi chuyển động qua lỗ:
+2
+2
+𝑣𝑜
+𝜌𝐺
+𝑣𝑜
+𝜌𝐺
+ℎ𝑘 =
+= 51
+, 𝑚𝑚 𝑐ℎấ𝑡 𝑙ỏ𝑛𝑔
+𝐶𝑜
+2𝑔𝜌𝐿
+𝐶𝑜
+𝜌𝐿
+với 𝑣𝑜 : vận tốc pha hơi qua lỗ, m/s; 𝐶𝑜 : hệ số orifice phụ thuộc vào tỉ số
+tổng diện tích lỗ với tiết diện tháp và tỉ số bề dày mâm với đường kính
+lỗ. Giá trị 𝐶𝑜 : thay đổi theo bề dày mâm.
+Mâm xuyên lỗ: 𝛿𝑚â𝑚 = 0,1 − 0,3 𝑑𝑙ỗ; 𝑆𝑙ỗ = 0,08 − 0,15 𝑆𝑡ℎá𝑝 → 𝐶𝑜 = 0,66 − 0,72
+
+42/69
+
+3.2 Tháp mâm: xuyên lỗ
+Độ giảm áp của pha khí qua tháp
+Độ giảm áp của pha khí qua một mâm, ht:
+
+43/69
+
+3.2 Tháp mâm: xuyên lỗ
+Độ giảm áp của pha khí qua tháp
+Độ giảm áp của pha khí qua một mâm, ht:
+Lượng pha lỏng trên mâm tăng theo lưu lượng pha lỏng và chiều cao gờ,
+nhưng lượng pha hơi sẽ giảm khi tăng lưu lượng pha hơi vì nó làm giảm
+khối lượng riêng của chất lỏng bọt trên mâm.
+Chiều cao lớp chất lỏng trên mâm: ℎ𝑙 = 𝛽 ℎ𝑤 + ℎ𝑜𝑤
+với 𝛽: hệ số hiệu chỉnh theo kinh nghiệm; ℎ𝑤 : chiều cao gờ chảy tràn;
+ℎ𝑜𝑤 : chiều cao tính toán của lớp chất lỏng trên gờ chảy tràn, theo
+phương trình Francis:
+
+𝑞𝐿
+ℎ𝑜𝑤 = 43,4
+𝐿𝑤
+
+2/3
+
+, 𝑚𝑚 𝑐ℎấ𝑡 𝑙ỏ𝑛𝑔
+
+với 𝑞𝐿 : lưu lượng của chất lỏng; 𝐿𝑤 : chiều dài gờ chảy tràn.
+ℎ𝑜𝑤 thực tế lớn hơn giá trị tính toán vì chất lỏng trên mâm là
+chất lỏng bọt do pha hơi tạo nên làm cho lưu lượng thể tích tại
+gờ lớn hơn lưu lượng thể tích của bản thân chất lỏng.
+ℎ𝑤 = 25 − 50 𝑚𝑚 → 𝛽 = 0,4 − 0,7;
+Khi thiết kế, chọn 𝛽 = 0,6.
+
+44/69
+
+3.2 Tháp mâm: xuyên lỗ
+Độ giảm áp của pha khí qua tháp
+Độ giảm áp của pha khí qua một
+mâm, ht:
+Khi ℎ𝑜𝑤 ≪ ℎ𝑤 → ℎ𝑙 < ℎ𝑤 :
+mực chất lỏng trên mâm thực tế
+nhỏ hơn chiều cao gờ chảy tràn.
+Độ giảm áp do sức căng bề mặt:
+𝜎
+ℎ𝑅 = 625,54
+𝜌𝐿 𝑑𝑙
+với 𝜎: sức căng bề mặt của chất
+lỏng, dyn/cm.
+
+45/69
+
+3.2 Tháp mâm: xuyên lỗ
+
+Độ giảm áp của pha khí qua tháp
+Chiều cao mực chất lỏng không bọt trong ống chảy chuyền, hd
+ℎ𝑑 = ℎ𝑤 + ℎ𝑜𝑤 + ℎ𝑡 + ℎ𝑑′
+Ý nghĩa: ℎ𝑑 được dung để kiểm tra khoảng cách mâm. Để tháp không bị
+1
+ngập lụt: ℎ𝑑 ≤ 𝑘ℎ𝑜ả𝑛𝑔 𝑐á𝑐ℎ 𝑚â𝑚
+2
+
+46/69
+
+3.2 Tháp mâm: xuyên lỗ
+
+Độ giảm áp của pha khí qua tháp
+Sự chảy rò của pha lỏng qua lỗ mâm
+▪ Giới hạn trên của 𝑣𝐺 : điều kiện ngập lụt hay vận tốc lại đó có sự lôi
+cuốn pha lỏng
+▪ Giới hạn dưới của 𝑣𝐺 : vận tốc pha khí thấp không đủ để ngăn chặn
+pha lỏng chảy rò qua các lỗ trên mâm.
+▪ Sự chảy rò cũng xảy ra khi có sự chênh lệch độ cao mực chất lỏng
+trên mâm, pha hơi có khuynh hướng thổi qua các lỗ có it chất lỏng và
+pha lỏng sẽ chảy xuống qua các lỗ có mực chất lỏng cao nhất.
+Ảnh hưởng: làm giảm hiệu suất mâm vì chất lỏng chảy qua mâm mà
+không tiếp xúc với pha hơi.
+Khắc phục: giảm kích thước
+lỗ hoặc giảm tổng diện tích lỗ
+trên mâm
+
+47/69
+
+3.2 Tháp mâm: xuyên lỗ
+
+Độ giảm áp của pha khí qua tháp
+Sự chảy rò của pha lỏng qua lỗ mâm
+Vận tốc tối thiểu của pha khí (𝑣𝑚 ) để không xảy ra sự chảy rò theo biểu
+thức vô thứ nguyên:
+𝜇𝐺2
+
+𝑣𝑚 𝜇𝐺
+𝜌𝐿 5
+−4
+= 2,92 × 10
+10
+𝜎
+𝜎𝜌𝐺 𝑑𝑙 𝜌𝐺
+
+0,379
+
+𝑠
+𝑑𝑙
+
+0,293
+
+2𝑆𝑎 𝑑𝑙
+
+𝑧/𝑑𝑙 2,8/0,724
+
+3𝑡 3
+
+𝜇𝐺 : độ nhớt pha khí, kg/ms
+𝑑𝑙 : đường kính lỗ, m
+s: bề dày mâm, m
+t: bước lỗ, m
+d: khoảng cách giữa hai ống
+chảy chuyền, m
+Sa: diện tích hoạt động của
+mâm
+48/69
+
+3.2 Tháp mâm: Hiệu suất-efficiency
+Số mâm lý thuyết + Hiệu suất mâm → số mâm thực
+Các loại hiệu suất:
+▪ Hiệu suất tổng quát (toàn tháp)-overall tray
+efficiency, Eo
+𝑆ố 𝑚â𝑚 𝑙ý 𝑡ℎ𝑢𝑦ế𝑡
+𝐸𝑜 =
+𝑆ố 𝑚â𝑚 𝑡ℎự𝑐
+Đặc điểm: đơn giản nhưng kém chính xác.
+▪ Hiệu suất mâm Murphee (một mâm)-Murphee
+tray efficiency, EM
+𝑦𝑛 −𝑦𝑛+1
+𝑥𝑛 −𝑥𝑛+1
+𝐸𝑀𝐺 = ∗
+hay 𝐸𝑀𝐿 =
+∗
+𝑦𝑛 −𝑦𝑛+1
+
+𝑥𝑛 −𝑥𝑛+1
+
+với 𝑥𝑛 , 𝑦𝑛 : nồng độ thực của pha lỏng, pha hơi rời mâm thứ n;
+𝑥𝑛+1 , 𝑦𝑛+1 : nồng độ thực của pha lỏng, pha hơi vào mâm thứ n;
+𝑥𝑛∗ , 𝑦𝑛∗ : nồng độ pha lỏng, pha hơi cân bằng với pha hơi, pha lỏng rời mâm thứ n.
+Hiệu suất Murphree: tỉ số giữa sự biến đổi nồng độ pha hơi qua một mâm với sự biến
+đổi nồng độ cực đại đạt được khi pha hơi rời mâm cân bằng với pha lỏng rời mâm thứ
+n. Vì pha lỏng rời mâm có nồng độ không bằng với nồng độ trung bình của pha lỏng
+trên mâm→Hiệu suất cục bộ.
+49/69
+
+3.2 Tháp mâm: Hiệu suất
+Các loại hiệu suất:
+▪ Hiệu suất cục bộ (vị trí cụ thể trên mâm)-Local (or point) efficiency, EP
+′
+𝑦𝑛′ − 𝑦𝑛+1
+𝐸𝑃 = ′
+′
+𝑦𝑒𝑛 − 𝑦𝑛+1
+với 𝑦𝑛′ : nồng độ pha hơi rời khỏi vị trí cụ thể trên mâm n
+′
+𝑦𝑛+1
+: nồng độ pha hơi vào mâm n tại cùng vị trí
+′
+𝑦𝑒𝑛
+: nồng độ pha hơi cân bằng với pha lỏng tại cùng vị trí
+Mối liên hệ giữa 𝑬𝑴 𝒗à 𝑬𝑷
+Tháp có đường kính nhỏ: có sự khuấy trộn đều pha lỏng trên mâm nên
+𝐸𝑀 = 𝐸𝑃
+Tháp có đường kính lớn: sự khuấy trộn pha lỏng là không hoàn toàn →
+𝐸𝑀 𝑣à 𝐸𝑃 phụ thuộc vào:
+• Mức độ khuấy trộn chất lỏng (có ảnh hưởng nhiều)
+• Pha hơi có hay không khuấy trộn trước khi vào mâm (ít ảnh hưởng)
+
+50/69
+
+3.2 Tháp mâm: Hiệu suất
+Mối liên hệ giữa 𝑬𝑴 𝒗à 𝑬𝑷
+Khi pha lỏng có các mức độ khuấy khác nhau → 𝐸𝑀 𝑣à 𝐸𝑃 có sự liên hệ
+theo chuẩn số Peclet.
+𝑧2
+𝑃𝑒 =
+𝐷𝐸 𝑡𝐿
+z: chiều dài đường đi của pha lỏng
+trên mâm, m; DE: hệ số khuếch tán
+do vòng xoáy, m2/s; tL: thời gian
+lưu của pha lỏng trên mâm, s
+
+51/69
+
+3.2 Tháp mâm: Hiệu suất
+Mối liên hệ giữa 𝑬𝑴 𝒗à 𝑬𝒐
+Phụ thuộc vào độ dốc của đường cân bằng và đường làm việc:
+𝑚𝐺
+> 1 → 𝐸𝑜 > 𝐸𝑀
+𝐿
+𝑚𝐺
+< 1 → 𝐸𝑜 < 𝐸𝑀
+𝐿
+Nếu quá trình có cả hai vùng trên (như chưng cất): 𝐸𝑜 ≈ 𝐸𝑀
+Đặc biệt, quá trình có đường cân bằng và làm việc là đường thẳng:
+𝑚𝐺
+𝑙𝑜𝑔 1 + 𝐸𝑀
+−1
+𝐿
+𝐸𝑜 =
+𝑙𝑜𝑔 𝑚𝐺/𝐿
+Với các tháp được chế tạo theo tiêu chuẩn và hoạt động trong những
+giới hạn chuẩn của năng suất → xây dựng giản đồ để xác định hiệu suất
+tổng quát.
+
+52/69
+
+3.2 Tháp mâm: Hiệu suất
+Các yếu tố ảnh hưởng
+▪ Theo kinh nghiệm → xác định hiệu suất
+▪ Sự tiếp xúc giữa hai pha trên mâm tốt → hiệu suất sẽ cao
+▪ Hoạt động tháp: tạo bọt, lôi cuốn chất lỏng, phân bố pha hơi kém,
+chảy tắt, chảy rò → hiệu suất giảm
+▪ 𝐸 = 𝑓 𝑡ố𝑐 độ 𝑡𝑟𝑢𝑦ề𝑛 𝑘ℎố𝑖 𝐺 ↔ 𝐿
+▪ Trong khoảng chảy rò và ngập lụt: 𝐸 ≠ 𝑓 𝐺
+▪ Tăng lưu lượng pha hơi (G): tăng chiều cao lớp chất lỏng bọt và tăng
+diện tích bề mặt truyền khối.
+▪ Tăng lưu lượng pha lỏng (L): tăng diện tích bề mặt truyền khối → E sẽ
+giảm nhẹ khi gần điểm lụt do hiện tượng lôi cuốn.
+▪ P thấp → E thấp vì D thấp, µL thấp, sức căng bề mặt thấp
+▪ E có thể > 1 đối với một số hệ, vd: isobutan và butan
+
+53/69
+
+3.2 Tháp mâm: So sánh
+
+54/69
+
+3.3 Tháp chêm/đệm: packed column
+
+Mô tả: tháp hình trụ gồm
+nhiều bậc nối với nhau bằng
+bích hay hàn. Vật chêm
+được đổ đầy trong tháp
+theo hai cách: ngẫu nhiên
+hay xếp thứ tự.
+
+55/69
+
+3.3 Tháp chêm/đệm:
+Vật chêm (packing):
+Vòng Raschig: trụ rỗng bằng sứ hoặc
+kim loại, nhựa, đường kính bằng chiều
+cao (kích thước: 10 – 100 mm)
+Hình yên ngựa: 10 – 75 mm
+Vòng xoắn: đường kính dây 0,3 – 1 mm;
+đường kính vòng xoắn 3 – 8 mm và
+chiều dài < 25 mm
+
+Yêu cầu chung:
+▪ Diện tích bề mặt riêng lớn, độ rỗng
+(hay thể tích tự do, m2/m3) lớn để
+giảm trở lực cho pha khí.
+▪ Vật liệu chế tạo:  nhỏ và bền hóa
+56/69
+
+Vật chêm:
+
+57/69
+
+Vật chêm:
+
+58/69
+
+3.3 Tháp chêm/đệm:
+Bộ phận phân phối khí: cũng là bộ phận đỡ vật chêm
+
+59/69
+
+3.3 Tháp chêm/đệm:
+
+Bộ phận phân phối
+lỏng: để phân phối
+chất lỏng ở đỉnh tháp
+cho thấm ướt toàn
+bộ vật chêm.
+
+60/69
+
+3.3 Tháp chêm/đệm:
+Các bộ phận của tháp
+
+61/69
+
+3.3 Tháp chêm/đệm:
+Sự chuyển động của lưu
+chất qua tháp chêm:
+Tháp chêm ngẫu nhiên, độ
+giảm áp của pha khí chịu
+ảnh hưởng bởi lưu lượng
+pha lỏng và pha khí.
+Vận tốc pha khí cố định →
+độ giảm áp tang theo lưu
+lượng pha lỏng
+
+62/69
+
+3.3 Tháp chêm/đệm:
+Sự chuyển động của lưu chất qua
+tháp chêm:
+▪ Vùng dưới điểm A: lượng chất lỏng bị
+giữ lại trong tháp là không đổi theo
+tốc độ khí.
+▪ Vùng giữa A và B: gọi là vùng gia
+trọng, lượng chất lỏng bị giữ lại tăng
+nhanh theo tốc độ khí, các chỗ trống
+trong tháp nhỏ dần và độ giảm áp
+pha khí tăng nhanh.
+▪ Tốc độ khí tăng đến điểm B: ở tại lưu lượng pha lỏng không đổi, một trong các hiện
+tượng sau xảy ra:
+a) Pha khí sủi bọt qua lớp lỏng tại bề mặt lớp vật chêm
+b) Pha lỏng chứa đầy tháp từ dưới lên và tạo nên sự đảo pha: pha khí (liên tục) – pha
+lỏng (phân tán) → pha khí (phân tán) – pha lỏng (liên tục)
+c) Dòng bọt khí nổi nhanh lên qua tháp
+Hiện tượng lôi cuốn chất lỏng tăng mạnh → tháp bị ngập lụt, độ giảm áp tăng rất
+nhanh. Điểm ngập lụt được xác định bằng hệ số góc của đường biểu diễn.
+Thực tế, tháp được vận hành trong vùng gia trọng, gần điểm ngập lụt.
+63/69
+
+3.3 Tháp chêm/đệm:
+Độ giảm áp của pha khí qua tháp chêm khô, ∆𝑃𝐺𝐷 : không có pha lỏng
+chảy xuống, theo Ergun:
+∆𝑃𝐺𝐷 𝜀 3 𝑑𝑡𝑑 𝜌𝐺 150 1 − 𝜀
+=
++ 1,75
+′2
+𝑍 1−𝜀 𝐺
+𝑅𝑒
+với Z: chiều cao phần chứa vật chêm,
+m; 𝑑𝑡𝑑 : đường kính tương đương của
+vật chêm, m, 𝑑𝑡𝑑 = 6 1 − 𝜀 /𝜎; : thể
+tích tự do của vật chêm, m3/m3 tầng
+chêm; : diện tích bề mặt riêng của vật
+chêm, m2/m3 tầng chêm; 𝐺 ′ : lưu lượng
+biểu kiến của pha khí qua một đơn vị
+tiết diện tháp, kg/m2s. Re = 𝑑
+
+𝐺′
+𝑡𝑑 𝜇
+
+Vật chêm thường có G > 2500 kg/h
+→
+
+150 1−𝜀
+𝑅𝑒
+
+≈0
+
+64/69
+
+3.3 Tháp chêm/đệm:
+Độ giảm áp của pha khí qua tháp chêm ướt, ∆𝑃𝐺𝑊 : khi có pha lỏng
+chảy xuống, độ giảm áp sẽ tăng:
+∆𝑃𝐺𝑊 = 𝐴𝐿 ∆𝑃𝐺𝐷
+′
+𝛽𝐿
+với AL: hệ số theo phương trình Leva: 𝐴𝐿 = 10
+Giá trị  tra theo sổ tay tương
+ứng với vật chêm và chất lỏng
+sử dụng là nước; L’: lưu lượng
+nước cho một đơn vị tiết diện
+tháp, kg/m2h.
+
+65/69
+
+3.3 Tháp chêm/đệm:
+Hiện tượng ngập lụt: khi lưu lượng pha lỏng hay pha khí vượt qua giới
+hạn cho trước, chất lỏng không chảy xuống được tạo nên cột chất lỏng
+trong tháp, độ giảm áp pha khí sẽ dao động mạnh.
+
+Theo Zhavoronkov, hiện tượng ngập
+lụt xảy ra khi hai nhóm vô thứ nguyên
+sau có liên hệ nhau:
+2
+𝑓𝜎 𝑣𝑜2 𝜌𝐺 𝜇
+𝜋1 = 3
+𝜖 2𝑔 𝜌𝐿 𝜇𝑛
+0,5
+
+𝐿′ 𝜌𝐺
+𝜋2 = ′
+𝐺 𝜌𝐿
+với 𝑣𝑜 : vận tốc dài biểu kiến của pha
+khí, m/s; 𝜇, 𝜇𝑛 : độ nhớt của chất lỏng
+khác nước và của nước.
+66/69
+
+Mối quan hệ giữa π1 và π2
+
+67/69
+
+3.3 Tháp chêm/đệm:
+Hệ số truyền khối: theo Shulman, đối với tháp chêm với vật chêm là
+vòng Raschig hay yên ngựa.
+Pha khí:
+−0,36
+2/3
+′
+𝑘𝐺 𝑝𝐵𝑀 𝑆𝑐𝐺
+𝑑𝑠 𝐺
+= 1,195
+𝐺
+𝜇𝐺 1 − 𝜀𝑜
+Pha lỏng:
+0,45
+𝑘𝐿 𝑑𝑠
+𝑑𝑠 𝐿′
+= 25,1
+𝑆𝑐𝐿0,5
+𝐷𝐿
+𝜇𝐿
+với 𝑘𝐺 , 𝑘𝐿 : HSTK trong pha khí và pha lỏng, m/h; 𝑑𝑠 : đường kính hình
+cầu có cùng diện tích bề mặt với vật chêm, m; 𝐷𝐿 : HSKT trong pha lỏng,
+m2/h; G’, L’: lưu lượng biểu kiến của pha khí, pha lỏng, kg/m2h; 𝜀𝑜 : độ
+rỗng của tháp chêm khi hoạt động, 𝜀𝑜 = 𝜀 − 𝑡 , 𝑡 : phần rỗng bị pha
+lỏng chiếm chỗ.
+
+68/69
+
+3.4 Bài tập
+
+69/69
+
+

@@ -1,0 +1,631 @@
+TRUYỀN KHỐI
+Bài giảng # 2
+
+Cơ Sở Quá Trình
+Truyền Khối
+PGS. TS. Nguyễn Hữu Hiếu
+Bộ môn Quá Trình & Thiết Bị
+Khoa Kỹ Thuật Hóa Học
+Trường Đại Học Bách Khoa TP.HCM
+nhhieubk@hcmut.edu.vn
+
+1/28
+
+B – Truyền khối trong một pha
+
+2/28
+
+Nội dung
+2B.1 Khuếch tán vs truyền khối
+2B.2 Tốc độ truyền khối
+2B.3 Hệ số truyền khối
+2B.4 Truyền khối trong dòng chảy tầng
+2B.5 Xác định HSTK bằng thực nghiệm
+2B.6 Bài tập
+
+3/28
+
+2B.1 Khuếch tán vs truyền khối
+Khuếch tán
+Truyền khối
+Ít phổ biến
+Phổ biến
+Hệ số khuếch tán, D
+Hệ số truyền khối, k
+Thông lượng khuếch tán, JA Tốc độ truyền khối, NA
+JA = D x (Sai biệt nồng độ)* NA = k x (Sai biệt nồng độ)*
+Quá trình ổn định, lưu chất Quá trình với lưu chất chảy
+đứng yên hay chảy tầng
+rối để tăng sự phân tán
+nhằm tăng diện tích tiếp
+xúc pha → tăng tốc độ
+truyền khối
+* Sai biệt nồng độ có thể biểu diễn theo nhiều cách → k cũng
+
+khác nhau.
+
+4/28
+
+2B.2 Tốc độ truyền khối
+a) Quá trình truyền khối của A qua B không truyền khối
+𝑁𝐴
+𝑁𝐵 = 0,
+=1
+𝑁𝐴 + 𝑁𝐵
+Pha khí:
+𝑁𝐴 = 𝑘𝐺 𝑝𝐴1 − 𝑝𝐴2 = 𝑘𝑦 𝑦𝐴1 − 𝑦𝐴2 = 𝑘𝑐 𝐶𝐴1 − 𝐶𝐴2
+Pha lỏng:
+𝑁𝐴 = 𝑘𝑥 𝑥𝐴1 − 𝑥𝐴2 = 𝑘𝐿 𝐶𝐴1 − 𝐶𝐴2
+b) Quá trình truyền khối của A và B đẳng mol nghịch chiều
+𝑁𝐴
+𝑁𝐴 = −𝑁𝐵 ,
+=
+𝑁𝐴 + 𝑁𝐵
+Pha khí:
+𝑁𝐴 = 𝑘𝐺 𝑝𝐴1 − 𝑝𝐴2 = 𝑘𝑦 𝑦𝐴1 − 𝑦𝐴2 = 𝑘𝑐 𝐶𝐴1 − 𝐶𝐴2
+Pha lỏng:
+𝑁𝐴 = 𝑘𝑥 𝑥𝐴1 − 𝑥𝐴2 = 𝑘𝐿 𝐶𝐴1 − 𝐶𝐴2
+5/28
+
+2B.3 Hệ số truyền khối
+▪ Định nghĩa: lượng vật chất truyền qua một đơn vị diện tích
+bề mặt tiếp xúc pha trong một đơn vị thời gian khi sai biệt
+nồng độ là một đơn vị.
+𝑁𝐴
+𝑘=
+∆𝐶𝐴
+▪ Đặc điểm: k là đại lượng phức tạp, phụ thuộc vào
+- Tính chất vật lý của các pha (D, , );
+- T, P, F (lưu lượng);
+- Kích thước và cấu tạo của thiết bị truyền khối.
+
+6/28
+
+2B.3 Hệ số truyền khối
+
+7/28
+
+2B.4 Truyền khối trong dòng chảy tầng
+Đặc điểm: trong dòng chảy tầng,
+khuếch tán phân tử sẽ chi phối cơ chế
+truyền khối, và hệ số truyền khối chính
+là hệ số khuếch tán.
+Mô tả: màng chất lỏng chảy từ trên
+xuống ở trạng thái chảy tầng qua mặt
+phẳng thẳng đứng và tiếp xúc với khí A
+hòa tan vào chất lỏng.
+Điều kiện:
+𝐶𝐴0 : nồng độ A trong chất lỏng tại đỉnh,
+𝐶𝐴𝑖 : nồng độ khí A hòa tan tại bề mặt
+chất lỏng, cân bằng với áp suất của A
+trong pha khí
+Vì 𝐶𝐴𝑖 > 𝐶𝐴0 : nên chất khí hòa tàn vào chất lỏng
+Yêu cầu: xác định hệ số truyền khối trong pha lỏng, kL, → tính lượng khí
+hòa tan vào chất lỏng sau khi lớp phim lỏng di chuyển một khoảng L.
+
+8/28
+
+2B.4 Truyền khối trong dòng chảy tầng
+▪ Phương pháp giải: giải đồng thời các
+phương trình: liên tục, chuyển động chất
+lỏng (Navier-Stokes) và truyền khối.
+▪ Các giả sử:
+- Không có phản ứng hóa học: rA = 0;
+- Các điều kiện không biến đổi theo
+phương x;
+𝜕𝐶
+
+- Quá trình ổn định: 𝐴 = 0;
+𝜕𝑡
+- Tốc độ hấp thu chất khí là rất nhỏ: uz = 0;
+- Khuếch tán A theo phương y là không
+đáng kể so với sự chuyển động của A
+𝜕 2 𝐶𝐴
+trong dòng chảy: 𝐷𝐴𝐵 2 = 0;
+𝜕𝑦
+
+- Các tính chất vật lý: DAB, , và  = const.
+▪ Phương trình liên tục:
+2
+𝜕𝐶
+𝜕
+𝐶𝐴
+𝐴
+(PTLT)
+𝑢𝑦
+= 𝐷𝐴𝐵
+𝜕𝑦
+𝜕𝑧 2
+
+Mô tả lượng A hòa tan
+vào pha lỏng đang chảy
+xuống tại vị trí bất kỳ z
+trên một khoảng gia tăng
+y bằng lượng khuếch tán
+A theo phương z.
+
+9/28
+
+2B.4 Truyền khối trong dòng chảy tầng
+▪ Phương trình chuyển động: để giải tìm uy
+𝜕 2 𝑢𝑦
+𝜇
++ 𝜌𝑔 = 0
+2
+𝜕𝑧
+với các điều kiện biên: tại z = : uy = 0
+và z = 0: duy/dz = 0, giải PT này tìm uy và thay
+uy vào PTLT:
+3
+𝑧 2 𝜕𝐶𝐴
+𝜕 2 𝐶𝐴
+𝑢𝑦 1 −
+= 𝐷𝐴𝐵
+2
+𝛿
+𝜕𝑦
+𝜕𝑧 2
+với 𝑢𝑦 : vận tốc trung bình
+Giải PT này tìm 𝐶𝐴𝐿 : nồng độ trung bình của
+các CA(z) tại y = L, với các điều kiên biên như sau:
+• Tại z = 0: 𝐶𝐴 = 𝐶𝐴𝑖 tại mọi giá trị y;
+• Tại z = : không có khuếch tán tại bề mặt tường →  CA/ z = 0;
+• Tại y = 0: 𝐶𝐴 = 𝐶𝐴0 tại mọi giá trị z.
+
+𝐶𝐴𝑖 − 𝐶𝐴𝐿
+2𝐷𝐴𝐵 𝐿
+−5,1213
+
+−39,318
+
+−105,64
+
+= 0,7857𝑒
++ 0,1001𝑒
++ 0,0359𝑒
++ ⋯; = 2
+𝐶𝐴𝑖 − 𝐶𝐴0
+3𝛿 𝑢𝑦
+10/28
+
+2B.4 Truyền khối trong dòng chảy tầng
+▪ Phương trình truyền khối: tìm hệ số
+truyền khối (HSTK), kL.
+Lưu lượng mol A được chất lỏng mang đi tại
+vị trí bất kỳ y cho mỗi đơn vị bề rộng x:
+𝑢𝑦 δ𝐶𝐴
+Tốc độ hấp thu A trên một khoảng dy cho
+mỗi đơn vị bề rộng x, mol/thời gian:
+𝑘𝐿 𝐶𝐴𝑖 − 𝐶𝐴 𝑑𝑦
+→ 𝑢𝑦 δ𝐶𝐴 = 𝑘𝐿 𝐶𝐴𝑖 − 𝐶𝐴 𝑑𝑦
+𝐶𝐴 =𝐶𝐴𝐿
+
+𝐿
+𝐿
+𝑑𝐶𝐴
+𝑢𝑦 δ න
+= න 𝑘𝐿 𝑑𝑦 = 𝑘𝐿,𝑡𝑏 න 𝑘𝐿 𝑑𝑦
+𝐶𝐴 =𝐶𝐴0 𝐶𝐴𝑖 − 𝐶𝐴
+0
+0
+𝑢𝑦 δ 𝐶𝐴𝑖 − 𝐶𝐴0
+→ 𝑘𝐿,𝑡𝑏 =
+𝑙𝑛
+: hệ số truyền khối trung bình
+𝐿
+𝐶𝐴𝑖 − 𝐶𝐴𝐿
+
+11/28
+
+2B.4 Truyền khối trong dòng chảy tầng
+▪ Hệ số truyền khối trung bình:
+❖ Màng chảy tầng: lưu lượng nhỏ, hai pha khí –lỏng có thời gian tiếp
+xúc lâu (Re = 4/ < 100; : lưu lượng pha lỏng).
+𝐶𝐴𝑖 − 𝐶𝐴𝐿
+≈ 0,7857𝑒 −5,1213
+𝐶𝐴𝑖 − 𝐶𝐴0
+𝑢𝑦 δ 𝑒 5,1213 𝑢𝑦 δ
+→ 𝑘𝐿,𝑡𝑏 =
+𝑙𝑛
+=
+5,1213 − 0,2412
+𝐿
+0,7857
+𝐿
+𝐷𝐴𝐵 𝑘𝐿,𝑡𝑏 𝛿
+𝑘𝐿,𝑡𝑏 ≈ 3,4142
+→
+= 𝑆ℎ𝑡𝑏 = 3,4142
+𝛿
+𝐷𝐴𝐵
+với Sh: chuẩn số vô thứ nguyên Sherwood
+❖ Màng chảy rối: thời gian tiếp xúc ngắn, Re > 100
+1/2
+1/2
+6𝐷𝐴𝐵 
+3 𝛿
+𝑘𝐿,𝑡𝑏 =
+→ 𝑆ℎ𝑡𝑏 =
+𝑅𝑒𝑆𝑐
+𝜋𝜌𝛿𝐿
+2𝜋 𝐿
+𝜇
+với Sc: chuẩn số Schmidt, 𝑆𝑐 =
+và chuẩn số Peclet, 𝑃𝑒 = 𝑅𝑒𝑆𝑐
+𝜌𝐷𝐴𝐵
+
+12/28
+
+2B.4 Truyền khối trong dòng chảy tầng
+▪ Tốc độ truyền khối trung bình: cho toàn bộ bề mặt tiếp xúc
+pha khí- lỏng, là tích số của hệ số truyền khối trung bình và
+sai biệt nồng độ trung bình của A trong pha lỏng tại y = L
+và tại y = 0.
+𝑢𝑦 δ
+𝑁𝐴,𝑡𝑏 =
+𝐶𝐴𝐿 − 𝐶𝐴0 = 𝑘𝐿,𝑡𝑏 𝐶𝐴𝑖 − 𝐶𝐴
+𝑀
+𝐿
+với sai biệt nồng độ trung bình logarit tại đỉnh và đáy của lớp
+phim:
+𝐶𝐴𝑖 − 𝐶𝐴0 − 𝐶𝐴𝑖 − 𝐶𝐴𝐿
+𝐶𝐴𝑖 − 𝐶𝐴 =
+𝑀
+𝐶𝐴𝑖 − 𝐶𝐴0
+𝑙𝑛
+𝐶𝐴𝑖 − 𝐶𝐴𝐿
+
+13/28
+
+2B.5 Xác định HSTK bằng thực nghiệm
+Các chuẩn số đồng dạng cơ bản: việc xác định các HSTK bằng lý
+thuyết (sử dụng các PT cơ bản) là phức tạp, nên các phương pháp thực
+nghiệm dựa trên phép phân tích thứ nguyên và các thuyết tương tự
+được áp dụng để thiết lập nên các chuẩn số đồng dạng cơ bản cho quá
+trình truyền khối nhằm xác định HSTK.
+• Chuẩn số Sherwood (Sh): hay chuẩn số Nusselt truyền khối là tỉ số
+giữa trở lực truyền khối phân tử và trở lực truyền khối đối lưu,
+𝑘𝐿
+𝑆ℎ =
+với L: kích thước hình học đặc trưng.
+𝐷𝐴𝐵
+
+• Chuẩn số Schmidt (Sc): tỉ số giữa hệ số khuếch tán động lượng
+
+𝜇/𝜌
+(moment) và hệ số khuếch tán phân tử (vật chất), 𝑆𝑐 =
+=
+.
+𝐷𝐴𝐵
+
+𝐷𝐴𝐵
+
+• Chuẩn số Lewis (Le): đặc trưng cho sự xảy ra đồng thời của hai quá
+trình truyền khối và truyền nhiệt, là tỉ số giữa hệ số khuếch tán nhiệt
+và hệ số khuếch tán phân tử, 𝐿𝑒 =
+
+𝑘/ 𝜌𝐶𝑝
+𝐷𝐴𝐵
+
+với Cp: nhiệt dung riêng.
+14/28
+
+2B.5 Xác định HSTK bằng thực nghiệm
+❑ Phân tích thứ nguyên: nhằm tiên đoán các mối quan hệ giữa các
+số liệu thực nghiệm thông qua các chuẩn số vô thứ nguyên. Có hai
+quá trình truyền khối quan trọng:
+
+a) Truyền khối vào dòng đối lưu cưỡng bức
+Xét dòng chảy được đối lưu cưỡng bức trong ống trụ bằng bơm hay
+quạt. Động lực của quá trình truyền khối là sai biệt nồng độ giữa bề mặt
+ống và dòng lưu chất, 𝐶𝐴𝑆 − 𝐶𝐴 . Với các biến số (n = 6) và thứ nguyên
+(K = 3) được trình bày ở bảng.
+
+Bảng trang 50
+
+15/28
+
+2B.5 Xác định HSTK bằng thực nghiệm
+a) Truyền khối vào dòng đối lưu cưỡng bức
+
+Theo định lý Pi Buckingham sẽ xác lập được (n – K) = 3 nhóm  vô thứ
+nguyên với 03 biến cơ bản là DAB,  và D.
+𝑔
+𝑎 𝑏 𝑐
+𝑑 𝑒 𝑓
+𝜋1 = 𝐷𝐴𝐵
+𝜌 𝐷 𝑘𝑐 ; 𝜋2 = 𝐷𝐴𝐵
+𝜌 𝐷 𝑣 𝑣à 𝜋3 = 𝐷𝐴𝐵 𝜌ℎ 𝐷𝑖 𝜇
+Phương trình thứ nguyên cho 𝜋1
+𝑏
+2 𝑎
+𝐿
+𝑀
+𝐿
+0 0 0
+𝑐
+𝐿 𝑀 𝑡 =
+𝐿
+3
+𝑡
+𝐿
+𝑡
+Cân bằng thứ nguyên
+𝐿: 0 = 2𝑎 − 3𝑏 + 𝑐 + 1; 𝑡: 0 = −𝑎 − 1 𝑣à 𝑀: 0 = 𝑏
+→ 𝑎 = −1, 𝑏 = 0 𝑣à 𝑐 = 1
+𝑘𝑐 𝐷
+𝐷𝑣
+𝜇
+vậy 𝜋1 =
+≡ 𝑆ℎ, tương tự: 𝜋2 =
+và 𝜋3 =
+≡ 𝑆𝑐
+𝐷𝐴𝐵
+𝜋
+𝐷𝑣𝜌
+Lập tỉ số 2 =
+≡ 𝑅𝑒
+𝜋3
+𝜇
+
+𝐷𝐴𝐵
+
+𝜌𝐷𝐴𝐵
+
+Theo định lý Pi: 𝜋1 = 𝑓 𝜋2 , 𝜋3
+Hay kết quả phân tích thứ nguyên của quá trình truyền khối đối lưu
+cưỡng bức trong ống trụ được biểu thức có dạng: 𝑆ℎ = 𝑓 𝑅𝑒, 𝑆𝑐 . 16/28
+
+2B.5 Xác định HSTK bằng thực nghiệm
+b) Truyền khối vào dòng đối lưu tự nhiên
+Dòng đối lưu tự nhiên xảy ra khi có sự biến đổi khối lượng riêng trong
+pha lỏng hoặc pha khí. Động lực của quá trình truyền khối là sự sai biệt
+nồng độ hay nhiệt độ.
+Xét quá trình truyền khối từ bề mặt thẳng đứng vào dòng lưu chất trong
+điều kiện đối lưu tự nhiên với các biến số (n = 6) và thứ nguyên (K = 3)
+được trình bày ở bảng.
+
+Bảng trang 51
+
+17/28
+
+2B.5 Xác định HSTK bằng thực nghiệm
+b) Truyền khối vào dòng đối lưu tự nhiên
+
+Theo định lý Pi Buchkingham sẽ có (n – K) = 3 nhóm số  vô thứ nguyên.
+Với DAB, L và  là các biến cơ sở thì ba nhóm số  được thành lập là:
+𝑔
+𝑎 𝑏 𝑐
+𝑑 𝑒 𝑓
+𝜋1 = 𝐷𝐴𝐵
+𝐿 𝜇 𝑘𝑐 ; 𝜋2 = 𝐷𝐴𝐵
+𝐿 𝜇 𝜌 𝑣à 𝜋3 = 𝐷𝐴𝐵 𝐿ℎ 𝜇𝑖 𝑔∆𝜌𝐴
+Phương trình thứ nguyên được giải cho các nhóm 
+𝑘𝑐 𝐿
+𝜌𝐷𝐴𝐵
+1
+𝐿3 𝑔∆𝜌𝐴
+𝜋1 =
+≡ 𝑆ℎ; 𝜋2 =
+≡
+𝑣à 𝜋3 =
+𝐷𝐴𝐵
+𝜇
+𝑆𝑐
+𝜇𝐷𝐴𝐵
+Lập tích số
+𝐿3 𝜌𝑔∆𝜌𝐴 𝐿3 𝑔∆𝜌𝐴
+𝜋2 𝜋3 =
+=
+≡ 𝐺𝑟𝑎𝑠ℎ𝑜𝑓 (𝐺𝑟)
+𝜇𝐷𝐴𝐵
+𝜗𝐷𝐴𝐵
+Theo định lý Pi: 𝜋1 = 𝑓 𝜋2 , 𝜋3
+Hay kết quả phân tích thứ nguyên của quá trình truyền khối đối lưu tự
+nhiên được biểu diễn có dạng: 𝑆ℎ = 𝑓 𝐺𝑟, 𝑆𝑐 .
+
+18/28
+
+2B.5 Xác định HSTK bằng thực nghiệm
+
+❑ Các thuyết tương tự: các quá trình truyền vận (khối, nhiệt và
+động lượng) với các điều kiện biên có các gradient được biểu diễn theo
+các chuẩn số vô thứ nguyên thì có sự tương tự giữa các quá trình.
+Sự tương tự cho phép tiên đoán lời giải cho các quá trình truyền vận.
+Điều kiện để sự tương tự xảy ra:
+1. Tính chất vật lý không đổi
+2. Không sinh ra nhiệt và vật chất trong hệ (rA = 0)
+3. Không phát xạ hoặc hấp thu bức xạ nhiệt
+4. Không phân tán độ nhớt
+5. Tốc độ truyền khối thấp để không ảnh hưởng đến vận tốc hệ
+- Tương tự Reynolds: thiết lập cho quá trình truyền nhiệt và truyền
+động lượng. Ứng dụng để phân tích hiện tượng lớp biên (boundary
+layer) phức tạp của khí động học.
+- Tương tự Chilton–Colburn: thiết lập cho quá trình truyền nhiệt và
+truyền khối đối lưu cho dòng chảy qua mặt phẳng. Cho phép xác định
+hệ số truyền vận chưa biết thông qua những thông tin của quá trình
+truyền vận khác.
+19/28
+
+2B.5 Xác định HSTK bằng thực nghiệm
+
+Bảng 3.2
+
+20/28
+
+2B.5 Xác định HSTK bằng thực nghiệm
+Các phương trình chuẩn số Sherwood để tính HSTK cho các quá trình
+truyền khối giữa các lưu chất hay lưu chất với chất rắn.
+
+a) Dòng chảy trong ống
+𝑆ℎ = 0,023𝑅𝑒 0,8 𝑆𝑐1/3
+
+𝜇
+𝜇𝑆
+
+0,14
+
+với  và S: độ nhớt của lưu chất trong dòng và tại bề mặt ống.
+Quá trình truyền khối:
+
+𝜇 0,14
+≈ 1.
+𝜇𝑆
+
+Đối quá trình bốc hơi chất lỏng trong cột thành ướt
+0,6 < 𝑆𝑐 < 2,5 → 𝑆ℎ = 0,023𝑅𝑒 0,81 𝑆𝑐 0,44
+Đối với quá trình có Sc cao
+430 < 𝑆𝑐 < 10.000
+→ 𝑆ℎ = 0,0096𝑅𝑒 0,913 𝑆𝑐 0,346
+
+21/28
+
+2B.5 Xác định HSTK bằng thực nghiệm
+b) Dòng chảy thẳng góc với hình trụ
+Giản đồ thể hiện mối quan hệ giữa thừa số truyền khối jD và Re.
+
+𝑆ℎ
+𝑗𝐷 =
+𝑅𝑒𝑆𝑐1/3
+𝑘𝑐 2/3
+= 𝑆𝑐
+𝑣
+Cho thấy sự trùng
+hợp giữa truyền
+nhiệt và truyền
+khối đối với dòng
+không khí chuyển
+động thẳng góc với
+ống hình trụ đơn.
+22/28
+
+2B.5 Xác định HSTK bằng thực nghiệm
+c) Dòng chảy qua hạt đơn hình cầu
+Hạt đơn hình cầu có đường kính Dh
+
+𝑆ℎ = 2,0 1 + 0,276𝑅𝑒1/2 𝑆𝑐1/3
+
+ℎ𝑎𝑦 𝑆ℎ =
+
+1/2
+2/3
+4,0 + 1,21𝑃𝑒
+
+Nếu quá trình truyền
+khối của hạt đơn hình
+cầu xảy ra trong môi
+trường đứng yên thì
+Shmin = 2
+
+23/28
+
+2B.5 Xác định HSTK bằng thực nghiệm
+
+d) Truyền khối trong tháp chêm
+Quá trình truyền khối và truyền nhiệt từ pha khí hoặc pha lỏng đến các
+hạt hình cầu hoặc các hạt rắn gần hình cầu tạo nên tầng hạt có độ rỗng
+40÷45% trong tháp chêm. Hình 3.8 cũng thể hiện sự so sánh truyền khối
+trong tháp chêm với truyền khối cho hạt hình cầu đơn.
+−0,415
+𝑘𝑐 2/3
+𝐷ℎ 𝐺
+𝑗𝐷 = 𝑆𝑐
+= 1,17
+ℎ𝑎𝑦 𝑆ℎ = 1,17𝑅𝑒 0,585 𝑆𝑐1/3
+𝑣
+𝜇
+e) Truyền khối đến các hạt lơ lửng
+- Đối lưu tự nhiên trong dung dịch hòa tan chất rắn:
+106 < 𝑆𝑐𝐺𝑟 < 1010 : 𝑆ℎ = 0,6 𝑆𝑐𝐺𝑟 0,25
+1010 < 𝑆𝑐𝐺𝑟:
+𝑆ℎ = 0,135 𝑆𝑐𝐺𝑟 0,33
+- Các hạt rắn lơ lửng trong chất lỏng:
+2 × 102 < 𝑅𝑒 < 2 × 105 : 𝑆ℎ = 𝑆𝑐 0,33 0,51𝑅𝑒 0,5 + 0,0224𝑅𝑒 0,78
+- Hòa tan ở trạng thái tầng sôi:
+𝑆ℎ = 0,3 𝑆𝑐𝐴𝑟 0,33 với Ar: chuẩn số Archimedes
+- Thiết bị có cánh khuấy: 𝑆ℎ = 0,267 𝑆𝑐 0,25 𝑁 0,33 𝑙0,33 /𝜗 0,75
+24/28
+𝑙: kích thước hình học đặc trưng
+
+2B.5 Xác định HSTK bằng thực nghiệm
+e) Truyền khối đến các hạt lơ lửng
+Khi các hạt rắn lơ lửng trong chất lỏng được khuấy trộn, vận tốc cân
+bằng của hạt trong chất lỏng đứng yên được dùng để tính Re.
+
+Ảnh hưởng của
+đường kính hạt
+và sai biệt khối
+lượng riêng lên
+HSTK tối thiểu
+được trình bày
+theo giản đồ.
+
+25/28
+
+2B.5 Xác định HSTK bằng thực nghiệm
+f) Truyền khối đến các giọt và bọt
+▪ Khi các giọt chất lỏng nhỏ rơi qua dòng khí, sức căng bề mặt có
+khuynh hướng làm cho các giọt gần như hình cầu và HSTK đến bề mặt
+giọt được lấy bằng HSTK cho các hạt cầu rắn.
+▪ Do lưu chất chuyển động qua bề mặt giọt sinh ra ứng suất cắt làm
+cho giọt có chuyển động hình xuyến nên giảm trở lực truyền khối bên
+trong và bên ngoài giọt. Độ nhớt của lưu chất bên trong và bên ngoài
+giọt; có hoặc không có các chất hoạt động bề mặt sẽ ảnh hưởng đến
+HSTK.
+▪ Giọt có độ nhớt thấp rơi qua chất lỏng nhớt không có chất hoạt động
+bề mặt sẽ không hiện diện lớp biên vận tốc trong lưu chất ngoài. Lưu
+chất tiếp xúc với giọt trong thời gian ngắn. Thời gian tiếp xúc hiệu
+dụng là thời gian để giọt rơi một khoảng cách bằng với đường kính
+giọt. Thuyết thẩm thấu được áp dụng để tính HSTK.
+𝐷𝐴𝐵 𝑣
+2 𝐷ℎ 𝑣𝜌 𝜇
+𝑘𝑐 = 2
+; 𝑆ℎ =
+𝜋𝐷ℎ
+𝜇 𝜌𝐷𝐴𝐵
+𝜋
+
+1/2
+
+26/28
+
+2B.5 Xác định HSTK bằng thực nghiệm
+f) Truyền khối đến các giọt và bọt
+Tương tự, truyền khối giữa bọt khí nổi lên qua chất lỏng.
+▪ Db  1 mm: xem là hạt hình cầu
+▪ Db  2 mm: có chuyển động tuần hoàn tự do
+▪ Db > vài mm: có hình dạng dẹt xuống và dao động khi nổi lên
+→ quá trình phức tạp, khó xác định HSTK.
+Đối với các giọt và bọt, trở lực truyền khối trong cả hai pha trong và
+ngoài có thể đáng kể. Khuếch tán bên trong giọt đứng yên (không có
+chuyển động tuần hoàn) là quá trình không ổn định → phải sử dụng
+HSTK hiệu dụng bên trong:
+
+10𝐷𝐴𝐵
+𝑘𝑐𝑖 =
+𝐷ℎ
+với DAB: hệ số khuếch tán bên trong giọt; Dh: đường kính giọt.
+
+27/28
+
+2B.6 Bài tập
+2.7 Xác định HSTK của pha khí trong tháp đệm dùng để hấp thu amoniac
+từ không khí bằng nước ở áp suất khí quyển và nhiệt độ 25 oC? Biết vận
+tốc dòng khí trong tháp là 0,4 m/s; đệm có kích thước hình học đặc
+trưng 0,055 m; quá trình được mô tả bằng phương trình truyền khối:
+𝑆ℎ = 0,407𝑅𝑒 0,655 𝑆𝑐 0,33
+2.8 Xác định HSTK của pha khí và pha lỏng trong tháp hấp thu amoniac
+từ không khí bằng nước ở áp suất khí quyển và nhiệt độ 25 oC? Biết lưu
+lượng pha lỏng 3000 kg/h; tốc độ dòng khí 1,13 m/s; khối lượng riêng
+pha khí ở điều kiện này là 1,2 kg/m3; đệm có có kích thước hình học đặc
+trưng là 0,0145 m; HSKT của amoniac trong pha khí là 9,3 x 10-6 m2/s,
+trong pha lỏng 1,25 x 10-9 m2/s; phương trình chuẩn số đối với pha khí:
+𝑆ℎ = 0,407𝑅𝑒 0,655 𝑆𝑐 0,33 , đối với pha lỏng: 𝑆ℎ = 0,0021𝑅𝑒 0,75 𝑆𝑐 0,5 ;
+màng lỏng có bề dày 4,55 x 10-5 m.
+2.9 Xác định thời gian để hạt muối giả sử hình cầu đường kính 1 mm tan
+hết trong nước đứng yên ở 30 oC? Biết ở nhiệt độ này HSKT của muối
+0,65 x 10-5 cm2/s; độ hòa tan của muối trong nước là 220 g/100 gH2O;
+khối lượng riêng của muối là 1500 kg/m3.
+28/28
+
+
