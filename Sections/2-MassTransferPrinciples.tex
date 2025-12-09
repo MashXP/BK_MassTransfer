@@ -67,6 +67,21 @@ The basic law governing molecular diffusion, formulated by Adolf Fick in 1885. I
 
 \section{Molecular Diffusion in Gases}
 
+\subsection{Convective Mass Transfer}
+When a fluid flows over a solid surface, mass transfer occurs under the influence of fluid motion (forced convection) in addition to molecular diffusion.
+\begin{itemize}
+    \item \textbf{Linear Driving Force Model:} The convective molar flux is often described using a mass-transfer coefficient $k_c$.
+    \begin{equation}
+        \N_A = k_c (c_{L1} - c_{Li})
+    \end{equation}
+    where:
+    \begin{itemize}
+        \item $k_c$ is the mass-transfer coefficient (m/s).
+        \item $c_{L1}$ is the bulk fluid concentration.
+        \item $c_{Li}$ is the concentration at the solid-fluid interface.
+    \end{itemize}
+\end{itemize}
+
 \subsection{Equimolar Counter-diffusion}
 A special case where for every mole of A that diffuses in one direction, one mole of B diffuses in the opposite direction.
 \begin{itemize}
@@ -113,7 +128,7 @@ A common scenario where one component (A) diffuses through another component (B)
 \end{itemize}
 
 \subsection{Diffusion through Varying Cross-Sectional Area}
-\subsubsection*{Diffusion from a Sphere}
+\subsubsection*{1. Diffusion from a Sphere}
 For component A diffusing from the surface of a sphere (radius $r_1$) into a stagnant medium B.
 \begin{itemize}
     \item \textbf{Flux at the sphere surface ($r=r_1$):}
@@ -137,6 +152,38 @@ A simplified form of the flux equation exists for the case of a dilute gas phase
         \N_A = \frac{2\Dab}{D_1} (\cVar_{A1} - \cVar_{A2})
     \end{equation}
     where $D_1 = 2r_1$ is the diameter of the sphere.
+\end{itemize}
+\subsubsection*{2. Diffusion through a Conduit of Non-Uniform Cross-Sectional Area}
+Consider diffusion through a tapered circular conduit where the radius changes linearly from $r_1$ at point 1 to $r_2$ at point 2 over a length $L = z_2 - z_1$.
+
+\begin{itemize}
+    \item \textbf{Geometry Relation:} The radius $r$ at any position $z$ is given by:
+    \begin{equation}
+        r = \left( \frac{r_2 - r_1}{z_2 - z_1} \right) z + r_1
+    \end{equation}
+    \item \textbf{Integrated Flux Equation:} For steady-state diffusion of A through stagnant B:
+    \begin{equation}
+        \N_A = \frac{\Dab \Ptot}{\Rgas \T (z_2 - z_1) \pbm} \left( \frac{r_1 r_2}{r_{avg}^2} \right) (\pVar_{A1} - \pVar_{A2})
+    \end{equation}
+    \textit{Note: The slides simplify the integration result effectively to:}
+    \begin{equation}
+         \bar{N}_A = \frac{\Dab \Ptot \pi r_1 r_2}{\Rgas \T (z_2 - z_1) \pbm} (\pVar_{A1} - \pVar_{A2})
+    \end{equation}
+    where $\bar{N}_A$ is the total molar rate (kg mol/s), not flux.
+\end{itemize}
+\subsubsection*{Pseudo-Steady State Diffusion (Falling Liquid Level)}
+A common experimental setup (Arnold Cell) involves a liquid A evaporating in a narrow tube into gas B. As A evaporates, the liquid level $z$ drops from $z_0$ to $z_F$ over time $t_F$.
+
+\begin{itemize}
+    \item \textbf{Assumption:} The process is slow enough that the diffusion across the gas path is "pseudo-steady."
+    \item \textbf{Derivation:} By equating the molar flux $\N_A$ to the rate of liquid density change:
+    \begin{equation}
+        \N_A = \frac{\rho_A}{M_A} \frac{dz}{dt} = \frac{\Dab \Ptot}{\Rgas \T z \pbm} (\pVar_{A1} - \pVar_{A2})
+    \end{equation}
+    \item \textbf{Time to Evaporate ($t_F$):} Integrating from $t=0, z=z_0$ to $t=t_F, z=z_F$:
+    \begin{equation}
+        t_F = \frac{\rho_A \Rgas \T \pbm (z_F^2 - z_0^2)}{2 \MA \Dab \Ptot (\pVar_{A1} - \pVar_{A2})}
+    \end{equation}
 \end{itemize}
 
 \subsection{Diffusion Coefficients for Gases}
@@ -230,84 +277,3 @@ Diffusion occurs through the tortuous paths within the porous structure.
         \N_A = \frac{\epsVoid \Dab}{\tortuosity (\zVar_2 - \zVar_1)} (\cVar_{A1} - \cVar_{A2}) = \frac{D_{A,eff}}{(\zVar_2 - \zVar_1)} (\cVar_{A1} - \cVar_{A2})
     \end{equation}
 \end{itemize}
-
-% \section{Formulas Summary}
-
-% \subsection{Fundamental Equations}
-% \subsubsection{General Transport Principle}
-% The fundamental relationship in transport phenomena can be expressed as:
-% \begin{equation}
-%     \text{Rate of Transfer} = \frac{\text{Driving Force}}{\text{Resistance}}
-% \end{equation}
-
-% \subsubsection{Fick's First Law}
-% For molar flux due to molecular diffusion, Fick's First Law is given by:
-% \begin{equation}
-%     \J_{Az} = -\Dab \frac{d\cVar_A}{d\zVar}
-% \end{equation}
-
-% \subsubsection{Total Molar Flux}
-% The total flux of a component is the sum of its diffusive flux and its convective flux:
-% \begin{equation}
-%     \N_A = \J_A^* + \cVar_A v_M
-% \end{equation}
-
-% \subsection{Diffusion in Gases (Steady State)}
-% \subsubsection*{Equimolar Counter-diffusion}
-% \begin{equation}
-%     \J_{Az} = \frac{\Dab (\pVar_{A1} - \pVar_{A2})}{\Rgas \T (\zVar_2 - \zVar_1)}
-% \end{equation}
-% \subsubsection*{A through Stagnant B}
-% \begin{align}
-%     \N_A &= \frac{\Dab \Ptot}{\Rgas \T (\zVar_2 - \zVar_1) \pbm} (\pVar_{A1} - \pVar_{A2}) \\
-%     \pbm &= \frac{\pVar_{B2} - \pVar_{B1}}{\ln(\pVar_{B2}/\pVar_{B1})}
-% \end{align}
-% \subsubsection*{General Case (Diffusion + Convection)}
-% \begin{equation}
-%     \N_A = -c\Dab \frac{d\xVar_A}{d\zVar} + \xVar_A(\N_A + \N_B)
-% \end{equation}
-% \subsubsection*{Diffusion from a Sphere (Stagnant B)}
-% \begin{align}
-%     \N_A|_{r=r_1} &= \frac{\Dab \Ptot}{\Rgas \T r_1 \pbm} (\pVar_{A1} - \pVar_{A2}) && \text{(Flux from surface)} \\
-%     t_F &= \frac{\rhoD_A r_1^2 \Rgas \T \pbm}{2 \MA \Dab \Ptot (\pVar_{A1} - \pVar_{A2})} && \text{(Time to evaporate)} \\
-%     \N_A &= \frac{2\Dab}{D_1} (\cVar_{A1} - \cVar_{A2}) && \text{(Dilute gas or liquid case)}
-% \end{align}
-% \subsubsection*{Two-Bulb Method for $\Dab$}
-% \begin{equation}
-%     \frac{c_{av} - c_2}{c_{av} - c_1} = \exp\left[ \frac{\Dab(V_1 + V_2)}{(L/A)V_2 V_1} t \right]
-% \end{equation}
-% \subsubsection*{Fuller et al. Equation for $\Dab$ (m$^2$/s)}
-% \begin{equation}
-%     \Dab = \frac{10^{-7} \T^{1.75} (1/\MA + 1/M_B)^{1/2}}{\Ptot [(\Sigma v_A)^{1/3} + (\Sigma v_B)^{1/3}]^2} \quad (\Ptot \text{ in atm, } \T \text{ in K})
-% \end{equation}
-% \subsubsection*{Schmidt Number}
-% \begin{equation}
-%     N_{Sc} = \frac{\mu}{\rhoD \Dab}
-% \end{equation}
-
-% \subsection{Diffusion in Liquids (Steady State)}
-% \subsubsection*{Equimolar Counter-diffusion}
-% \begin{align}
-%     \N_A &= \frac{\Dab \cav (\xVar_{A1}-\xVar_{A2})}{\zVar_2-\zVar_1} \\
-%     \cav &= \frac{1}{2}\left(\frac{\rho_1}{M_1} + \frac{\rho_2}{M_2}\right) && \text{(Average Molar Concentration)}
-% \end{align}
-% \subsubsection*{A through Stagnant B}
-% \begin{align}
-%     \N_A &= \frac{\Dab \cav}{(\zVar_2-\zVar_1)\xbm} (\xVar_{A1}-\xVar_{A2}) \\
-%     \xbm &= \frac{\xVar_{B2} - \xVar_{B1}}{\ln(\xVar_{B2}/\xVar_{B1})}
-% \end{align}
-% \subsubsection*{A through Stagnant B (Dilute Solution)}
-% \begin{equation}
-%     \N_A = \frac{\Dab(\cVar_{A1}-\cVar_{A2})}{\zVar_2-\zVar_1}
-% \end{equation}
-
-% \subsection{Diffusion in Solids (Steady State)}
-% \subsubsection*{Radial Diffusion in Cylinder}
-% \begin{equation}
-%     \bar{\N}_A = \Dab (\cVar_{A1} - \cVar_{A2}) \frac{2\pi L}{\ln(r_2/r_1)}
-% \end{equation}
-% \subsubsection*{Diffusion in Porous Solids}
-% \begin{align}
-%     \N_A &= \frac{\epsVoid \Dab}{\tortuosity (\zVar_2 - \zVar_1)} (\cVar_{A1} - \cVar_{A2}) 
-%     \\ D_{A,eff} &= \frac{\epsVoid}{\tortuosity} \Dab
-% \end{align}
