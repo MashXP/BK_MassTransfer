@@ -1,0 +1,115 @@
+% Cheatsheet for Vapor-Liquid Equilibrium and Distillation
+% Based on the presentation by Dr. Yose Fachmi Buys
+
+\newcommand{\yVar}{y} % Mole Fraction in Vapor
+\newcommand{\Pvap}{P^*} % Vapor Pressure of Pure Component
+\newcommand{\F}{F} % Molar Feed Rate
+\newcommand{\D}{D} % Molar Distillate Rate
+\newcommand{\B}{B} % Molar Bottoms Rate
+\newcommand{\Lvar}{L} % Molar Liquid Amount/Rate
+\newcommand{\fvap}{f} % Fraction of feed vaporized (Changed from \f to avoid conflict)
+\newcommand{\alphaRel}{\alpha} % Relative Volatility
+
+\section{Vapor-Liquid Equilibrium (VLE)}
+
+\subsection{Fundamental Concepts}
+\begin{itemize}
+    \item \textbf{Equilibrium:} A state where at constant temperature, pressure, and composition, a system is stable and does not change with time. In VLE, the rate of vaporization equals the rate of condensation for each component.
+    \item \textbf{Gibbs Phase Rule:} Determines the degrees of freedom (F) for a system at equilibrium.
+    \begin{equation}
+        F = C - P + 2
+    \end{equation}
+    where:
+    \begin{itemize}
+        \item $C$ is the number of components.
+        \item $P$ is the number of phases.
+        \item For a binary mixture (C=2) with two phases (P=2), there are F=2 degrees of freedom (e.g., Temperature and Pressure).
+    \end{itemize}
+\end{itemize}
+
+\subsection{Raoult's Law for Ideal Solutions}
+Describes the relationship between the partial pressure of a component in the vapor phase and its mole fraction in the liquid phase.
+\begin{itemize}
+    \item \textbf{Equation:} The partial pressure ($\pVar_i$) of component $i$ is the product of its mole fraction in the liquid ($\xVar_i$) and the vapor pressure of the pure component ($\Pvap_i$).
+    \begin{equation}
+        \pVar_i = \xVar_i \Pvap_i
+    \end{equation}
+    \item \textbf{Total Pressure (Dalton's Law):} For a binary mixture of A and B:
+    \begin{equation}
+        \Ptot = \pVar_A + \pVar_B = \xVar_A \Pvap_A + (1-\xVar_A) \Pvap_B
+    \end{equation}
+    \item \textbf{Vapor Phase Composition:}
+    \begin{equation}
+        \yVar_A = \frac{\pVar_A}{\Ptot} = \frac{\xVar_A \Pvap_A}{\Ptot}
+    \end{equation}
+\end{itemize}
+
+\subsection{Relative Volatility ($\alphaRel$)}
+A measure of the ease of separating two components. It is the ratio of their vapor-liquid distribution coefficients (K-values).
+\begin{itemize}
+    \item \textbf{Definition:} For components A and B:
+    \begin{equation}
+        \alphaRel_{AB} = \frac{K_A}{K_B} = \frac{\yVar_A/\xVar_A}{\yVar_B/\xVar_B}
+    \end{equation}
+    \item \textbf{For Ideal Systems (obeying Raoult's Law):}
+    \begin{equation}
+        \alphaRel_{AB} = \frac{\Pvap_A}{\Pvap_B}
+    \end{equation}
+    \item \textbf{Equilibrium Relationship:} The mole fraction in the vapor phase ($\yVar_A$) can be expressed in terms of the liquid phase ($\xVar_A$) and relative volatility:
+    \begin{equation}
+        \yVar_A = \frac{\alphaRel_{AB} \xVar_A}{1 + (\alphaRel_{AB} - 1)\xVar_A}
+    \end{equation}
+\end{itemize}
+
+\subsection{VLE Diagrams}
+\begin{itemize}
+    \item \textbf{T-x-y Diagram (Boiling Point Diagram):} Plots temperature vs. mole fraction at constant pressure. Contains the bubble point line (saturated liquid) and dew point line (saturated vapor).
+    \item \textbf{x-y Diagram:} Plots vapor mole fraction ($\yVar_A$) vs. liquid mole fraction ($\xVar_A$) at constant pressure. Essential for distillation calculations.
+\end{itemize}
+\section{Single-Stage Distillation Techniques}
+
+\subsection{Equilibrium or Flash Distillation}
+A single-stage process where a heated liquid feed is partially vaporized by reducing the pressure, and the resulting vapor and liquid phases are separated.
+\begin{itemize}
+    \item \textbf{Material Balances:}
+    \begin{align}
+        \text{Total:} \quad \F &= \D + \B \\
+        \text{Component:} \quad \F\xVar_F &= \D\yVar_D + \B\xVar_B
+    \end{align}
+    where $\F, \D, \B$ are feed, distillate (vapor), and bottoms (liquid) flow rates, and $\xVar_F, \yVar_D, \xVar_B$ are the respective mole fractions.
+    \item \textbf{Operating Line Equation:} Let $\fvap = \D/\F$ be the fraction of feed vaporized. The material balance can be rearranged into a linear equation (the operating line) that connects the compositions of the liquid and vapor products on an x-y diagram.
+    \begin{equation}
+        \yVar_D = -\frac{1-\fvap}{\fvap}\xVar_B + \frac{\xVar_F}{\fvap}
+    \end{equation}
+    \item \textbf{Solution:} The compositions ($\yVar_D$, $\xVar_B$) are found at the intersection of this operating line and the equilibrium curve.
+\end{itemize}
+
+\subsection{Simple Batch or Differential Distillation}
+A process where a charge of liquid (a batch) is boiled. The vapor formed is continuously removed and condensed. The composition of the liquid in the still, the vapor, and the distillate change over time.
+\begin{itemize}
+    \item \textbf{Rayleigh Equation:} Relates the initial and final amounts of liquid in the still to their compositions.
+    \begin{equation}
+        \ln\left(\frac{\Lvar_1}{\Lvar_2}\right) = \int_{\xVar_2}^{\xVar_1} \frac{d\xVar}{\yVar - \xVar}
+    \end{equation}
+    where $\Lvar_1, \xVar_1$ are the initial moles and mole fraction, and $\Lvar_2, \xVar_2$ are the final values.
+    \item \textbf{Solution:} The integral is typically solved graphically by plotting $1/(\yVar-\xVar)$ vs. $\xVar$ or numerically.
+    \item \textbf{With Constant Relative Volatility:} If $\alphaRel$ is constant, the Rayleigh equation can be integrated analytically:
+    \begin{equation}
+        \ln\left(\frac{\Lvar_1}{\Lvar_2}\right) = \frac{1}{\alphaRel-1} \left[ \ln\left(\frac{\xVar_1}{\xVar_2}\right) + \alphaRel \ln\left(\frac{1-\xVar_2}{1-\xVar_1}\right) \right]
+    \end{equation}
+\end{itemize}
+
+\subsection{Simple Steam Distillation}
+Used to separate high-boiling components from non-volatile impurities by boiling them with an immiscible liquid, typically water (steam).
+\begin{itemize}
+    \item \textbf{Principle:} The mixture boils when the sum of the partial pressures of the immiscible components equals the total system pressure.
+    \begin{equation}
+        \Ptot = \Pvap_A + \Pvap_B
+    \end{equation}
+    where $\Pvap_A$ and $\Pvap_B$ are the vapor pressures of pure water (A) and the organic component (B) at the boiling temperature of the mixture.
+    \item \textbf{Vapor Composition:} The composition of the vapor is determined by the ratio of the vapor pressures.
+    \begin{equation}
+        \yVar_A = \frac{\Pvap_A}{\Ptot} \quad ; \quad \yVar_B = \frac{\Pvap_B}{\Ptot}
+    \end{equation}
+    \item \textbf{Advantage:} Allows for vaporization of high-boiling compounds at a temperature well below their normal boiling point (e.g., at $<100^\circ$C at 1 atm).
+\end{itemize}
