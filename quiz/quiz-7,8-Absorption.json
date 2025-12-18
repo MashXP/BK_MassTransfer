@@ -340,14 +340,14 @@
     "answer": "To ensure uniform irrigation of the packing"
   },
   {
-    "question": "Calculate the mole fraction of oxygen in water at 298 K in equilibrium with air (0.21 atm O2) if H = $4.38 \times 10^4$ atm/mol fraction.",
+    "question": "Calculate the mole fraction of oxygen in water at 298 K in equilibrium with air (0.21 atm O2) if H = $4.38 \\times 10^4$ atm/mol fraction.",
     "options": [
-      "$4.8 \times 10^{-6}$",
-      "$9.2 \times 10^{-5}$",
-      "$2.1 \times 10^{-1}$",
-      "$4.38 \times 10^{4}$"
+      "$4.8 \\times 10^{-6}$",
+      "$9.2 \\times 10^{-5}$",
+      "$2.1 \\times 10^{-1}$",
+      "$4.38 \\times 10^{4}$"
     ],
-    "answer": "$4.8 \times 10^{-6}$"
+    "answer": "$4.8 \\times 10^{-6}$"
   },
   {
     "question": "If the inlet gas flow ($V_{N+1}$) is 30 kgmol/h with $y_{N+1}=0.01$, what is the flow rate of the solute entering?",

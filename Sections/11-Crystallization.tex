@@ -14,7 +14,7 @@
 \newcommand{\HeatCrys}{\Delta H_{crys}}   % Heat of Crystallization
 
 \section{Introduction to Crystallization}
-Crystallization is a specific mass transfer process involving the formation of solid crystals from a homogeneous solution. It is widely used to separate and purify substances.
+Crystallization is a specific mass transfer process involving the formation of solid crystals from a homogeneous solution. It is widely used to separate and purify substances. The two-phase mixture of mother liquor and crystals in the crystallizer is often called **magma**.
 
 \section{Solubility and Crystal Formation}
 The process relies on the relationship between solute concentration and temperature, often visualized using a solubility curve.
@@ -29,7 +29,7 @@ The process relies on the relationship between solute concentration and temperat
 \subsection{Mechanisms of Formation}
 The lifecycle of a crystal generally follows these steps:
 \begin{enumerate}
-    \item \textbf{Nucleation:} The birth of new solid particles (nuclei) from the liquid phase. This usually occurs at the metastable limit, which is influenced by factors such as agitation, impurities, and cooling rate.
+    \item \textbf{Nucleation:} The birth of new solid particles (nuclei) from the liquid phase. This usually occurs at the metastable limit. Factors influencing the metastable limit include agitation, impurities, and cooling rate. Atmospheric pressure typically has a negligible effect.
     \item \textbf{Crystal Growth:} Solute molecules diffuse from the bulk solution to the crystal surface and integrate into the crystal lattice, reducing the supersaturation.
 \end{enumerate}
 
@@ -52,6 +52,7 @@ Where:
     \item $\CrysMass$: Mass of wet crystals produced.
     \item $\MassFrac{i}{stream}$: Mass fraction of component $i$ (solute or solvent) in the respective stream.
 \end{itemize}
+To solve for unknowns (typically $\SolMass$ and $\CrysMass$), two independent equations are required (e.g., a Solute Balance and a Solvent/Water Balance).
 
 \subsection{Calculations Involving Hydrates}
 Many salts crystallize as hydrates (e.g., $Na_2CO_3 \cdot 10H_2O$). The water of crystallization must be accounted for in the solute balance.
@@ -76,6 +77,7 @@ Defined as the heat effect when a substance is dissolved.
     \item \textbf{Endothermic (+):} Heat is absorbed; the system cools down. Solubility typically increases with temperature.
     \item \textbf{Exothermic (-):} Heat is released; the system heats up. Solubility typically decreases with temperature.
 \end{itemize}
+When converting heat of solution from molar units (kJ/kg-mol) to specific units (kJ/kg), use the molecular weight of the **crystallizing species** (e.g., the hydrated salt).
 
 \subsection{Heat of Crystallization ($\HeatCrys$)}
 This is the reverse of the heat of solution.
@@ -91,7 +93,7 @@ The total heat transferred ($\HeatTrans$) to maintain the process temperature is
 \end{equation}
 Where:
 \begin{itemize}
-    \item $\Enthalpy_1$: Enthalpy of the feed solution.
+    \item $\Enthalpy_1$: Enthalpy of the feed solution. The enthalpy of the feed ($H_1$) is dominated by sensible heat: $\Enthalpy_1 = \FeedMass \cdot C_p \cdot (\Temp_{feed} - \Temp_{ref})$.
     \item $\Enthalpy_2$: Enthalpy of the final mixture (crystals + mother liquor).
     \item $\Enthalpy_V$: Enthalpy of the vapor (if evaporation occurs).
     \item $\HeatTrans$: Total heat load. A positive value indicates heat must be added, while a negative value indicates heat must be removed (cooling).

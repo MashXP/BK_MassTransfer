@@ -97,6 +97,10 @@ Humidity is a function of the partial pressure of water vapor ($\PartialPressure
     \begin{equation}
         \HumidVolume = (2.83 \times 10^{-3} + 4.56 \times 10^{-3} \Humidity) \DryBulbTemp \quad (\text{in m}^3/\text{kg dry air}, \text{ with } \DryBulbTemp \text{ in K})
     \end{equation}
+    \item \textbf{Density ($\rho$):} The density of the wet air mixture is calculated as:
+    \begin{equation}
+        \rho = \frac{1+\Humidity}{\HumidVolume} \quad (\text{in kg wet air/m}^3)
+    \end{equation}
 
     \item \textbf{Total Enthalpy ($\TotalEnthalpy$):} The enthalpy of 1 kg of dry air plus its water vapor, relative to a reference temperature ($\DryBulbTemp_0$).
     \begin{equation}
@@ -121,6 +125,7 @@ When a wet solid is in contact with air of a certain humidity, it will either lo
     \begin{equation}
         \text{Free Moisture} = (\text{Total Moisture}) - \EquilibriumMoisture
     \end{equation}
+    \item \textbf{Calculation Note:} To calculate the final moisture content ($X_2$) when removing a percentage ($P$) of free moisture: calculate initial free moisture $X_{free,1} = X_1 - X^*$, then $X_{free,2} = X_{free,1} \times (1 - P/100)$, and finally $X_2 = X_{free,2} + X^*$.
 \end{itemize}
 
 \section{Rate of Drying}
@@ -136,7 +141,7 @@ Where A is the exposed surface area.
 A plot of the drying rate versus moisture content (or time) typically shows two distinct periods:
 \begin{enumerate}
     \item \textbf{Constant-Rate Period:} The rate of drying is constant. The solid surface remains saturated with water, and the rate is limited by the rate of heat transfer to the surface, which provides the latent heat for evaporation. The surface temperature of the material is approximately equal to the wet-bulb temperature of the air.
-    \item \textbf{Falling-Rate Period:} The drying rate decreases as the moisture content falls. This period begins at the "critical moisture content." The mechanism of moisture movement within the solid (e.g., diffusion) becomes the limiting factor.
+    \item \textbf{Falling-Rate Period:} The drying rate decreases as the moisture content falls. This transition point, where the constant rate ends and the falling rate begins, is called the **Critical Moisture Content** (often labeled as point **C** on drying curves). The mechanism of moisture movement within the solid (e.g., diffusion) becomes the limiting factor.
 \end{enumerate}
 
 \subsection{Prediction of Constant-Rate Drying}
@@ -144,6 +149,8 @@ The constant drying rate ($\ConstantRate$) can be predicted using a heat transfe
 \begin{equation}
     \ConstantRate = \frac{\HeatTransferCoeff (\DryBulbTemp - \WetBulbTemp)}{\LatentHeat_w}
 \end{equation}
+The rate can also be expressed in terms of mass transfer: $\ConstantRate = \frac{\HeatTransferCoeff (\DryBulbTemp - \WetBulbTemp)}{\LatentHeat_w} = k_y M_{av} (\Humidity_w - \Humidity)$.
+
 The heat transfer coefficient ($\HeatTransferCoeff$) depends on the geometry and the mass velocity ($\MassVelocity$) of the air. For air flowing parallel to the surface:
 \begin{equation}
     \HeatTransferCoeff = 0.0204 \MassVelocity^{0.8}
@@ -152,4 +159,4 @@ And for air flowing perpendicular to the surface:
 \begin{equation}
     \HeatTransferCoeff = 1.17 \MassVelocity^{0.37}
 \end{equation}
-Where mass velocity is the product of air velocity ($v$) and air density ($\rho$).
+Where mass velocity is the product of air velocity ($v$) and air density ($\rho$). Note: When calculating $\MassVelocity$ ($kg/h \cdot m^2$) from velocity ($m/s$), multiply by 3600 to convert seconds to hours.

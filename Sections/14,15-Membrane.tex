@@ -27,12 +27,27 @@ In a typical membrane separation unit, the process involves the following stream
     \item \textbf{Sweep:} An optional external stream used to help remove the permeate.
 \end{itemize}
 
-\subsection{Membrane Materials}
-Membranes are classified based on their material composition and must maintain structural integrity (not dissolve or disintegrate) during operation.
+\subsection{Filtration Modes}
 \begin{itemize}
-    \item \textbf{Polymeric:} Includes organic membranes (e.g., sulfone, PVDF, polyamide, Teflon) and natural polymers (e.g., rubber, cellulose).
-    \item \textbf{Non-polymeric:} Includes inorganic membranes (e.g., ceramic, metal, zeolites) and liquid membranes.
-    \item \textbf{Hybrid:} Mixed Matrix Membranes (MMM) that combine organic and inorganic components.
+    \item \textbf{Dead-end Filtration:} Feed flows perpendicular to the membrane. Solids build up as a "cake," increasing resistance over time.
+    \item \textbf{Cross-flow Filtration:} Feed flows parallel to the membrane surface, which helps minimize cake formation.
+\end{itemize}
+
+\subsection{Membrane Materials and Types}
+Membranes are classified based on their material composition and pore size.
+\begin{itemize}
+    \item \textbf{Materials:} Polymeric (organic, e.g., Teflon, Cellulose Acetate), Inorganic (ceramic), and Hybrid.
+    \item \textbf{Microfiltration (MF):} Separates suspended particles. Pore size: $0.1 - 10 \mu m$.
+    \item \textbf{Ultrafiltration (UF):} Separates macromolecules. MWCO: $1,000 - 80,000$ Daltons.
+    \item \textbf{Nanofiltration (NF):} Rejects divalent ions; looser than RO.
+    \item \textbf{Reverse Osmosis (RO):} Tightest pores, driven by pressure.
+\end{itemize}
+
+\section{Other Membrane Processes}
+\begin{itemize}
+    \item \textbf{Dialysis:} Transport driven by concentration difference. Used in hemodialysis. The retentate is often called the dialysate (or blood side), and diffusate passes through.
+    \item \textbf{Electrodialysis:} Driven by applied electrical potential. Uses cation and anion exchange membranes to remove salts (e.g., $Na^+$ passes through cation exchange membrane).
+    \item \textbf{Pervaporation:} Combination of permeation and evaporation. Phase change from liquid to vapor occurs. Used for azeotrope separation (e.g., alcohol dehydration).
 \end{itemize}
 
 \section{Transport Mechanisms}
@@ -67,12 +82,22 @@ Separation occurs due to driving forces such as pressure, concentration, tempera
     \begin{equation}
         \Selectivity = \frac{P_A}{P_B}
     \end{equation}
+    \item \textbf{Solute Rejection ($R$) in RO:}
+    \begin{equation}
+        R = 1 - \frac{C_p}{C_f}
+    \end{equation}
 \end{itemize}
 
 \section{Liquid Permeation (Series Resistance Model)}
 For liquid permeation, the transport of solute is modeled using resistances in series: the liquid film on the feed side, the membrane itself, and the liquid film on the permeate side.
 
-\subsection{Flux Equation}
+\subsection{Flux Equation (RO)}
+In Reverse Osmosis, the solvent (water) flux $N_w$ depends on the net pressure driving force:
+\begin{equation}
+    N_w = A (\Delta P - \Delta \pi)
+\end{equation}
+Where $\Delta \pi$ is the osmotic pressure difference, calculated by Van't Hoff equation $\pi = \frac{n}{V}RT$.
+
 At steady state, the flux through each layer is equal:
 \begin{equation}
     \Flux = \MassTransferCoeff_1 (\C_1 - \C_{1i}) = \Permeance (\C_{1i} - \C_{2i}) = \MassTransferCoeff_2 (\C_{2i} - \C_{2})

@@ -374,10 +374,10 @@
     "options": [
       "Vertical (Undefined slope)",
       "Horizontal (Slope = 0)",
-      "Positive slope > 1",
+      "Positive slope (0 < m < 1)",
       "Negative slope (between 0 and 1)"
     ],
-    "answer": "Positive slope (0 < slope < 1 is typical for vapor-liquid mix, but superheated vapor has q < 0, resulting in a positive slope < 1)"
+    "answer": "Positive slope (0 < m < 1)"
   },
   {
     "question": "In the context of the Fenske equation, what does 'alpha_av' represent?",

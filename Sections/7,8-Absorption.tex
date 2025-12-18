@@ -1,4 +1,3 @@
-
 % --- Custom Commands for Variables ---
 \newcommand{\Linert}{L'}   % Molar Liquid Rate (Inert)
 \newcommand{\Vinert}{V'}   % Molar Gas Rate (Inert)
@@ -13,13 +12,15 @@
 \subsection{Core Concepts}
 \begin{itemize}
     \item \textbf{Absorption:} A mass transfer operation where one or more soluble components (solutes) are removed from a gas phase by dissolving them into a liquid phase (solvent or absorbent).
-    \item \textbf{Desorption or Stripping:} The reverse of absorption, where a solute is transferred from the liquid phase to the gas phase. It is often used to regenerate the solvent.
+    \item \textbf{Desorption or Stripping:} The reverse of absorption, where a solute is transferred from the liquid phase to the gas phase. It is often used to regenerate the solvent. The \textbf{Stripping Factor (S)} is defined as the inverse of the absorption factor: $S = 1/\AbsFactor = (\mEq \Vvar) / \Lvar$.
     \item \textbf{Key Components:}
     \begin{itemize}
         \item \textbf{Solute (A):} The component being transferred from the gas to the liquid.
         \item \textbf{Inert Gas (B):} The bulk gas component, assumed to be insoluble in the liquid.
         \item \textbf{Solvent (C):} The liquid used to absorb the solute, assumed to be non-volatile.
     \end{itemize}
+    \item \textbf{Solvent Selection:} Ideally, solvents should have low volatility, high solubility for the solute, and low cost. Common examples include water, hydrocarbon oils, and aqueous amines (MEA/DEA) for removing acid gases like $H_2S$ and $CO_2$.
+    \item \textbf{Thermal Effects:} Absorption is usually exothermic, leading to an increase in liquid temperature.
 \end{itemize}
 
 \section{Gas-Liquid Equilibrium (GLE)}
@@ -101,7 +102,7 @@ A graphical procedure on the $x$–$y$ diagram determines the number of theoreti
 
 \begin{enumerate}
     \item \textbf{Plot Data:} Plot the equilibrium line ($\yVar = \mEq \xVar$) and the operating line. The operating line connects the tower's top conditions $(\xVar_{A,\text{in}}, \yVar_{A,\text{out}})$ with its bottom conditions $(\xVar_{A,\text{out}}, \yVar_{A,\text{in}})$.
-    \item \textbf{Step Off Stages:} Starting from the bottom point $(\xVar_{A,\text{out}}, \yVar_{A,\text{in}})$ on the operating line, draw a horizontal line to the equilibrium curve, then a vertical line back to the operating line. This completes one theoretical stage.
+    \item \textbf{Step Off Stages:} Starting from the bottom point $(\xVar_{A,\text{out}}, \yVar_{A,\text{in}})$ on the operating line, draw a horizontal line to the equilibrium curve, then a vertical line back to the operating line. The vertical distance between the operating and equilibrium lines represents the driving force for mass transfer. This completes one theoretical stage.
     \item \textbf{Repeat:} Continue this "staircase" construction until the liquid mole fraction is less than or equal to the desired inlet composition $\xVar_{A,\text{in}}$.
     \item \textbf{Count Stages:} The number of steps gives the number of theoretical stages, $\Nstages$.
 \end{enumerate}

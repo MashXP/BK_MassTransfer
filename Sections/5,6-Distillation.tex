@@ -7,59 +7,6 @@
 \newcommand{\Nmin}{N_{\text{min}}} % Minimum number of stages
 \newcommand{\Rmin}{R_{\text{min}}} % Minimum reflux ratio
 
-\section{Vapor-Liquid Equilibrium (VLE)}
-
-\subsection{Fundamental Concepts}
-\begin{itemize}
-    \item \textbf{Distillation:} A method to separate liquid solution components based on differences in their volatilities, which governs their distribution between vapor and liquid phases.
-    \item \textbf{Equilibrium:} In VLE, the rate of vaporization equals the rate of condensation for each component. The vapor phase is enriched in the more volatile component.
-    \item \textbf{Gibbs Phase Rule:} Determines the degrees of freedom (F) for a system at equilibrium.
-    \begin{equation}
-        F = C - P + 2
-    \end{equation}
-    where $C$ is the number of components and $P$ is the number of phases. For a binary mixture (C=2) in VLE (P=2), F=2 degrees of freedom exist (e.g., Temperature and Pressure can be fixed).
-\end{itemize}
-
-\subsection{Raoult's Law for Ideal Solutions}
-Describes the relationship between the partial pressure of a component in the vapor phase and its mole fraction in the liquid phase.
-\begin{itemize}
-    \item \textbf{Equation:} The partial pressure ($\pVar_i$) of component $i$ is the product of its mole fraction in the liquid ($\xVar_i$) and the vapor pressure of the pure component ($\Pvap_i$).
-    \begin{equation}
-        \pVar_i = \xVar_i \Pvap_i
-    \end{equation}
-    \item \textbf{Total Pressure (Dalton's Law):} For a binary mixture of A and B:
-    \begin{equation}
-        \Ptot = \pVar_A + \pVar_B = \xVar_A \Pvap_A + (1-\xVar_A) \Pvap_B
-    \end{equation}
-    \item \textbf{Vapor Phase Composition:}
-    \begin{equation}
-        \yVar_A = \frac{\pVar_A}{\Ptot} = \frac{\xVar_A \Pvap_A}{\Ptot}
-    \end{equation}
-\end{itemize}
-
-\subsection{Relative Volatility ($\alphaRel$)}
-A measure of the ease of separating two components. It is the ratio of their vapor-liquid distribution coefficients (K-values).
-\begin{itemize}
-    \item \textbf{Definition:} For components A and B (A is more volatile):
-    \begin{equation}
-        \alphaRel_{AB} = \frac{K_A}{K_B} = \frac{\yVar_A/\xVar_A}{\yVar_B/\xVar_B} > 1
-    \end{equation}
-    \item \textbf{For Ideal Systems (obeying Raoult's Law):}
-    \begin{equation}
-        \alphaRel_{AB} = \frac{\Pvap_A}{\Pvap_B}
-    \end{equation}
-    \item \textbf{Equilibrium Relationship (The Equilibrium Curve):} This equation plots the equilibrium curve on an x-y diagram.
-    \begin{equation}
-        \yVar_A = \frac{\alphaRel_{AB} \xVar_A}{1 + (\alphaRel_{AB} - 1)\xVar_A}
-    \end{equation}
-\end{itemize}
-
-\subsection{VLE Diagrams}
-\begin{itemize}
-    \item \textbf{T-x-y Diagram (Boiling Point Diagram):} Plots temperature vs. mole fraction at constant pressure. Contains the bubble point line (saturated liquid) and dew point line (saturated vapor).
-    \item \textbf{x-y Diagram:} Plots vapor mole fraction ($\yVar_A$) vs. liquid mole fraction ($\xVar_A$) at constant pressure. Essential for McCabe-Thiele calculations.
-\end{itemize}
-
 \section{Single-Stage Distillation Techniques}
 
 \subsection{Equilibrium or Flash Distillation}
@@ -80,21 +27,21 @@ A continuous, single-stage process where a heated liquid feed is partially vapor
 \end{itemize}
 
 \subsection{Simple Batch or Differential Distillation}
-An unsteady-state process where a charge of liquid is boiled, and the vapor is continuously removed and condensed. Compositions change with time.
+An unsteady-state process where a charge of liquid is boiled, and the vapor is continuously removed and condensed. Compositions change with time; the liquid becomes leaner in the more volatile component.
 \begin{itemize}
     \item \textbf{Rayleigh Equation:} Relates initial and final amounts of liquid to their compositions.
     \begin{equation}
         \ln\left(\frac{\Lvar_1}{\Lvar_2}\right) = \int_{\xVar_2}^{\xVar_1} \frac{d\xVar}{\yVar - \xVar}
     \end{equation}
     where $\Lvar_1, \xVar_1$ are initial moles and mole fraction, and $\Lvar_2, \xVar_2$ are final values. The integral is solved graphically or numerically.
-    \item \textbf{With Constant Relative Volatility:} If $\alphaRel$ is constant, the equation can be integrated analytically:
+    \item \textbf{With Constant Relative Volatility:} If $\alphaRel$ is constant (Note: If $\alphaRel = 1$, separation is impossible), the equation can be integrated analytically:
     \begin{equation}
         \ln\left(\frac{\Lvar_1}{\Lvar_2}\right) = \frac{1}{\alphaRel-1} \left[ \ln\left(\frac{\xVar_1}{\xVar_2}\right) + \alphaRel \ln\left(\frac{1-\xVar_2}{1-\xVar_1}\right) \right]
     \end{equation}
 \end{itemize}
 
 \subsection{Simple Steam Distillation}
-Used to separate high-boiling, temperature-sensitive components from non-volatile impurities by co-distilling with an immiscible liquid (water).
+Used to separate high-boiling, temperature-sensitive components from non-volatile impurities by co-distilling with an immiscible liquid (water). This process is a special case of differential distillation where no reflux is used and vapors are removed as they form.
 \begin{itemize}
     \item \textbf{Principle:} The mixture boils when the sum of the partial pressures (equal to the pure component vapor pressures) equals the total system pressure.
     \begin{equation}
@@ -123,7 +70,7 @@ A graphical method for determining the number of theoretical stages for a binary
     \begin{equation}
         \yVar_{n+1} = \frac{\Lvar}{\Vvar} \xVar_n + \frac{\D}{\Vvar} \xVar_D
     \end{equation}
-    Using the reflux ratio $\R = \Lvar/\D$ and $\Vvar = \Lvar + \D$, this becomes:
+    Using the reflux ratio $\R = \Lvar/\D$ (established by a Total Condenser) and $\Vvar = \Lvar + \D$, this becomes:
     \begin{equation}
         \yVar_{n+1} = \frac{\R}{\R+1} \xVar_n + \frac{1}{\R+1} \xVar_D
     \end{equation}
@@ -150,15 +97,17 @@ Represents the thermal condition of the feed. It is the locus of intersection po
     This line passes through $(\xVar_F, \xVar_F)$ with a slope of $\frac{\q}{\q-1}$.
     \item \textbf{Feed Conditions and q-line Slope:}
     \begin{center}
-        \begin{tabular}{|l|c|c|}
+        \resizebox{\columnwidth}{!}{%
+        \begin{tabular}{|l|l|c|c|}
             \hline
-            \textbf{Feed Condition} & \textbf{q Value} & \textbf{Slope ($\q/(\q-1)$)} \\ \hline
-            Subcooled Liquid        & $\q > 1$         & Positive ($>1$)                 \\
-            Saturated Liquid        & $\q = 1$         & Infinite (Vertical)             \\
-            Liquid + Vapor Mix      & $0 < \q < 1$     & Negative                        \\
-            Saturated Vapor         & $\q = 0$         & Zero (Horizontal)               \\
-            Superheated Vapor       & $\q < 0$         & Positive ($<1$)                 \\ \hline
-        \end{tabular}
+            \textbf{Feed Condition} & \textbf{Description} & \textbf{q Value} & \textbf{Slope ($\q/(\q-1)$)} \\ \hline
+            Subcooled Liquid        & $T < T_{\text{bubble}}$ & $\q > 1$         & Positive ($>1$)                 \\
+            Saturated Liquid        & $T = T_{\text{bubble}}$ & $\q = 1$         & Infinite (Vertical)             \\
+            Liquid + Vapor Mix      & $T_{\text{bubble}} < T < T_{\text{dew}}$ & $0 < \q < 1$     & Negative                        \\
+            Saturated Vapor         & $T = T_{\text{dew}}$    & $\q = 0$         & Zero (Horizontal)               \\
+            Superheated Vapor       & $T > T_{\text{dew}}$    & $\q < 0$         & Positive ($<1$)                 \\ \hline
+        \end{tabular}%
+        }
     \end{center}
 \end{itemize}
 
@@ -181,6 +130,7 @@ Represents the thermal condition of the feed. It is the locus of intersection po
         \begin{equation}
             \Nmin = \frac{\log \left[ \left( \frac{\xVar_D}{1-\xVar_D} \right) \left( \frac{1-\xVar_B}{\xVar_B} \right) \right]}{\log(\alphaRel_{av})}
         \end{equation}
+        where $\alphaRel_{av} = \sqrt{\alphaRel_{\text{top}} \alphaRel_{\text{bottom}}}$ is the geometric mean relative volatility.
     \end{itemize}
     \item \textbf{Minimum Reflux ($\Rmin$):} The lowest reflux ratio that can achieve the desired separation. The intersection of the operating lines occurs on the equilibrium curve (the "pinch point"). This condition requires an \textbf{infinite number of stages}.
     \item \textbf{Optimum Reflux Ratio:} The actual operating reflux ratio is an economic trade-off between capital cost (number of stages) and operating cost (energy for reboiler/condenser). It is typically in the range of $\mathbf{1.2 \Rmin}$ to $\mathbf{1.5 \Rmin}$.
